@@ -1,0 +1,4154 @@
+wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
+#important: data types (pinyin, qy_ipa, etc.) are tab (\t) separated.'NEW_ENTRY' separates different sets of pronunciation for the same character.
+鵠	hú gǔ	ɣuok kuok	gouk kouk	gûk kûk
+飾	shì	śjək	śɨk	lhək
+葵	kuí	gwi	gwi	gwi
+羹	gēng	kɐŋ	kaŋ	krâŋ
+歇	xiē	xjɐt	hɨɑt	hat
+葩	pā	pʰa	pʰa	NEW_ENTRYpā	pʰa		
+桂	guì	kiweiᶜ	kueᶜ	kwêh
+鴦	yāng	ʔjaŋ	ʔɨɑŋ	ʔɑŋ
+絕	jué	dzjwät	dzyat	dzot
+芝	zhī	tśɨ	tśɨ tśə	tə
+兮	xī	ɣiei	ɣei	gî
+大	dà dài	dâiᶜ	dɑs dɑh	dâsNEW_ENTRYdà dài	dâiᶜ	dɑᶜ dɑs	*dâs
+返	fǎn	pjwɐnᴮ	puɑnᴮ	panʔ
+晚	wǎn	mjwɐnᴮ	muɑnᴮ	manʔ
+憙	xǐ	xjɨᴮ	hɨəᴮ hɨᴮ	həʔ
+俙	xī	xjei	hɨi	həi
+慚	cuō3	tsʰâ,dzâ		
+貸	dài2			NEW_ENTRYdài tè	tʰậiᶜ	tʰəᶜ	*lhə̂kh
+潏	jué10			NEW_ENTRYjué yù	kiwet,juet	kuet juit jut	*kwît *witNEW_ENTRYyù28		kuet juit jut	
+蔚	wèi11			NEW_ENTRYwèi10 yù	Ɂjweiᶜ,Ɂjuət	Ɂus Ɂut	*Ɂuts *Ɂut
+阿	ā	Ɂâ		
+於	yú	Ɂjwo	Ɂiɑ	*ɁaNEW_ENTRYyú8	Ɂjwo	Ɂiɑ	*ɁaNEW_ENTRYyú9			
+哀	āi	Ɂậi	Ɂəi	*Ɂə̂i
+崖	ái			NEW_ENTRYyá3 ái	ŋai	ŋaɨ	*ŋrê
+涯	ái			NEW_ENTRYyá3 ái	ŋai	ŋaɨ	*ŋrê
+睚	ái			NEW_ENTRYyá3 ái	ŋai	ŋaɨ	*ŋrê
+藹	ǎi			NEW_ENTRYǎi	ʔâiᶜ	ʔɑs	*ʔâts
+艾	ài1	ŋâiᶜ	ŋɑs	*ŋâs *ŋâtsNEW_ENTRYyì2	ŋjɐiᶜ	ŋiɑs	*ŋas *ŋats
+愛	ài2	Ɂậiᶜ	Ɂəs	*Ɂə̂s
+僾	ài3	Ɂậiᶜ	Ɂəs	*Ɂə̂ts
+薆	ài4			NEW_ENTRYài	Ɂ˘ậiᶜ	Ɂəs	*Ɂə̂s
+礙	ài5	ŋậiᶜ	ŋəᶜ	*ŋə̂khNEW_ENTRYxī17	xjie 3	hiɑi	
+安	ān1	Ɂân	Ɂɑn	*ɁânNEW_ENTRYān2			NEW_ENTRYān	Ɂân	Ɂɑn	*Ɂân
+按	àn	Ɂânᶜ	Ɂɑnᶜ	*Ɂâns
+鞍	ān3	Ɂân	Ɂɑn	*Ɂân
+喑	ān4	Ɂậm	Ɂəm	*Ɂə̂mNEW_ENTRYyìn	Ɂjəmᶜ	Ɂimᶜ	*ɁəmsNEW_ENTRYyìn1			
+唵	ǎn	Ɂậmᴮ	Ɂəmᴮ	*Ɂə̂mɁNEW_ENTRYǎn1			
+晻	ǎn2			NEW_ENTRYǎn	Ɂjämᴮ 3,Ɂậmᴮ	Ɂəmᴮ Ɂiɑmᴮ	*ɁamɁ
+犴	àn1			NEW_ENTRYàn	ŋânᶜ	ŋɑnᶜ	*ŋâns
+岸	àn2	ŋânᶜ	ŋɑnᶜ	*ŋâns
+厂	hàn	xânᶜ	hɑnᶜ	*hŋânsNEW_ENTRYhàn1			
+滸	hǔ	xuoᴮ	hɑᴮ	*hŋâɁNEW_ENTRYhǔ3			
+黯	àn3	Ɂậmᴮ	Ɂəmᴮ	*Ɂə̂mɁ
+暗	àn	Ɂậmᶜ	Ɂəmᶜ	*Ɂə̂ms
+闇	àn	Ɂậmᶜ	Ɂəmᶜ	*Ɂə̂ms
+卬	áng1			NEW_ENTRYáng2			NEW_ENTRYáng	ŋâŋ	ŋɑŋ	*ŋâŋ
+昂	áng1			NEW_ENTRYáng	ŋâŋ	ŋɑŋ	*ŋâŋ
+盎	àng	Ɂâŋᶜ	Ɂɑŋᶜ	*Ɂâŋh
+鼇	áo1			NEW_ENTRYáo	ŋâu	ŋɑu	*ŋâu
+嗷	áo2	ŋâu	ŋɑu	*ŋâu
+熬	áo3	ŋâu	ŋɑu	*ŋâu
+澳	ào1	Ɂâuᶜ	Ɂouᶜ	*Ɂûkh
+隩	ào1	Ɂâuᶜ	Ɂouᶜ	*Ɂûkh
+傲	ào2	ngâuᶜ	ŋɑuᶜ	*ŋâuh
+八	bā1	pwăt	pɛt	*prêt
+巴	bā2	pa	pa	*prâNEW_ENTRYchōng4	tśʰjwoŋ	tśʰoŋ	*thoŋ
+笆	bā3	baᴮ,pa		NEW_ENTRYbā	pa		
+疤	bā4	pa	pa	
+豝	bā5	pa	pa	*prâ
+胈	bā6			NEW_ENTRYbā	puât	pɑt	*pât
+犮	bá1	buât	bɑt	*bât
+拔	bèi pèi	buâiᶜ	bɑs	*bâtsNEW_ENTRYbá	bwăt	bat	*brâtNEW_ENTRYbá4			NEW_ENTRYbèi7 pèi			
+沛	bèi pèi	buâiᶜ	bɑs	*bâtsNEW_ENTRYbèi7 pèi			NEW_ENTRYpèi			
+茇	bá2	puât	pɑt	*pâtNEW_ENTRYbá3	buât	bɑt	*bât
+跋	bá3a	buât	bɑt	*bâtNEW_ENTRYbá5			
+耙	bá6			NEW_ENTRYpá2 bá	ba[ᶜ]	ba baᶜ	*brâ *brâh
+杷	bá6			NEW_ENTRYpá2 bá	ba[ᶜ]	ba baᶜ	*brâ *brâh
+把	bǎ	paᴮ	paᴮ	*prâɁ
+爸	bà-bà			
+莇	bà1	paᶜ		
+罷	bà2	baiᴮ	baiᴮ	*brêɁNEW_ENTRYpí7	bje 3	biɑi	*bai
+霸	bà3			NEW_ENTRYbà	paᶜ	paᶜ	*prâkhNEW_ENTRYpò5	pʰɐk	pʰak	*phrâkNEW_ENTRYpò6			
+白	bái1	bɐk	bak	*brâk
+百	bǎi1	pɐk	pak	*prâkNEW_ENTRYdèng	təŋᶜ	təŋᶜ	*tə̂ŋh
+捭	bǎi2	paiᴮ	pɛᴮ	*prêɁNEW_ENTRYbò6			
+敗	bài1	paiᶜ	pas	*prâtsNEW_ENTRYbài	baiᶜ	bas	*brâts
+拜	bài2	păiᶜ	pas	*prâts
+粺	bài3	baiᶜ	bɛᶜ	*brêh
+班	bān1	pwan	pan	*prânNEW_ENTRYqīn	kʰjəm,ŋjəmᴮ	kʰim ŋimᴮ	*kʰə̂mNEW_ENTRYqīn4			
+斑	bān2	pwan	pan	*prân
+搬	bān3	puân	pɑn	
+板	bǎn1	pwanᴮ	panᴮ	*prânɁ
+版	bǎn1	pwanᴮ	panᴮ	*prânɁ
+昄	bǎn2	pwanᴮ,bwanᴮ	panᴮ banᴮ	*prânɁ *brânɁ
+半	bàn1	puânᶜ	pɑnᶜ	*pâns
+判	pàn	pʰuânᶜ	pʰɑnᶜ	*pʰânsNEW_ENTRYpàn2			
+片	pàn	pʰuânᶜ	pʰɑnᶜ	*pʰânsNEW_ENTRYpàn2			NEW_ENTRYpiàn	pʰienᶜ	pʰenᶜ	*phênsNEW_ENTRYpiàn			
+泮	pàn	pʰuânᶜ	pʰɑnᶜ	*pʰâns
+畔	pàn	buânᶜ	bɑnᶜ	*bânsNEW_ENTRYpàn3			
+釆	bàn2 biàn	bănᶜ,bjänᶜ 3 [Shiwen]	bɛnᶜ bɨanᶜ	*brens
+瓣	bàn	bănᶜ	bɛnᶜ	NEW_ENTRYbàn4	bănᶜ	bɛnᶜ	
+辨	biàn	bjänᴮ 3	bianᴮ	*banɁ *brenɁNEW_ENTRYbiàn5			
+辯	biàn	bjänᴮ 3	bianᴮ	*banɁ *brenɁNEW_ENTRYbiàn5			
+辦	bàn3	bănᶜ	bɛnᶜ	*brâns
+邦	bāng	påŋ	pɔŋ	*prôŋ
+榜	bǎng1	pwâŋᴮ	pɑŋᴮ	*pâŋɁNEW_ENTRYbèng2			
+膀	bǎng2			
+棒	bàng1	båŋᴮ	bɔŋᴮ	*brôŋɁ
+旁	bàng2			NEW_ENTRYpáng	bwâŋ	bɑŋ	*bâŋNEW_ENTRYbàng	bwâŋᶜ	bɑŋᶜ	*bâŋh
+徬	bàng2			NEW_ENTRYbàng	bwâŋᶜ	bɑŋᶜ	*bâŋh
+艕	bàng3 huáng			NEW_ENTRYbàng huáng	pwâŋᶜ,Ɣwâŋ		
+艎	bàng3 huáng			NEW_ENTRYbàng huáng	pwâŋᶜ,Ɣwâŋ		
+包	bāo1	pau	pɔu	*prû
+胞	bāo2	pau,pʰau	pɔu	*prû *phrû
+剝	bāo3	påk	pɔk	*prôk.NEW_ENTRYbō3			
+保	bǎo1	pâuᴮ	pouᴮ	*pûɁ
+葆	bǎo1	pâuᴮ	pouᴮ	*pûɁ
+褓	bǎo1	pâuᴮ	pouᴮ	*pûɁ
+飽	bǎo2	pauᴮ	pɔuᴮ	*prûɁ
+寶	bǎo3	pâuᴮ	pouᴮ	*pûɁ
+抱	bào1	bâuᴮ	bouᴮ	*bûɁ
+報	bào2	pâuᶜ	pouᶜ	*pûhNEW_ENTRYbào			
+卑	bēi1	pjie 4	pie	*pe
+埤	bì	bjieᴮ 4	bieᴮ	*beɁNEW_ENTRYbì21			
+庳	bì	bjieᴮ 4	bieᴮ	*beɁNEW_ENTRYbì21			
+婢	bì	bjieᴮ 4	bieᴮ	*beɁNEW_ENTRYbèi8			NEW_ENTRYbì21			
+惇	bēi2 bī	pje 3	piɑi	*paiNEW_ENTRYbì	pjeᶜ 3	piɑiᶜ	*paihNEW_ENTRYbì14			NEW_ENTRYdūn1	tuən	tuən	*tûnNEW_ENTRYzhūn2			
+頗	pō	pʰuâ	pʰɑi	*phâiNEW_ENTRYpō			
+坡	pō	pʰuâ	pʰɑi	*phâiNEW_ENTRYpō			
+僻	pì	pʰjiäk 4	pʰiek	*phek phai-k)NEW_ENTRYpì2			
+避	bì	bjieᶜ 4	bieᶜ	*bekh *bai-ks)NEW_ENTRYbì18			
+杯	bēi3	puậi	pə	*pə̂
+桮	bēi3	puậi	pə	*pə̂
+悲	bēi4	pij 3	pii	*prəi
+北	běi			NEW_ENTRYběi	pək	pək	*pə̂k
+貝	bèi2	puâiᶜ	pɑs	*pâts *pops
+否	bèi3	bjiᴮ 3	biəᴮ	*brəɁNEW_ENTRYfǒu	pjəuᴮ		NEW_ENTRYfǒu2			
+愎	bì	bjək	bik	*brəkNEW_ENTRYbì29			
+倍	bèi4	buậiᴮ	bəᴮ	*bə̂Ɂ
+陪	péi	buậi	bə	*bə̂NEW_ENTRYpéi			
+培	péi	buậi	bə bəuᴮ	*bə̂NEW_ENTRYpǒu	bù	bə bəuᴮ	boᴮNEW_ENTRYpéi		bə bəuᴮ	NEW_ENTRYpǒu		bə bəuᴮ	
+裒	póu	bəu	bo	*bô *bə̂NEW_ENTRYpóu			
+備	bèi5	bjiᶜ 3	biəᶜ	*brəh
+被	bèi6	bjieᴮ/ᶜ 3	biɑiᴮ biɑiᶜ	*baiɁ/hNEW_ENTRYpī	pʰjie 3	pʰiɑi	*phaiNEW_ENTRYpì	pʰjieᶜ 3	pʰiɑiᶜ	*phaih
+背	bèi9			NEW_ENTRYbèi	buậiᶜ	bəᶜ	*bə̂kh *bə̂ɁhNEW_ENTRYbèi	puậiᶜ	pəᶜ	*pə̂kh
+奔	bēn1	puən	pən	*pə̂n
+賁	bēn2	puən	pən	*pə̂n
+本	běn	puənᴮ	pənᴮ	*pə̂nɁ
+笨	bèn	puənᶜ		
+伻	bēng1			NEW_ENTRYpēng	pʰɛŋ	pʰɛŋ	*phrêŋ
+崩	bēng2	pəŋ	pəŋ	*pə̂ŋ.NEW_ENTRYwú	mjuət,xuət	mut huət	*mət *hmə̂t *hmət
+繃	bēng3			NEW_ENTRYbēng	pɛŋ	pɛŋ	*prə̂ŋ
+菶	běng			NEW_ENTRYběng	puŋᴮ,buŋᴮ	boŋᴮ poŋᴮ	*pôŋɁ *bôŋɁ
+迸	bèng1			NEW_ENTRYbèng	pɛŋᶜ	pɛŋᶜ	*prêŋh
+塴	bèng	pəŋᶜ	pəŋᶜ	*pə̂ŋh
+屄	bī1	pjie 4		< *pe *pet
+偪	bī2	pjək	pik	*prək
+逼	bī2	pjək	pik	*prək
+鼻	bí	bjiet 4		NEW_ENTRYbì	biᶜ 4	bis	*bits *bisNEW_ENTRYbì	biᶜ 4		NEW_ENTRYbì9			
+比	bǐ1	piᴮ 4	piᴮ	*piɁNEW_ENTRYbì	piᶜ 4	piᶜ	*pihNEW_ENTRYbì	biᶜ 4	biᶜ	*bihNEW_ENTRYbì1			
+頻	pín	bjien 4	bin	*binNEW_ENTRYpín2			
+妣	bǐ2	piᴮ/ᶜ 4	piᶜ piᴮ	*piɁ pih
+秕	bǐ3	piᴮ 4	piᴮ	*piɁNEW_ENTRYbì2	bjiᶜ 4		
+疕	bǐ4	pʰjiᴮ 3,pʰjeᴮ 3,pjiᴮ 3	pʰiᴮ pʰieᴮ	*phəiɁ *phaiɁ *pəiɁNEW_ENTRYpǐ5			
+彼	bǐ5			NEW_ENTRYbǐ	pjeᴮ 3	piɑiᴮ	*paiɁ *paɁi pa+i
+筆	bǐ6	pjet 3	pit	*prjut
+鄙	bǐ7	pjiᴮ 3	piəᴮ	*prəɁ
+俾	bǐ8	pjieᴮ 4	pieᴮ	*peɁ
+必	bì3	pjiet 4	pit	*pit
+泌	bì4	pjiᶜ 3	pis	*prits
+柲	bì5	pjet,pjiᶜ 3	pis pit	*prits *prit
+刑	bì6			NEW_ENTRYxíng2	Ɣieŋ	geŋ	*gêŋ
+閟	bì7			NEW_ENTRYbì	pjiᶜ 3	pis	*prits
+畀	bì8	piᶜ 4	pis	*pis
+敝	bì10	bjiäiᶜ 4	bies	*bets *bes
+弊	bì10	bjiäiᶜ 4	bies	*bets *besNEW_ENTRYbì11			
+斃	bì10	bjiäiᶜ 4	bies	*bets *besNEW_ENTRYbì11			
+蔽	bì12	pjiäiᶜ 4	pies	*pes *pets
+詖	bì13			
+辟	bì15	pjäk	piek	*pekNEW_ENTRYbì	bjäk	biek	*bekNEW_ENTRYbì16			
+臂	bì17	pjie 4	pieᶜ	*pekh *peh
+躄	bì19			NEW_ENTRYbì	pjiäk 4	piek	*pek
+嬖	bì20	pieiᶜ	peᶜ	*pêkh
+髀	bì22	bieiᴮ,pjieᴮ,pjiᴮ	beᴮ pieᴮ	*bêɁ *peɁ
+閉	bì23	pieiᶜ,piet	pet pes	*pît *pîts
+畢	bì24	pjiet 4	pit	*pitNEW_ENTRYbì25	pjiet 4	pit	*pit
+篳	bì26	pjiet 4	pit	*pit
+彃	bì27	pjiet 4	pit	*pit
+夷	bì28			NEW_ENTRYbì	pjiet 4	pit	*pitNEW_ENTRYyí3	ji	ji	*li *ləiNEW_ENTRYyí4	ji	ji	*li *ləiNEW_ENTRYyí5	ji	ji	*li
+編	biān1	pien	pen	*pên
+辮	biàn	pienᶜ	penᶜ	*pênsNEW_ENTRYbiàn6			
+猵	biān2	pien	pen	*pên
+邊	biān4	pien	pen	*pên
+籩	biān5	pien	pen	*pên
+扁	biǎn1	pienᴮ	penᴮ	*pênɁNEW_ENTRYbiǎn2	pienᴮ	penᴮ	*pênɁ
+褊	biǎn	pjiänᴮ 4	pianᴮ	*penɁNEW_ENTRYbiǎn3			
+篇	piān	pʰjiän 4	pʰian	*phenNEW_ENTRYpiān2			
+貶	biǎn4	pjämᴮ 3,pjɐmᴮ	piamᴮ	*pamɁ
+窆	biǎn5	pjämᶜ 3,pəŋᶜ	piamᶜ	*pams *poms
+弁	biàn1	bjänᶜ 3	biɑnᶜ	*bransNEW_ENTRYbiàn2			NEW_ENTRYfān1	pʰjwɐn	pʰuɑn	*phan
+便	biàn3	bjiänᶜ 4	bienᶜ	*bens
+變	biàn4	pjänᶜ 3	piɑnᶜ	*pransNEW_ENTRYlán1	lậm		
+遍	biàn7	pienᶜ	penᶜ	*pêns
+髟	biāo1	pjieu 4,pjiäu 4	piu piau	*piu *piauNEW_ENTRYshān2	ṣam	ṣam	*srâm
+熛	biāo2	pjiäu 4	piau	*piau
+標	biāo3	pjiäuᶜ 4	piau piauᶜ	*piauh
+剽	piāo	pʰjiäu,pjiäuᴮ 4	pʰiau piauᴮ	*phiau *piauɁNEW_ENTRYpiāo1			
+別	bié	pjät 3	piɑt	*pratNEW_ENTRYbié	bjät 3	biɑt	*brat
+賓	bīn1	pjien 4	pin	*pinNEW_ENTRYbìn	pjienᶜ 4	pinᶜ	*pinsNEW_ENTRYbìn1			
+殯	bìn	pjienᶜ 4	pinᶜ	*pinsNEW_ENTRYbìn2			
+嬪	pín	bjien 4	bin	*binNEW_ENTRYpín1			
+濱	bīn2	pjien 4	pin	*pin
+稟	bǐn			NEW_ENTRYlǐn2	ljəmᴮ	limᴮ	*rəmɁNEW_ENTRYbǐn	pjəmᴮ	pimᴮ	*prəmɁ
+髕	bìn3	bjienᴮ 4	binᴮ	*binɁ
+臏	bìn3	bjienᴮ 4	binᴮ	*binɁ
+兵	bīng1	pjwɐŋ	piaŋ	*praŋ
+冰	bīng2	pjəŋ	piŋ	*prəŋ
+凌	líng	ljəŋ	liŋ	*rəŋNEW_ENTRYlíng5			NEW_ENTRYlíng7	ljəŋ	liŋ	*rəŋ
+炳	bǐng1	pjɐŋᴮ	piaŋᴮ	*prjaŋɁ
+昺	bǐng1	pjɐŋᴮ	piaŋᴮ	*prjaŋɁ
+邴	bǐng1	pjɐŋᴮ	piaŋᴮ	*prjaŋɁ
+秉	bǐng2	pjɐŋᴮ	piaŋᴮ	*rpaŋɁ
+柄	bìng	pjɐŋᶜ	piaŋᶜ	*praŋh
+怲	bǐng3			NEW_ENTRYbǐng	pjɐŋᴮ/ᶜ	piaŋᴮ piaŋᶜ	*praŋɁ/h
+并	bìng1			NEW_ENTRYbìng	pjäŋ[ᶜ]	pieŋ pieŋᶜ	*peŋ *peŋh
+並	bìng2	bieŋᴮ	beŋᴮ	*bêŋɁ
+併	bìng2	bieŋᴮ	beŋᴮ	*bêŋɁ
+駢	pián	bien	ben	*bênNEW_ENTRYpián2			
+屏	bìng3	pjäŋᴮ/ᶜ	pieŋᶜ	*peŋhNEW_ENTRYpíng6	bieŋ	beŋ	*bêŋ
+偋	bìng	bjäŋᶜ	bieŋᶜ	*beŋhNEW_ENTRYbìng4			
+病	bìng5	bjɐŋᶜ	biaŋᶜ	*braŋh
+波	bō1	puâ	pɑi	*pâi
+缽	bō2	puât	pɑt	
+伯	bó1	pɐk	pak	*prâk
+帛	bó2	bɐk	bak	*brâk
+隠	bó3			
+膊	bó4	pâk	pɑk	*pâkNEW_ENTRYpò	pʰâk	pʰɑk	*phâkNEW_ENTRYpò2	pʰâk	pʰɑk	*phâkNEW_ENTRYpò3			
+胉	pò	pɐk	pak	*prâkNEW_ENTRYpò3			
+薄	bó5	bâk	bɑk	*bâkNEW_ENTRYbó6			NEW_ENTRYbó	bâk	bɑk	*bâk
+礴	bó6			NEW_ENTRYbó	bâk	bɑk	*bâk
+鎛	bó7	pâk	pɑk	*pâk
+博	bó8			NEW_ENTRYbó	pâk	pɑk	*pâk
+駁	bó9	påk	pɔk	*prâuk
+踣	bó10	bək,pʰəuᶜ	pʰoᶜ bək	*bə̂k *phôkh
+勃	bó11	buət	bət	*bə̂tNEW_ENTRYbó12	buət	bət	*bə̂t
+脖	bó13	buət		
+跛	bǒ	puâᴮ	pɑiᴮ	*pâiɁ
+播	bò1	puâᶜ	pɑiᶜ	*pâihNEW_ENTRYbò2	puâᶜ	pɑiᶜ	*pâih
+簸	bò1	puâᶜ	pɑiᶜ	*pâihNEW_ENTRYbǒ	puâᴮ	pɑiᴮ	*pâiɁ
+譒	bò2	puâᶜ	pɑiᶜ	*pâih
+擘	bò3	pɛk	pɛk	*prêk
+詭	bò4	bɛk		
+薜	bò5			
+逋	bū1	puo	pɑ	*pâ
+餔	bū2 bù			NEW_ENTRYbū	puo	pɑ	*pâNEW_ENTRYbù	puoᶜ	pɑᶜ	*pâh
+卜	bǔ1	puk	pok	*pôk
+補	bǔ2	puoᴮ	pɑᴮ	*mpaɁ *mpâɁ *pâɁ
+不	bù1	pjəuᴮ/ᶜ	pu	*pəNEW_ENTRYfǒu1	pjəuᴮ	puᴮ	*pəɁ
+弗	fú	pjwət	put	*pətNEW_ENTRYfú7			NEW_ENTRYfú8	pjuət	put	*pət
+布	bù2	puoᶜ	pɑᶜ	*pâhNEW_ENTRYbù3	puoᶜ	pɑᶜ	*pâh
+溥	pǔ	pʰuoᴮ	pʰɑᴮ	*phâɁNEW_ENTRYpǔ2			
+尃	fū	pʰju	pʰuɑ	*phaNEW_ENTRYfū4			
+敷	fū	pʰju	pʰuɑ	*phaNEW_ENTRYfū4			
+鋪	fū	pʰju	pʰuɑ	*phaNEW_ENTRYfū4			NEW_ENTRYpū			
+甫	fǔ	pjuᴮ	puɑᴮ	*paɁNEW_ENTRYfǔ5	pjuᴮ	puɑᴮ	*paɁNEW_ENTRYfǔ6			NEW_ENTRYfǔ7	pjuᴮ	puɑᴮ	*paɁ
+步	bù4	buoᶜ	bɑᶜ	*bâh
+哺	bù5	buoᶜ	bɑᶜ	*bâh
+部	bù6			
+才	cái1	dzậi	dzə	*dzə̂NEW_ENTRYcái2	dzậi	dzə	*dzə̂
+材	cái1	dzậi	dzə	*dzə̂
+財	cái1	dzậi	dzə	*dzə̂
+纔	cái2	dzậi	dzə	*dzə̂
+采	cǎi1	tsʰậiᴮ	tsʰəᴮ	*tshə̂ɁNEW_ENTRYcài	tsʰậiᶜ	tsʰəᶜ	*tsʰə̂hNEW_ENTRYcǎi2	tsʰậiᴮ	tsʰəᴮ	*tshə̂ɁNEW_ENTRYcài			
+菜	cài	tsʰậiᶜ	tsʰəᶜ	*tsʰə̂hNEW_ENTRYcài			
+參	cān1			NEW_ENTRYcēn			NEW_ENTRYcēn	tṣʰjəm	tṣʰəm	*tsʰrəmNEW_ENTRYcān	tsʰậm	tsʰəm	*tshə̂m *k-sə̂mNEW_ENTRYshēn	˘ṣjəm	ṣəm	*srəmNEW_ENTRYshēn5			
+餐	cān2			NEW_ENTRYcān2	tsʰân	tsʰɑn	*tshân
+蠶	cán	dzậm	dzəm	*dzə̂m
+噆	cǎn	tsʰậmᴮ	tsʰəmᴮ	*tshə̂mɁ *s-Ɂə̂mɁNEW_ENTRYzá	tsập	tsəp	*tsə̂p
+燦	càn	tsʰânᶜ	tsʰɑnᶜ	*tshâns
+粲	càn	tsʰânᶜ	tsʰɑnᶜ	*tshâns
+倉	cāng1			NEW_ENTRYcāng	tsʰâŋ	tsʰɑŋ	*tshâŋ *k-sâŋ
+凔	cāng2	tṣʰjaŋᶜ,tsʰâŋ	tṣʰɑŋ tṣʰɑŋᶜ	*tshraŋ *tshraŋh
+蒼	cāng3	tsʰâŋ	tsʰɑŋ	*tshâŋ *k-sâŋ
+藏	cáng	dzâŋ	dzɑŋ	*dzâŋNEW_ENTRYzàng	dzâŋᶜ	dzɑŋᶜ	*dzâŋhNEW_ENTRYzàng2			
+臟	zàng	dzâŋᶜ	dzɑŋᶜ	*dzâŋh
+葬	zàng	tsâŋᶜ	tsɑŋᶜ	*tsâŋhNEW_ENTRYzàng1			
+操	cāo	tsʰâu	tsʰɑu	*tshâuNEW_ENTRYcào	tsʰâuᶜ	tsʰɑuᶜ	*tshâuh
+曹	cáo			NEW_ENTRYcáo	dzâu	dzou	*dzû
+草	cǎo	tsʰâuᴮ	tsʰouᴮ	*tshûɁNEW_ENTRYcǎo	tsʰâuᴮ	tsʰouᴮ	*tshûɁ *C-sûɁ
+造	cào			NEW_ENTRYzào2	tsʰâuᶜ	tsʰouᶜ	*tshûhNEW_ENTRYzào3	dzâuᴮ	dzouᴮ	*dzûɁ
+側	cè1	tṣjək	tṣik	*tsrək
+仄	zè	tṣjək	tṣik	*tsrekNEW_ENTRYzè			
+昃	zè	tṣjək	tṣik	*tsrekNEW_ENTRYzè			
+測	cè2	tṣʰjək	tṣʰik	*tshrək
+惻	cè2	tṣʰjək	tṣʰik	*tshrək
+畟	cè2	tṣʰjək	tṣʰik	*tshrək
+廁	cè3	tṣʰiᶜ	tṣʰiəᶜ	*tshrəkh
+冊	cè4	tṣʰɛk	tṣʰɛk	*tshrek
+策	cè4	tṣʰɛk	tṣʰɛk	*tshrek
+筴	cè4	tṣʰɛk	tṣʰɛk	*tshrek
+簎	cè5	tṣʰɐk	tṣʰak	*tshrâkNEW_ENTRYzhà			
+層	céng			NEW_ENTRYcéng	dzəŋ,tsəŋ	dzəŋ	*dzə̂ŋ
+叉	chā1	tṣʰai,tṣʰa	tṣʰai tṣʰɛ	*tshrê *tshrâi
+杈	chà	tṣʰaiᶜ	tṣʰɛᶜ	*tshrêhNEW_ENTRYchà2			
+差	chā2	tṣʰa	tṣʰɑi tṣʰɛ tṣʰai	*tshrâiNEW_ENTRYcī	tṣʰjie	tṣʰɑi tṣʰɛ tṣʰai	*tshraiNEW_ENTRYchāi	tṣʰai,tṣʰăi	tṣʰɑi tṣʰɛ tṣʰai	*tshrê *tshrâi
+臿	chā3	tṣʰăp	tṣʰɛp	*tshrə̂p *s-Ɂrəp
+竁	cuì chuì	tsʰjuäiᶜ	tsʰyɑs tsʰios	*tshjots *-opsNEW_ENTRYcuì2 chuì			
+茶	chá1	ḍa	ḍa	*d-lâ
+槎	chá2	dẓa[ᴮ]	dẓai	*dzrâi
+柞	zé	tṣɐk	tṣak	*tsrâkNEW_ENTRYzé4			
+斮	zhuó	tṣjak	tṣɑk	*tsrakNEW_ENTRYzhuó5			
+察	chá3	tṣʰat	tṣʰat	*tshrât
+剎	chà1	tṣʰat	tṣʰat	
+柴	chái1	dẓai	dẓɛ	*dzrê
+儕	chái2	dẓăi	dẓɛi	*dzrî *dzrə̂i
+蠆	chài	ṭʰaiᶜ	ṭʰas	*rhâs *rhâts
+佔	chān1			NEW_ENTRYchān	ṭʰjäm	ṭʰɑm	*threm
+覘	chān1			NEW_ENTRYnì11			NEW_ENTRYchān	ṭʰjäm	ṭʰɑm	*threm
+梴	chān2			NEW_ENTRYchān	ṭʰjän	ṭʰɑn	*t-hlan
+儃	chán1	źjän	dźian	*danNEW_ENTRYtǎn3	tʰânᴮ	tʰɑnᴮ	*thânɁ
+漸	chán2	dẓam	dẓam	*dzrâmNEW_ENTRYjiān8	tsjäm	tsiam	*tsamNEW_ENTRYjiàn	dzjämᴮ	dziamᴮ	*dzamɁ
+儳	chán zhàn	dẓam,dẓămᴮ	dẓam dẓɛmᴮ	*dzrâm *dzrə̂mɁNEW_ENTRYchàn zhàn	tṣʰamᶜ,dẓămᶜ	tṣʰamᶜ dẓɛmᶜ	*tshrâms *dzrə̂msNEW_ENTRYchán5 zhàn			NEW_ENTRYchàn zhàn			
+廛	chán3	ḍjän	ḍan	*dran
+纏	chán4	ḍjän[ᶜ]	ḍan ḍanᶜ	*dran *drans
+繵	dàn	tânᶜ,dânᴮ	tɑnᶜ dɑnᴮ	*tâns *dânɁNEW_ENTRYdàn9			
+鑱	chán6 zhàn			NEW_ENTRYchán zhàn	dẓam[ᶜ]	dẓam dẓamᶜ	*dzrâms *dzrâmNEW_ENTRYzhàn6			
+讒	chán7			NEW_ENTRYchán	dẓăm,dẓam[ᶜ]	dẓɛmdẓam dẓamᶜ	*dzrâms *dzrâm
+闡	chǎn1	tśʰjänᴮ	tśʰanᴮ	*thanɁ
+嘽	chǎn2	tśʰjänᴮ	tśʰanᴮ	*thanɁNEW_ENTRYtān	tʰân	tʰɑn	*thânNEW_ENTRYtān5			
+幝	chǎn2	tśʰjänᴮ	tśʰanᴮ	*thanɁ
+繟	chǎn2	tśʰjänᴮ	tśʰanᴮ	*thanɁ
+禪	shàn	źjänᶜ	dźanᶜ	*dansNEW_ENTRYshàn5			
+產	chǎn3	ṣănᴮ	ṣɛnᴮ	*srânɁ *srênɁ
+昌	chāng	tśʰjaŋ	tśʰɑŋ	*k-hlaŋ *thaŋNEW_ENTRYhuǐ4			
+常	cháng1	źjaŋ	dźiɑŋ	*daŋ *djaŋNEW_ENTRYcháng2	źjaŋ	dźɑŋ	*daŋ *djaŋNEW_ENTRYzhuó8			
+裳	cháng	źjaŋ	dźiɑŋ	*daŋ *djaŋNEW_ENTRYgòu6			NEW_ENTRYgòu	kəuᶜ [GY]	koᶜ	*kôkhNEW_ENTRYnòu gòu	nəuᶜ	noᶜ	*nôh
+尚	shàng	źjaŋᶜ	dźɑŋᶜ	*daŋh *djaŋhNEW_ENTRYshàng2			
+嘗	cháng4	źjaŋ	dźɑŋ	*daŋ *djaŋ
+場	cháng5	ḍjaŋ	ḍɑŋ	*d-laŋ
+腸	cháng6	ḍjaŋ	ḍɑŋ	*d-laŋ
+長	cháng7			NEW_ENTRYzhǎng	ṭjaŋᴮ	ṭɑŋᴮ	*traŋɁNEW_ENTRYcháng	ḍjaŋ	ḍɑŋ	*draŋNEW_ENTRYzhàng5	ḍjaŋᶜ	ḍɑŋᶜ	*draŋhNEW_ENTRYzhǎng			
+敞	chǎng	tśʰjaŋᴮ	tśʰɑŋᴮ	*thaŋɁ
+唱	chàng1	tśʰjaŋᶜ	tśʰɑŋᶜ	*k-hlaŋh
+倡	chàng1	tśʰjaŋᶜ	tśʰɑŋᶜ	*k-hlaŋh
+鬯	chàng2	ṭʰjaŋᶜ	ṭʰɑŋᶜ	*thraŋh *rhaŋh
+超	chāo1			NEW_ENTRYchāo	ṭʰjäu	ṭʰau ṭʰiau	*t-hliau
+剿	chāo2	tṣʰau	tṣʰau	*tshrâu
+勦	chāo2	tṣʰau	tṣʰau	*tshrâu
+篡	cuàn	tṣʰwanᶜ	tṣʰuanᶜ	*tshrôns *tshrâu-ns)NEW_ENTRYcuàn			
+朝	cháo1			NEW_ENTRYzhāo4	ṭjäu	ṭɑu	*trauNEW_ENTRYcháo	ḍjäu	ḍɑu	*drau
+潮	cháo1			NEW_ENTRYcháo	ḍjäu	ḍɑu	*drau
+巢	cháo2	dẓau	dẓau	*dzrâu
+車	chē	tśʰja	tśʰa	*k-hlaNEW_ENTRYjū	kjwo	kiɑ	*kaNEW_ENTRYjū1			
+坼	chè1			NEW_ENTRYchè	ṭʰɐk	ṭʰak	*thrâk
+徹	chè2	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *thratNEW_ENTRYchè3			NEW_ENTRYchè	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *thrat
+撤	chè2	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *thrat
+滯	zhì	ḍjäiᶜ	ḍas	*dratsNEW_ENTRYzhì31			
+逝	shì	źjäiᶜ	dźas	*datsNEW_ENTRYshì18			
+適	shì	śjäk,tśjäk	tśek śek	*tekNEW_ENTRYshì29		tśek śek	NEW_ENTRYshì30		tśek śek	NEW_ENTRYshì31		tśek śek	NEW_ENTRYshì	śjäk	tśek śek	*lhekNEW_ENTRYshì	śjäk	tśek śek	*tek *C-ek
+澈	chè4			NEW_ENTRYchè	ḍjät	ḍat	*drat
+琛	chēn	ṭʰjəm	ṭʰim	*-rim
+臣	chén1			NEW_ENTRYchén1	źjen	gin	*gin
+沈	chén2	ḍjəm	ḍim	*d-ləmNEW_ENTRYchěn2	tśʰjəmᴮ	tśʰimᴮ	*k-hləmɁNEW_ENTRYshěn4			
+酖	zhèn	ḍjəmᶜ	ḍimᶜ	*d-ləmsNEW_ENTRYzhèn5			
+鴆	zhèn	ḍjəmᶜ	ḍimᶜ	*d-ləmsNEW_ENTRYzhèn5			
+辰	chén3	źjen	dźin	*dənNEW_ENTRYchén4			NEW_ENTRYchén	źjen	dźin	*dən
+晨	chén5	źjen,dźjen	(d)źin	*m-dən *dən
+塵	chén6	ḍjen	ḍin	*drən
+陳	chén7	ḍjen	ḍin	*drənNEW_ENTRYzhèn	ḍjenᶜ	ḍinᶜ	*drənsNEW_ENTRYzhèn7			
+縵	chěn1 chī	ṭʰjenᴮ,ṭʰi	ṭʰinᴮ ṭʰi	*thrənɁ *thrəiNEW_ENTRYchī7			
+瀋	chěn2	tśʰjəmᴮ	tśʰimᴮ	*k-hləmɁNEW_ENTRYshěn4			
+赬	chēng1	ṭʰjäŋ	ṭʰeŋ	*hreŋ
+稱	chēng2	tśʰjəŋ	tśʰiŋ	*thəŋNEW_ENTRYchēng	tśʰjəŋ	tśʰiŋ	*thəŋNEW_ENTRYchèng	tśʰjəŋᶜ	tśʰiŋᶜ	*thəŋh
+瞠	chēng3	ṭʰɐŋ	ṭʰaŋ	*thrêŋ
+成	chéng1	źjäŋ	dźeŋ	*deŋ *geŋ
+盛	chéng1	źjäŋ	dźeŋ	*deŋ *geŋNEW_ENTRYshèng	źjäŋᶜ	dźeŋᶜ	*deŋh *geŋhNEW_ENTRYshèng5			
+城	chéng1	źjäŋ	dźeŋ	*deŋ *geŋ
+丞	chéng2	źjəŋ	dźiŋ	*dəŋ
+承	chéng2	źjəŋ	dźiŋ	*dəŋ
+蒸	zhēng	tśjəŋ	tśiŋ	*təŋNEW_ENTRYzhēng6	tśjəŋ	tśiŋ	*təŋNEW_ENTRYzhēng7			
+拯	zhěng	tśjəŋᴮ	tśiŋᴮ	*təŋɁNEW_ENTRYzhěng1			
+乘	chéng3	dźjəŋ	źiŋ	*m-ləŋNEW_ENTRYshèng	dźjəŋᶜ	źiŋᶜ	*m-ləŋhNEW_ENTRYshèng2			
+升	shēng	śjəŋ	śiŋ	*lhəŋNEW_ENTRYshēng1			
+昇	shēng	śjəŋ	śiŋ	*lhəŋNEW_ENTRYshēng1			
+棖	chéng4	ḍɐŋ	ḍaŋ	*drâŋ
+裎	chéng5	ḍjäŋ	ḍeŋ	*dreŋ
+澄	chéng6	ḍjəŋ,ḍɐŋ	ḍaŋ ḍiŋ	*drəŋ
+徵	chéng7	ḍjəŋ	ḍiŋ	*drəŋNEW_ENTRYzhēng8			NEW_ENTRYzhēng	ṭjəŋ	ṭəŋ	*trəŋ
+懲	chéng7	ḍjəŋ	ḍiŋ	*drəŋ
+塍	chéng8			
+酲	chéng9			NEW_ENTRYchéng	ḍjäŋ,ṭʰjäŋ	ṭʰeŋ ḍeŋ	*d-leŋ *t-hleŋ
+吃	chī1	kjət	kit	NEW_ENTRYchī2			
+喫	chī3	kʰiek		
+魑	chī4	ṭʰjie	ṭʰɑi	*rhai
+离	chī4	ṭʰjie	ṭʰɑi	*rhai
+螭	chī4	ṭʰjie	ṭʰɑi	*rhai
+颸	chī5			NEW_ENTRYsī6 chī	tṣʰi	tṣʰə	*tshrə
+絺	chī6			NEW_ENTRYchī	ṭʰi	ṭʰi	*thri
+池	chí1	ḍje	ḍɑi	*d-laiNEW_ENTRYfǎ	pjwɐp	puɑp	*pap
+坻	chí2	ḍi	ḍi	*driNEW_ENTRYchí	ḍi	ḍi	*dri
+墀	chí2	ḍi	ḍi	*dri
+蚳	chí3	ḍi	ḍi	*dri
+漦	chí4	dẓi,lji	dẓə	*dzrəNEW_ENTRYlí8			
+拸	chǐ1	ṭʰjeᴮ	ṭʰɑiᴮ	*rhaiɁ
+杝	zhì	˘ṭʰjeᴮ,ḍjeᴮ	ṭʰɑiᴮ ḍiɑiᴮ	*rhaiɁ *-aiɁNEW_ENTRYzhì9			
+扡	zhì	˘ṭʰjeᴮ,ḍjeᴮ	ṭʰɑiᴮ ḍiɑiᴮ	*rhaiɁ *-aiɁNEW_ENTRYzhì9			
+胣	chǐ yǐ	ṭʰjieᴮ,jieᴮ	ṭʰɑiᴮ jɑi	*rhaiɁ *-aiɁNEW_ENTRYchǐ4 yǐ			NEW_ENTRYyí7			
+誃	chǐ2 chí	tśʰjeᴮ,ḍje	ḍɑi tśʰɑiᴮ	*k-hlaiɁ *d-lai
+侈	chǐ3	tśʰjieᴮ	tśʰɑiᴮ	*k-hlaiɁ
+哆	chǐ3	tśʰjieᴮ	tśʰɑiᴮ	*k-hlaiɁ
+移	chǐ3	tśʰjieᴮ	tśʰɑiᴮ	*k-hlaiɁNEW_ENTRYyí7			NEW_ENTRYyí8	jie	jɑi	*laiNEW_ENTRYyí9	jie	jɑi	*lai
+斥	chì	tśʰjäk	tśʰak	*k-hlakNEW_ENTRYchì1	tśʰjäk	tśʰak	*k-lhakNEW_ENTRYchì2			
+弛	shǐ	śjieᴮ	śɑiᴮ	*lhaiɁNEW_ENTRYshǐ4	śjieᴮ	śɑiᴮ	*lhaiɁNEW_ENTRYshǐ5			NEW_ENTRYshǐ6			NEW_ENTRYshǐ	śjeᴮ	śeᴮ	*lhaiɁ
+施	shī	śjie	śɑi	*lhaiNEW_ENTRYshī9	śjie	śɑi	*lhaiNEW_ENTRYshì	śjieᶜ	śɑiᶜ	*lhaihNEW_ENTRYshī10			NEW_ENTRYshī11			NEW_ENTRYshì24			
+恥	chǐ5	ṭʰiᴮ	ṭʰəᴮ	*nhrəɁ
+齒	chǐ6	tśʰiᴮ	tśʰəᴮ	*thəɁ *khiəɁ
+赤	chì3	tśʰjäk	tśʰak	*k-hlakNEW_ENTRYcì3			NEW_ENTRYcì	tsʰjäk	tsʰiak	*s-lhak
+奭	shì	śjäk,xjək	śak hik śek	*lhak *həkNEW_ENTRYshì21			
+翅	chì4	śjeᶜ	śeᶜ	*lheh
+飭	chì5			NEW_ENTRYchì	ṭʰjək	ṭʰik	*rhək
+饎	chì6	tśʰiᶜ	tśʰəᶜ kʰiəᶜ	*khiəɁ
+耡	chì6	tśʰiᶜ	tśʰəᶜ kʰiəᶜ	*khiəɁ
+沖	chōng1	ḍjuŋ	ḍuŋ	*druŋNEW_ENTRYchōng2	ḍjuŋ	ḍuŋ	*druŋ
+舂	chōng3	śjwoŋ	śoŋ	*lhoŋ
+衝	chōng5			NEW_ENTRYchōng	tśʰjwoŋ	tśʰoŋ	*thoŋ
+蟲	chóng1	ḍjuŋ	ḍuŋ	*druŋNEW_ENTRYchóng2			NEW_ENTRYchóng	ḍjuŋ,duoŋ	douŋ ḍuŋ	*d-luŋ *lûŋ
+虫	chóng1	ḍjuŋ	ḍuŋ	*druŋNEW_ENTRYhuǐ1	xjweiᴮ	huiᴮ	*hmuiɁ
+重	chóng3			NEW_ENTRYzhòng1	ḍjwoŋᴮ	ḍoŋᴮ	*droŋɁNEW_ENTRYchóng	ḍjwoŋ	ḍoŋ	*droŋ
+崇	chóng4			NEW_ENTRYchóng	dẓjuŋ	dẓuŋ	*dzruŋ
+揰	chòng			NEW_ENTRYzhuàng2 chòng			
+盩	chōu1	ṭʰjəu	ṭhʰu	*thru *t-hlu
+抽	chōu1	ṭʰjəu	ṭhʰu	*thru *t-hlu
+瘳	chōu2 liáo	ṭʰjəu,lieu	leu ṭʰu	*rhiu *riûNEW_ENTRYliáo6			
+犨	chōu3	tśʰjəu	tśʰu	*k-hu
+臭	chòu	tśʰjəuᶜ	tśʰuᶜ	*k-huhNEW_ENTRYchòu			
+嗅	xiù	xjəuᶜ	huᶜ	*huhNEW_ENTRYxiù3			
+酬	chóu1			
+愁	chóu2			NEW_ENTRYchóu	dẓjəu	dẓu	*dzru
+儔	chóu3	ḍjəu	ḍu	*dru
+讎	chóu	źjəu	dźu	*du
+淳	chún	źjuen	dźuin dźun	*dunNEW_ENTRYchún2	źjuen	dźuin dźun	*dunNEW_ENTRYzhūn	tśjuen	tśun tśuin	*tunNEW_ENTRYchún3			NEW_ENTRYzhūn1			
+綢	chóu4			NEW_ENTRYtāo1	tʰâu	tʰou	*thûNEW_ENTRYchóu	ḍjəu	ḍu	*driu
+裯	chóu5			
+疇	chóu6	ḍjəu	ḍu	*druNEW_ENTRYchóu7			NEW_ENTRYchóu7	ḍjəu	ḍu	*dru
+丑	chǒu1	ṭʰjəuᴮ	ṭʰuᴮ	*thruɁ *rhuɁNEW_ENTRYniǔ1	ṇjəuᴮ	ṇuᴮ	*nriuɁ
+醜	chǒu2	tśʰjəuᴮ	tśʰuᴮ	*k-hiuɁ *k-huɁ
+朽	xiǔ	xjəuᴮ	huᴮ	*hiuɁ *huɁNEW_ENTRYxiǔ1			
+出	chū1	tśʰjuət	tśʰut	*k-hlutNEW_ENTRYchū chuì	tśʰwiᶜ	tśʰus	*k-hlutsNEW_ENTRYchū2	tśʰjuət	tśʰut	
+黜	chù	ṭʰuet	ṭʰut	*r-hlutNEW_ENTRYchù3			
+初	chū3	tṣʰjwo	tṣʰɑ	*tshra
+創	chuàng	tṣʰjaŋᶜ	tṣʰɑŋᶜ	*tshraŋhNEW_ENTRYchuàng			
+宁	chú1			NEW_ENTRYzhù1 chú	ḍjwoᴮ	ḍɑ ḍɑᴮ	*draɁ *dra
+除	chú2	ḍjwo	ḍɑ	*d-laNEW_ENTRYzhù	ḍjwoᶜ	ḍɑᶜ	*d-lah
+抒	shū	dźjwoᴮ	źiɑᴮ	*m-laɁNEW_ENTRYshū5			
+鋤	chú3	dẓjwo	dẓɑ	*dzra.
+芻	chú4	tṣʰju	tṣʰo	*tshro
+雛	chú5	dẓju	dẓo	*dzro
+躕	chú6			
+儲	chú7			NEW_ENTRYchú	ḍjwo	ḍɑ	*dra
+杵	chǔ1	tśʰjwoᴮ	tśʰɑᴮ	*-aɁ
+楚	chǔ2	tṣhjwoᴮ	tṣʰɑᴮ	*tshraɁ
+處	chǔ3	tśʰjwoᴮ	tśʰɑᴮ	*k-hlaɁNEW_ENTRYchù	tśʰjwoᶜ	tśʰɑᶜ	*k-hlah
+觸	chù1	tśʰjwok	tśʰok	*tʰok
+絀	chù2	ṭjuət	ṭut	*trut
+畜	chù4 xù	ṭʰjuk,xjuk	huk ṭʰuk	*hruk *rhukNEW_ENTRYchù xù	ṭʰjəuᶜ,xjəuᶜ	ṭʰuᶜ huᶜ	*hrukh *rhukhNEW_ENTRYxù6			
+川	chuān1	tśʰjwän	tśʰon tśʰuan	*k-hlun
+穿	chuān2	tśʰjwän	tśʰon tśʰuan	*thon
+耑	duān	tuân	tuɑn ton	*tônNEW_ENTRYduān1			
+端	duān	tuân	tuɑn ton	*tônNEW_ENTRYduān1			
+船	chuán1	dźjwän	źon źuan	*m-lon
+傳	chuán2			NEW_ENTRYchuán	ḍjwän	ḍuan ḍon	*dronNEW_ENTRYzhuàn	ḍjwänᶜ	ḍonᶜ ḍuanᶜ	*dronsNEW_ENTRYzhuàn	ṭjwänᶜ	tonᶜ ṭuanᶜ	*tronsNEW_ENTRYzhuàn1			
+床	chuáng1	dẓjaŋ	dẓɑŋ	*dzraŋ
+撞	chuáng2	ḍåŋ	ḍɔŋ	*drôŋNEW_ENTRYzhuàng chòng	ḍåŋᶜ	ḍɔŋᶜ	*drôŋh
+吹	chuī1	tśʰjwe	tśʰuai tśʰoi	*thoi *k-hloiNEW_ENTRYchuì	tśʰjweᶜ	tśʰuaiᶜ tśʰoiᶜ	*thoih *k-hloih
+衰	chuī2			NEW_ENTRYshuāi	ṣwi	ṣui	*sruiNEW_ENTRYchuī	tṣʰwie	tṣʰuɑi tṣʰoi	*k-sroi
+垂	chuí1	źwie	dźoi dźuai	*doi
+陲	chuí			
+硾	zhuì	ḍwieᶜ	ḍoih ḍuaih	*droihNEW_ENTRYzhuì2			
+礫	chuí2	ḍwie[ᶜ]	ḍuai ḍuaih ḍoi ḍoih	*droih *droi
+春	chūn	tśʰjwen	tśʰuin tśʰun	*thun
+脣	chún1	dźjuen	źun źuin	*m-dun
+漘	chún1	dźjuen	źun źuin	*m-dun
+醇	chún4			NEW_ENTRYchún	źjuen	dźuin dźun	*dun
+蠢	chǔn	tśʰjuenᴮ	tśʰuinᴮ tśʰunᴮ	*thunɁ
+惷	chǔn	tśʰjuenᴮ	tśʰuinᴮ tśʰunᴮ	*thunɁ
+蜳	dūn	tuən	tuən	*tûnNEW_ENTRYdūn2			
+忳	tún	duən	duən	*dûnNEW_ENTRYtún4			
+政	chuō	tṣʰåk	tṣʰɔk	*tshrôkNEW_ENTRYzhèng1	tśjäŋᶜ	tśeŋᶜ	*teŋh
+逴	chuò1			NEW_ENTRYchuò	ṭʰåk	ṭʰɔk	*thrâuk
+啜	chuò2	tśʰjwät	tśʰot	*thot
+歠	chuò2	tśʰjwät	tśʰot	*thot
+雌	cī	tsʰje	tsʰie	*tshe
+茨	cí1			NEW_ENTRYcí	dzi	dzi	*dzəi *dzi
+胔	cí2	dzie,tsʰie	dzie tsʰie	*dze *tsheNEW_ENTRYzì3	dzie[ᶜ]	dzie dzieᶜ	*dze *dzeh
+慈	cí3			NEW_ENTRYcí	dzi	dziə	*dzə
+疵	cí4			NEW_ENTRYcí	dzie	dzie	*dze
+辭	cí5	zi	ziə	*s-lə
+詞	cí5	zi	ziə	*s-lə
+此	cǐ1	tsʰieᴮ	tsʰieᴮ	*tsheɁ
+斯	sī	sie	sie	*seNEW_ENTRYsī5	sjie	sie	*se
+跐	cǐ2			NEW_ENTRYcǐ	tsʰieᴮ	tsʰieᴮ	*tsheɁ *tshaiɁ
+次	cì1	tsʰiᶜ	tsʰis tsʰiᶜ	*tshis/h *s-nhis
+佽	cì1	tsʰiᶜ	tsʰis tsʰiᶜ	*tshis/h *s-nhis
+朿	cì2	tsʰieᶜ	tsʰieᶜ	*tshekh
+刺	cì	tsʰieᶜ,tsʰjäk	tsʰieᶜ	*tshekhNEW_ENTRYcì	tsʰjäk	tsʰiek tsʰieᶜ	*tshekh *tshekNEW_ENTRYmáng5	mwâŋ	mɑŋ	*mâŋ
+賜	cì4	sjieᶜ	sieᶜ	*sekh *slekhNEW_ENTRYsì9			
+錫	cì4	sjieᶜ	sieᶜ	*sekh *slekhNEW_ENTRYxí4	siek	sek	*sêk *slekNEW_ENTRYxí5			
+蔥	cōng	tsʰuŋ	tsʰoŋ	*tshôŋ
+從	cóng1	dzjwoŋ	dzioŋ	*dzoŋNEW_ENTRYzòng	dzjwoŋᶜ	dzioŋᶜ	*dzoŋhNEW_ENTRYzòng1			
+叢	cóng			NEW_ENTRYcóng2	dzuŋ	dzoŋ	*dzôŋ
+徂	cú			NEW_ENTRYcú	dzuo	dzɑ	*dzâ
+殂	cú			NEW_ENTRYcú	dzuo	dzɑ	*dzâ
+促	cù			NEW_ENTRYcù	tsʰjwok	tsʰiok	*tshok
+崔	cuī1	dzuậi	dzuəi	*dzûi
+罵	duì	duậiᴮ	duəiᴮ	*dûiɁNEW_ENTRYduì5			NEW_ENTRYmà	maᴮ/ᶜ	maᴮ maᶜ	*mâɁ/h
+漼	cuǐ	tsʰuậiᴮ	tsʰuəiᴮ	*tshûiɁNEW_ENTRYcuǐ			
+催	cuī2			NEW_ENTRYcuī	tsʰuậi	tsʰuəi	*tshûi
+摧	cuī3			NEW_ENTRYcuī	dzuậi	dzuəi	*dzûi
+淬	cuì	tsʰuậiᶜ	tsʰuəs tsʰuəis	*tsʰûts
+翠	cuì	tsʰwiᶜ	tsʰus tsʰuis	*tsʰutsNEW_ENTRYcuì		tsʰus tsʰuis	
+啐	cuì			NEW_ENTRYcuì	tsʰuậiᶜ	tsʰuəs	*tshûts
+萃	cuì			NEW_ENTRYcuì1	dzwiᶜ	dzus dzuis	*dzuts
+瘁	cuì			NEW_ENTRYcuì	dzwiᶜ	dzus dzuis	*dzuts
+悴	cuì			NEW_ENTRYcuì	dzwiᶜ	dzus dzuis	*dzuts
+存	cún	dzuən	dzən!	*dzə̂n
+忖	cǔn			NEW_ENTRYcǔn	tsʰuənᴮ	tsʰuənᴮ	*tshûnɁ
+寸	cùn	tsʰuənᶜ	tsʰuənᶜ	*tshûns
+磋	cuō1	tsʰâ	tsʰɑi	*tshâi
+撮	cuō2	tsʰuât	tsʰuɑt tsʰot	*tshôtNEW_ENTRYmín	mjen 3	min	*mrənNEW_ENTRYmín5			
+鹺	cuó	dzâ	dzɑi	*dzâi
+脞	cuǒ1			NEW_ENTRYcuǒ	tsʰuâᴮ	tsʰoiᴮ tsʰuɑiᴮ	*tshôiɁ *C-sôiɁ
+掃	cuǒ2			NEW_ENTRYsǎo	sâuᴮ/ᶜ	souᴮ souᶜ	*sûɁ/hNEW_ENTRYsǎo1			NEW_ENTRYcuǒ	tsʰuâᴮ	tsʰoiᴮ tsʰuɑiᴮ	*tshôiɁ *C-sôiɁ
+剉	cuò			
+莝	cuò1	tsʰuâᶜ,tsuâᶜ	ts(ʰ)uɑiᶜ ts(ʰ)oiᶜ	*tshôih
+錯	cuò2	tsʰâk	tsʰɑk	*tshâkNEW_ENTRYcuò3	tsʰâk	tsʰɑk	*tshâkNEW_ENTRYcuò4	tsʰâk	tsʰɑk	
+厝	cuò2	tsʰâk	tsʰɑk	*tshâk
+酢	zuò	dzâk	dzɑk	*dzâk
+醋	zuò	dzâk	dzɑk	*dzâk
+祚	zuò	dzuoᶜ	dzɑᶜ	*dzâkh
+胙	zuò	dzuoᶜ	dzɑᶜ	*dzâkh
+措	cuò5			NEW_ENTRYcuò	tsʰuoᶜ	tsʰɑᶜ	*tshâkh
+耷	dā1			
+搭	dā2	tập	təp	*tə̂pNEW_ENTRYdā3	tập	təp	*tə̂p
+達	dá1	dât	dɑt	*dât
+答	dá2	tập	təp	*tə̂p *tûp
+對	duì	tuậiᶜ	tuəs	*tûts *tûpsNEW_ENTRYduì6			
+憂	dá3	tập	təp	*tə̂p
+打	dǎ	tɐŋᴮ		NEW_ENTRYdǐng	tieŋᴮ,tɐŋᴮ	teŋᴮ taŋᴮ	
+太	tài	tʰâiᶜ	tʰɑs	*tʰâs
+泰	tài	tʰâiᶜ	tʰɑs	*tʰâs
+代	dài1	dậiᶜ	dəh	*lə̂kh
+忒	tè	tʰək	tʰək	*lhə̂kNEW_ENTRYtè3			
+詒	dài	dậiᴮ	dəᴮ	*lə̂ɁNEW_ENTRYdài5			NEW_ENTRYyí2	jii	jə	*lə
+汏	dài3	dâiᶜ	dɑs	
+迨	dài4	dậiᴮ	dəᴮ	*lə̂Ɂ
+待	dài6			NEW_ENTRYdài	dậiᴮ	dəᴮ	*də̂Ɂ *də̂ŋɁ)
+帶	dài7	tâiᶜ	tɑs	*tâs
+逮	dài8	dậiᶜ,iᶜ	jis dəs	*lə̂ts *ləs *lə̂s *ləts
+戴	dài9	tậiᶜ	təᶜ	*tə̂h
+丹	dān1	tân	tɑn	*tân *tlan
+矸	gān	kân	tɑn-kɑn	*tân-kân *tlan-klanNEW_ENTRYgān6	kân		
+旃	zhān	tśjän	tśan	*tanNEW_ENTRYzhān5			
+單	dān2	tân	tɑn	*tân
+但	dàn	dânᴮ	dɑnᴮ	NEW_ENTRYdàn4			
+癉	dān3	tânᴮ,tâᶜ	tɑiᶜ tɑnᴮ	*tânɁ *tâih
+殫	dān	tân	tɑn	*tânNEW_ENTRYdān4			
+旦	dàn	tânᶜ	tɑnᶜ	*tânsNEW_ENTRYdàn1	tânᶜ	tɑnᶜ	*tânsNEW_ENTRYdàn2			
+痑	duǒ tuō tuò	tâᶜ,tʰâ[n]	tɑiᶜ tʰɑi tʰɑn	*tâih *thâi/nNEW_ENTRYtuō2 tuò			
+耽	dān5	tậm	təm	*tə̂m
+湛	dān5	tậm	təm	*tə̂mNEW_ENTRYjiān8	tsjäm	tsiam	*tsamNEW_ENTRYtān4 jiān			NEW_ENTRYzhàn1	ḍămᴮ	ḍɛmᴮ	*drə̂mɁ
+擔	dān6	tâm	tɑm	*tâm *tlamNEW_ENTRYdàn	tâmᶜ	tɑmᶜ	*tâms *tlams
+拇	dǎn1	tậmᴮ	təmᴮ	*tə̂mɁNEW_ENTRYmǔ4	məuᴮ	moᴮ	*môɁ
+膽	dǎn2	tâmᴮ	tɑmᴮ	*tâmɁ *tlamɁ
+亶	dǎn3	tânᴮ	tɑnᴮ	*tânɁNEW_ENTRYdǎn4			
+啖	dàn5	dậmᴮ	dəmᴮ	*lə̂mɁ
+啗	dàn5	dậmᴮ	dəmᴮ	*lə̂mɁ
+淡	dàn6	dâmᴮ/ᶜ	dɑmᴮ dɑmᶜ	*lâmɁ/s
+憚	dàn7	dânᶜ	dɑnᶜ	*dânsNEW_ENTRYduò2			
+彈	tán	dân	dɑn	*dânNEW_ENTRYdàn8			NEW_ENTRYtán5	dân	dɑn	*dânNEW_ENTRYdàn	dânᶜ	dɑnᶜ	*dânsNEW_ENTRYtán6			
+戰	zhàn	tśjänᶜ	tśanᶜ	*tansNEW_ENTRYzhàn2	tśjänᶜ	tśanᶜ	*tansNEW_ENTRYzhàn3			
+顫	zhàn	tśjänᶜ	tśanᶜ	*tansNEW_ENTRYzhàn7			
+窞	dàn10			NEW_ENTRYtàn2	dậmᴮ	dəmᴮ	*lə̂mɁ
+趨	dàn11			NEW_ENTRYqū6			NEW_ENTRYdàn	dânᶜ	dɑnᶜ	*dânsNEW_ENTRYqū	tṣʰju	tṣʰo	*tshro
+誕	dàn12			NEW_ENTRYdàn	dânᴮ	dɑnᴮ	*lânɁ
+憺	dàn13			NEW_ENTRYdàn	dâmᴮ/ᶜ	dɑmᴮ dɑmᶜ	*dâmɁ/h *lâmɁ/h
+澹	dàn13			NEW_ENTRYdàn	dâmᴮ/ᶜ	dɑmᴮ dɑmᶜ	*dâmɁ/h *lâmɁ/h
+當	dāng1	tâŋ	tɑŋ	*tâŋNEW_ENTRYdàng	tâŋᶜ	tɑŋᶜ	*tâŋh
+黨	dǎng	tâŋᴮ	tɑŋᴮ	*tâŋɁNEW_ENTRYdǎng1	tâŋᴮ	tɑŋᴮ	*tâŋɁNEW_ENTRYdǎng2			
+鐺	dāng2			
+逿	dàng1	dâŋᴮ,tʰâŋᴮ	tʰɑŋᴮ dɑŋᴮ	
+盪	dàng1	dâŋᴮ,tʰâŋᴮ	tʰɑŋᴮ dɑŋᴮ	NEW_ENTRYdàng2			NEW_ENTRYdàng	dâŋᶜ	dɑŋᶜ	*lâŋh
+蕩	dàng3			
+刀	dāo	tâu	tɑu	*tâu
+倒	dǎo1	tâuᴮ/ᶜ	tɑuᴮ tɑuᶜ	*tâuɁ/h
+島	dǎo2	tâuᴮ	touᴮ	*tûɁ
+擣	dǎo3	tâuᴮ	touᴮ	*tûɁ
+禱	dǎo4			NEW_ENTRYdǎo	tâuᴮ/ᶜ	touᶜ touᴮ	*tûɁ/h
+到	dào1	tâuᶜ	tɑuᶜ	*tâuh
+道	dào2	dâuᴮ	douᴮ	*lûɁNEW_ENTRYdào	dâuᶜ	douᶜ	*lûh
+導	dào	dâuᶜ	douᶜ	*lûhNEW_ENTRYxuè	xjwät 3	hyat	*hmetNEW_ENTRYxuè5			
+盜	dào3			
+稻	dào4	dâuᴮ	douᴮ	*lûɁ
+得	dé1	tək	tək	*tə̂k
+德	dé2	tək	tək	*tə̂k
+的	de3			NEW_ENTRYdì7			NEW_ENTRYdì	tiek	tek teuk	*tiâuk
+登	dēng1	təŋ	təŋ	*tə̂ŋ
+等	děng	təŋᴮ	təŋᴮ	*tə̂ŋɁNEW_ENTRYděng1	təŋᴮ	təŋᴮ	*tə̂ŋɁNEW_ENTRYděng2			
+燈	dēng2	təŋ	təŋ	*tə̂ŋ
+低	dī1	tiei	tei	*tî
+氐	dǐ	tieiᴮ	teiᴮ	*tîɁNEW_ENTRYdǐ1			
+底	dǐ	tieiᴮ	teiᴮ	*tîɁNEW_ENTRYdǐ1			NEW_ENTRYdǐ2	tieiᴮ	tėi	NEW_ENTRYzhǐ7			NEW_ENTRYzhǐ	tśiᴮ	tśiᴮ	*tiɁ
+滴	dī2	tiek	tek	*têk
+堤	dī3			NEW_ENTRYtí1	diei	de	*dê
+隄	dī3			NEW_ENTRYdī	tiei	te	*tê
+狄	dí1	diek	dek	*dêk
+敵	dí3	diek	dek	*dêk
+蹢	dí4			NEW_ENTRYdí	tiek	tek	*têk
+翟	dí5			NEW_ENTRYdí	diek	dek deuk	*liâuk
+糴	dí6	diek	dek deuk	*liâuk
+糶	tiào	tʰieuᶜ	tʰeuᶜ	*lhiâukhNEW_ENTRYtiào2			
+滌	dí7	diek	dek deuk	*liûk
+笛	dí8			NEW_ENTRYdí	diek	dek deuk	*liuk
+篴	dí8			NEW_ENTRYdí	diek	dek deuk	*liuk
+蔋	dí9			NEW_ENTRYdí	diek	dek deuk	*diûk
+抵	dǐ3			
+地	dì1	diᶜ	diᶜ	*lâih
+弟	dì2	dieiᴮ	deiᴮ	*dî *də̂iNEW_ENTRYdì	dieiᶜ	deiᶜ	*dîh *də̂ih
+第	dì	dieiᶜ	deiᶜ	*dîh *də̂ih
+睇	dì3	dieiᶜ,tʰiei	tʰei deiᶜ	*də̂ih *tʰə̂i
+帝	dì4	tieiᶜ	teᶜ	*têh
+禘	dì	dieiᶜ	deᶜ	*dêh
+疐	dì5	tieiᶜ	tes	*tîtsNEW_ENTRYzhì16	ṭiᶜ	ṭis	*trits
+瓞	dié	diet	det	*dîtNEW_ENTRYdié5			
+踶	dì8	dieiᶜ	deᶜ	*dêh
+鈦	dì9	軑		NEW_ENTRYtài1			NEW_ENTRYtài dì	dieiᶜ,dâi	dɑs des	*dês *dâs
+顛	diān1	tien	ten tein	*tînNEW_ENTRYdiān2	tien	ten tein	*tîn *tlinNEW_ENTRYtián4	dien	dein den	*dîn
+巔	diān1	tien	ten tein	*tîn
+頂	dǐng	tieŋᴮ	teŋᴮ	*têŋɁNEW_ENTRYdǐng2			
+天	tiān	tʰien	tʰen tʰein	*thînNEW_ENTRYniǎn1	ṇiänᴮ	ṇanᴮ	*nranɁ *nrenNEW_ENTRYtiān1	tʰien	tʰen tʰein	*thînNEW_ENTRYtiān2			
+傎	diān2	tien	ten tein	*tîn *tlin
+齻	diān3	tien	ten tein	*tîn
+典	diǎn1	tienᴮ	tenᴮ	*tə̂nɁNEW_ENTRYdiǎn2	tienᴮ	tenᴮ	*tə̂nɁ
+田	diàn1			NEW_ENTRYtián1	dien	dein den	*lînNEW_ENTRYdiàn	dienᶜ	deinᶜ denᶜ	*lîns
+甸	diàn1			NEW_ENTRYdiàn	dienᶜ	deinᶜ denᶜ	*lîns
+殿	diàn2	dienᶜ	denᶜ	*də̂nsNEW_ENTRYdiàn	tienᶜ	tenᶜ	*tə̂ns
+電	diàn3	dienᶜ	deinᶜ denᶜ	*lîns
+匸	diàn4			NEW_ENTRYdiàn	dienᶜ	deinᶜ denᶜ	*dîns
+簟	diàn5			NEW_ENTRYdiàn	diemᴮ	demᴮ	*lêmɁ
+凋	diāo1	tieu	teu	*tiû
+彫	diāo2	tieu	teu	*tiû
+雕	diāo2	tieu	teu	*tiû
+釣	diào	tieuᶜ	teuᶜ	*tiâukh
+垤	dié1	diet	deit det	*lît *dît
+咥	dié2	diet	deit det	*lît *dît
+跌	dié3	diet	deit det	*lîtNEW_ENTRYdié	diet	det	*lît
+迭	dié4			NEW_ENTRYdié	diet	det	*lît
+輒	dié6	tiep	tep	*têp
+貼	tiē	tʰiep		NEW_ENTRYtiē2			
+牒	dié7	diep	dep	*lêp
+褶	dié			NEW_ENTRYdié8			
+疊	dié			NEW_ENTRYdié8			
+蹀	dié9			
+丁	dīng	tieŋ	teŋ	*têŋNEW_ENTRYkòu	kʰəuᴮ	kʰoᴮ	*khôɁ
+酊	dǐng1	tieŋᴮ	teŋᴮ	
+鼎	dǐng3	tieŋᴮ	teŋᴮ	*têŋɁ
+定	dìng1			NEW_ENTRYdìng2	tieŋᶜ	teŋᶜ	*têŋ *tleŋNEW_ENTRYdìng	dieŋᶜ	deŋᶜ	*dêŋh
+顁	dìng2	tieŋᶜ	teŋᶜ	*têŋ *tleŋ
+町	dìng3	dieŋᴮ	deŋᴮ	*dêŋɁ
+鋌	dìng4			NEW_ENTRYtǐng3 dìng	dieŋᴮ	deŋᴮ	*lêŋɁ
+冬	dōng1	tuoŋ	touŋ	*tûŋ
+東	dōng2	tuŋ	toŋ	*tôŋ
+涷	dōng3	tuŋᴬ/ᶜ	toŋ	*tôŋ *tloŋ
+洞	dòng1	duŋᶜ	doŋᶜ	*dôŋh
+動	dòng2	duŋᴮ	doŋᴮ	*dôŋɁ
+挏	dòng3			
+都	dōu			
+斗	dǒu			NEW_ENTRYzhǔ	tśjuᴮ	tśoᴮ	*toɁNEW_ENTRYdǒu	təuᴮ	toᴮ	*tôɁ
+豆	dòu1			NEW_ENTRYdòu2	dəuᶜ	doᶜ	
+荳	dòu3	dəuᶜ	doᶜ	
+逗	dòu4			NEW_ENTRYdòu	dəuᶜ	doᶜ	
+脰	dòu5	dəuᶜ	doᶜ	*dôh
+鬥	dòu6	təuᶜ	toᶜ	*tôh
+劑	dòu7			NEW_ENTRYdòu	təuᶜ	toᶜ	*tôh
+竇	dòu8			NEW_ENTRYdòu	dəuᶜ,duk	doᶜ dok	*lôkh *lôk
+毒	dú1	duok	douk douh	*dûkNEW_ENTRYdù	dâuᶜ	douk douh	NEW_ENTRYdú2		douk douh	NEW_ENTRYdú	duok	douk douh	*dûk *lûk
+瀆	dú3	duk	dok	*lôk
+櫝	dú4	duk	dok	*lôk
+韇	dú4	duk	dok	*lôk
+讀	dú5	duk	dok	*lôk
+犢	dú6	duk	dok	*lôk
+羭	yú	jiu	jo	*loNEW_ENTRYyú20			
+獨	dú7	duk	dok	*dôk
+篤	dǔ1	tuok	touk	*tûk
+睹	dǔ2	tuoᴮ	tɑᴮ	*tâɁ
+賭	dǔ3	tuoᴮ	tɑᴮ	
+度	dù1	duoᶜ	dɑᶜ	*dâkhNEW_ENTRYduó	dâk	dɑk	*dâkNEW_ENTRYduó1			
+圖	tú	duo	dɑ	*dâNEW_ENTRYtú4			
+渡	dù2	duoᶜ	dɑᶜ	*dâkh
+肚	dù3	duoᴮ	dɑᴮ	*dâɁNEW_ENTRYdù	tuoᴮ	tɑᴮ	*tâɁ
+剬	duān2		tuɑn tśuanᴮ duɑn don tśuan tśion	NEW_ENTRYduān	tuân,tśjwänᴮ	tuɑn tśuanᴮ duɑn don tśuan tśion	*tôn *tonɁNEW_ENTRYtuán2	duân,tśjwänᴮ	tuɑn tśuanᴮ duɑn don tśuan tśion	*dôn *ton
+短	duǎn	tuânᴮ	tuɑnᴮ tonᴮ toiᴮ	*tônɁ
+斷	duàn1	tuânᴮ,tuânᶜ	donᴮ donᶜ duɑnᴮ duɑnᶜ	*tônɁ/sNEW_ENTRYduàn	duânᴮ	donᴮ duɑnᴮ	*dônɁ
+段	duàn2			
+鍛	duàn3	tuânᶜ	tonᶜ tuɑnᶜ	*tôns
+堆	duī	tuậi	tuəi	*tûi
+碓	duì1	tuậiᶜ	tuəiᶜ	*tûih
+槌	chuí	˘ḍjwi	ḍui	*drui
+兌	duì2			NEW_ENTRYduì3			NEW_ENTRYduì	duâiᶜ	dos duɑs	*lôtsNEW_ENTRYduì	duâiᶜ,tʰuâiᶜ	dos duɑs	*lôts
+奪	duì4			NEW_ENTRYduó2			NEW_ENTRYduó	duât	duɑt dot	*lôtNEW_ENTRYduì	duâiᶜ	dos duɑs	*lôts
+隊	duì7	duậiᶜ	duəs	*lûs
+敦	dūn1	tuən	tuən	*tûnNEW_ENTRYtuán1	duân	duɑn don	*dôn
+屯	tún	duən	duən	*dûnNEW_ENTRYfá4	bjwɐt	buɑt	*batNEW_ENTRYtún1	duən	duən	*dûnNEW_ENTRYtún2	duən	duən	*dûn
+窀	tún	duən	duən	*dûnNEW_ENTRYtún2	duən	duən	*dûn
+肫	zhūn	tśjuen	tśun tśuin	*tunNEW_ENTRYzhūn3			
+盾	dùn1 shǔn	duənᴮ,dźjuenᴮ	źunᴮ źuinᴮ	*m-lunɁNEW_ENTRYshǔn2			
+楯	dùn1 shǔn	duənᴮ,dźjuenᴮ	źunᴮ źuinᴮ	*m-lunɁNEW_ENTRYshǔn2			
+頓	dùn2	tuənᶜ	tuənᶜ	*tûnsNEW_ENTRYdùn3			NEW_ENTRYdùn	tuənᶜ	tuənᶜ	*tûns
+鈍	dùn	duənᶜ	duənᶜ	*dûns
+沌	dùn	duən,duənᴮ	duən duənᴮ	
+遯	dùn4	duənᴮ/ᶜ	duənᴮ duənᶜ	*dûnɁ/s
+遁	dùn4	duənᴮ/ᶜ	duənᴮ duənᶜ	*dûnɁ/s
+多	duō	tâ	tɑi	*tâi *tlai
+諸	zhū	tśjwo	tśɑ	*taNEW_ENTRYzhū3			
+庶	shù	śjwoᶜ	śɑᶜ	*thlakh *thlah *lhah *lhakh
+掇	duó4	tuât,ṭjwat	ṭuɑt tuɑt	*trot *tôt
+揃	duó5	dâk	dɑk	*lâk
+朵	duǒ1	tuâᴮ	toiᴮ	NEW_ENTRYduǒ	tuâᴮ	tuɑᴮ	*toiɁ
+鬌	duǒ2 chuí	tuâᴮ,duâᴮ,ḍwie	tuɑiᴮ toiᴮ tuɑᴮ	*tôiɁ *dôiɁNEW_ENTRYduǒ3 chuí		tuɑiᴮ toiᴮ tuɑᴮ	
+舵	duò3	dâᴮ	dɑiᴮ	*lâiɁ.
+剁	duò4	tuâᶜ	tuɑiᶜ toiᶜ	*tôih
+俄	é1	ʅŋâɿ	ŋɑi	*ŋâi
+鵝	é3	ʅŋâɿ	ŋɑi	*ŋâi
+訛	é4	ʅŋuâɿ	ŋuɑi ŋoi	*ŋôiNEW_ENTRYé7	ŋuâ	ŋuɑi ŋoi	*ŋôi
+吪	é4	ʅŋuâɿ	ŋuɑi ŋoi	*ŋôi
+貨	huò	ʅxuâᶜɿ	huɑiᶜ hoiᶜ	*hŋôihNEW_ENTRYhuò5			
+化	huà	xwaᶜ	huaiᶜ	*hŋroihNEW_ENTRYhuà1			
+瓦	wǎ	ŋwaᴮ	ŋuaiᴮ ŋɔiᴮ	*ŋrôiʔNEW_ENTRYwǎ			
+詻	é5			NEW_ENTRYé	ŋɐk	ŋak	*ŋrâk
+額	é6			NEW_ENTRYé	ŋɐk	ŋak	*ŋrâk
+偽	wèi	ŋjwieᶜ	ŋyɑiᶜ ŋioiᶜ	*ŋoihNEW_ENTRYwèi12			
+厄	è1	ʔɛk	ʔɛk	*ʔrêk *ʔek
+軛	è1	ʔɛk	ʔɛk	*ʔrêk *ʔek
+隘	è ài	ʔaɨᶜ	ʔaiᶜ	*ʔrêkh *ʔekh
+阨	è ài	ʔaɨᶜ	ʔaiᶜ	*ʔrêkh *ʔekh
+啞	è2			NEW_ENTRYyǎ1	Ɂaᴮ	Ɂaᴮ	*ɁâɁNEW_ENTRYè	Ɂak	Ɂak	*Ɂâk
+惡	è3	ʔâk	ʔɑk	*ʔâkNEW_ENTRYwù	ʔuoᶜ	ʔɑᶜ	*ʔâkhNEW_ENTRYfèn1	bjuənᴮ		NEW_ENTRYwū5	Ɂuo	Ɂɑ	*ɁâNEW_ENTRYwù8			
+效	xiào	Ɣauᶜ	gauᶜ	*grâuhNEW_ENTRYxiào3			
+傚	xiào	Ɣauᶜ	gauᶜ	*grâuh
+僬	jiào7	tsjäuᶜ	tsiauᶜ	*tsauh
+潐	jiào7	tsjäuᶜ	tsiauᶜ	*tsauh
+醮	jiào7	tsjäuᶜ	tsiauᶜ	*tsauh
+憔	qiáo	dzjäu	dziau	*dzau
+譙	qiáo	dzjäu	dziau	*dzau
+悄	qiǎo	tsʰjäuᴮ		
+煬	jiào8			NEW_ENTRYjiào	dzjäuᶜ	dziauᶜ	*dzauh *dziauhNEW_ENTRYyàng	jiaŋᶜ	jɑŋᶜ	*laŋhNEW_ENTRYyàng2			
+挾	jiē1			NEW_ENTRYjiā4	tsiep	tsep	*tsêpNEW_ENTRYxié1	Ɣiep	gep	*gêp
+皆	jiē2	kăi	kɛi	*krî
+喈	jiē2	kăi	kɛi	*krî
+偕	xié	kăi	kɛi	*krîɁ !
+諧	xié	Ɣăi	gɛi	*grîNEW_ENTRYxié4			
+階	jiē3	kăi	kɛi	*krî *krə̂i
+接	jiē4	tsjäp	tsiap	*tsap
+際	jì	tsjäiᶜ	tsias	*tsjats *tsjapsNEW_ENTRYjì12			
+嗟	jiē5	tsja	tsia	*tsa *tsai
+唶	jiè	tsjaᶜ	tsiah	
+咨	zī	tsi	tsi	*tsəi *tsiNEW_ENTRYzī6			
+秸	jiē6	kăt	kɛt	*krêt
+妹	jiē	kăi	kɛi	NEW_ENTRYmèi1	muậiᶜ	məs	*mə̂s *mîs
+揭	jiē7	g/k/kʰjät 3,gjɐt	gɨat kʰias	*gratNEW_ENTRYjié3		gɨat kʰias	
+楬	jiē	kʰjäiᶜ	kʰias	*khrats
+梜	jié1 jiā	kiep,kap	kap kep	*kêp *kra/epNEW_ENTRYjiā5			
+捷	jié2	dzjäp	dziap	*dzap
+妾	qiè	tsʰjäp	tsʰiap	*tshapNEW_ENTRYqiè2			
+睫	jié2a	tsjäp	tsiap	*tsap
+羯	jié4	kjät 3	kiat	*krat
+渴	jié5	gjät 3	giat	*gratNEW_ENTRYkě2	kʰât	kʰɑt	*khât
+竭	jié5	gjät 3	giat	*grat
+結	jié6	kiet	ket	*kît
+稿	gǎo	kâuᴮ	kɑuᴮ	*kâuɁNEW_ENTRYgǎo3			
+犒	kào			NEW_ENTRYkào	kʰâuᶜ	kʰɑuᶜ	*khâuh
+柯	kē1	kâ	kɑi	*kâi
+牁	gē			NEW_ENTRYgē5			
+軻	kě	kʰâ[ᴮ/ᶜ]	kʰɑi	*khâiNEW_ENTRYkē2 kě kè			
+科	kē3	kʰuâ	kʰuɑi	*khwai **k-waiNEW_ENTRYkē4			NEW_ENTRYkē	kʰuâ	kʰuai	*khwâi
+咳	ké1	--	kʰək	
+欬	ké1	--	kʰək	NEW_ENTRYkài	kʰậiᶜ [GY]	kʰəᶜ	*khə̂kh *khə̂hNEW_ENTRYkài1			
+殼	ké2	kʰåk	kʰɔk	*khrôkNEW_ENTRYqiào1			NEW_ENTRYquè1			
+可	kě1			NEW_ENTRYkě	kʰâᴮ	kʰɑiᴮ	*khâiɁ
+克	kè1	kʰək	kʰək	*khə̂k
+刻	kè2	kʰək	kʰək	*khə̂k
+客	kè3	kʰɐk	kʰak	*khrâk
+喀	kè4	kʰɐk	kʰak	*khrâkNEW_ENTRYkā			
+恪	kè5			
+肯	kěn1	kʰəŋᴮ	kʰəŋᴮ	*khə̂ŋɁ
+懇	kěn2	kʰənᴮ	kʰənᴮ	*khə̂nɁ
+豤	kěn2	kʰənᴮ	kʰənᴮ	*khə̂nɁ
+悃	kǔn	kʰuənᴮ	kʰuənᴮ	*khûnɁNEW_ENTRYkǔn1			
+齦	kěn3	kʰənᴮ	kʰənᴮ	*khə̂nɁ
+坑	kēng1	kʰɐŋ	kʰaŋ	*khrâŋ
+阬	kēng1	kʰɐŋ	kʰaŋ	*khrâŋ
+牼	kēng2	kʰɛŋ,Ɣɛŋ	kʰɛŋ	*khrêŋ
+莖	héng jīng	Ɣɛŋ	gɛŋ	*grêŋNEW_ENTRYhéng3 jīng			NEW_ENTRYjīng5			
+空	kōng	kʰuŋ	kʰoŋ	*khôŋNEW_ENTRYkòng	kʰuŋᶜ	kʰoŋᶜ	*khôŋh
+孔	kǒng	kʰuŋᴮ	kʰoŋᴮ	*khôŋɁNEW_ENTRYkǒng1			
+恐	kǒng2	kʰjwoŋᴮ	kʰioŋᴮ	*khoŋɁ
+妳	nǐ2			
+泥	nì1			NEW_ENTRYní2	niei	nei	*nə̂i *nîNEW_ENTRYnì	nieiᶜ	neiᶜ	*nîh *nîts
+昵	nì2	ṇjet	ṇit	*nritNEW_ENTRYnì3			NEW_ENTRYnì	ṇjet	ṇit	*nrit
+衵	nì4	ṇjet	ṇit	*nrit
+俎	nì5			
+逆	nì6	ŋjɐk	ŋiak	*ŋrak
+朔	shuò	ṣåk	ṣak ṣɔk	*sŋrâk / *srôkNEW_ENTRYshuò1			
+惄	nì7			NEW_ENTRYnì	niek	neuk nek	*niûk
+匿	nì8			NEW_ENTRYnì	ṇjək	ṇik	*nrək *r-nək
+暱	nì9	ṇjək	ṇək	*nrək
+溺	nì10	niek	neuk nek	*niâukNEW_ENTRYniào	nieuᶜ	neuᶜ	*niâukh
+年	nián	nien	nein nen	*nîn
+輦	niǎn2	ljänᴮ	lianᴮ	*ranɁ
+連	niǎn2	ljänᴮ	lianᴮ	*ranɁNEW_ENTRYlián1	ljän	lian	*ran *renNEW_ENTRYlián2 liǎn			NEW_ENTRYlián3			NEW_ENTRYlián	ljän	lian	*ran
+涊	niǎn3 rěn	ńźjenᴮ	ńinᴮ	*nənɁNEW_ENTRYrěn5			
+跈	niǎn4			
+蹍	niǎn4			NEW_ENTRYzhǎn3			
+念	niàn1	niemᶜ	nem	*nə̂ms *nêms
+恁	rèn	ńźjəmᴮ	ńimᴮ	*nəmɁNEW_ENTRYrèn3			
+名	niàn2	nienᶜ	nenᶜ	*nêns *nînsNEW_ENTRYmíng1	mjiäŋ 4	mieŋ	*min *meŋ
+孃	niáng	ṇiaŋ		
+娘	niáng	ṇiaŋ		
+鳥	niǎo	tieuᴮ	teuᴮ	*tiûɁ
+尿	niào	nieuᶜ	neuᶜ	*niâukh
+捻	niē	niep	nep	*nêp *nîp
+忱	niè1			NEW_ENTRYniè	ṇjäp	ṇap	*nrep
+臬	niè2	ŋjät 3	ŋiat	*ŋrat
+闑	niè3			
+涅	niè4	niet	net	*nîtNEW_ENTRYniè	niet	neit net	*nît
+敜	niè5	niep	nep	*nêp *nîp
+哲	zhé3	ṭjät	ṭɑt	*trat
+晢	zhé4	tśjät,tśjäiᶜ	tśas tśat	*tats *tat
+蜇	zhé5			
+磔	zhé6	ṭɐk	ṭak	*trâk
+摺	zhé7	tśjäp	tśap	*tap
+謫	zhé8	ṭɛk,ḍɛk	ḍɛk ṭɛk	*trêk *drêk
+轍	zhé9	ḍjät	ḍat	*drat
+榴	zhé9	ḍjät	ḍat	*drat
+慴	zhé10			
+赭	zhě	tśjaᴮ	tśaᴮ	*taɁ
+柘	zhè1	tśjaᶜ	tśaᶜ	*takh
+宅	zhè2			NEW_ENTRYzhái	ḍɐk	ḍak	*drâk
+炙	zhè3			NEW_ENTRYzhì14	tśjäk	tśak	*takNEW_ENTRYzhè	tśjaᶜ	tśaᶜ	*takh
+珍	zhēn1	ṭjen	ṭin	*trən
+斟	zhēn2	tśjəm	tśim	*təm
+甚	shèn	źjəmᴮ/ᶜ	dźimᴮ dźimᶜ	*dəmɁ/sNEW_ENTRYshèn3			
+敲	zhēn3	ṭjəm	ṭim	*trəm
+貞	zhēn4	ṭjäŋ	ṭeŋ	*treŋ
+偵	zhēn zhēng	ṭjäŋ,ṭʰjäŋ[ᶜ]	ṭʰeŋ ṭeŋ	*threŋ *treŋ
+真	zhēn5	tśjen	tśin	*tinNEW_ENTRYqiāng	tsʰjaŋ	tsʰiɑŋ	*s-lhaŋ
+振	zhēn6			NEW_ENTRYzhèn2	tśjenᶜ	tśinᶜ	*tənsNEW_ENTRYzhēn5	tśjen	tśin	*tən
+桭	zhēn7	tśjen	tśin	*tən
+烝	zhēng	tśjəŋ	tśiŋ	*təŋNEW_ENTRYzhēng4	tśjəŋ	tśiŋ	*təŋNEW_ENTRYzhēng5			
+箴	zhēn8	tśjəm	kim	*kim
+鍼	zhēn8	tśjəm	kim	*kim
+溱	zhēn9			NEW_ENTRYzhēn	tṣjɛn	tṣin	*tsrən
+蓁	zhēn9			NEW_ENTRYzhēn	tṣjɛn	tṣin	*tsrən
+枕	zhěn1	tśjəmᴮ	tśimᴮ	*kimɁ
+咢	è4	ŋâk	ŋɑk	*ŋâk
+鱷	è5	ŋâk	ŋɑk	*ŋâk
+愕	è6	ŋâk	ŋɑk	*ŋâk
+鄂	è6	ŋâk	ŋɑk	*ŋâk
+噩	è6	ŋâk	ŋɑk	*ŋâk
+遻	wù	ŋuoᶜ	ŋɑᶜ	*ŋâkhNEW_ENTRYwù9			
+蘇	sū	suo	sɑ	*sŋâNEW_ENTRYsū1	suo	sɑ	*sŋâNEW_ENTRYsū2			NEW_ENTRYzhuǎn2			
+索	suǒ	sâk	sɑk	*sŋâkNEW_ENTRYsuǒ	sâk	sɑk	*sâkNEW_ENTRYsuǒ2	sâk	sɑk	*sâkNEW_ENTRYsuǒ3			NEW_ENTRYsuǒ4			
+顎	è7	ŋâk	ŋɑk	
+遏	è8	ʔât	ʔɑt	*ʔât
+閼	è8	ʔât	ʔɑt	*ʔât
+頞	è9			
+餓	è10	ŋâᶜ	ŋɑiᶜ	*ŋâih
+媚	è11			NEW_ENTRYè	ŋât	ŋɑt	*ŋât
+宏	è11			NEW_ENTRYè	ŋât	ŋɑt	*ŋât
+櫱	è11			NEW_ENTRYniè			NEW_ENTRYè	ŋât	ŋɑt	*ŋât
+而	ér1	ʅńźiɿ	ńə	*nəNEW_ENTRYér2	ńźi	ńə	*nəNEW_ENTRYér3			NEW_ENTRYér3	ńźi	ńə	*nə
+兒	ér4	ńźie	ńe	*ŋe
+発	yá			
+倪	ní	ŋiei	ŋe	*ŋêNEW_ENTRYní4			
+唲	ér5	ńźie	ńe	*ne
+耳	ěr1	ńźiᴮ	ńəᴮ	*nəʔNEW_ENTRYěr2			
+衈	èr	ńźiᶜ	ńəᶜ	*nəhNEW_ENTRYèr2			
+珥	èr	ńźiᶜ	ńəᶜ	*nəhNEW_ENTRYèr2			
+餌	ěr3	ńźiᶜ	ńəᶜ	*nəhNEW_ENTRYèr3	ńźiᶜ	ńəᶜ	*nəh
+爾	ěr4	ńźjeᴮ	ńeᴮ	*neʔNEW_ENTRYěr5	ńźjeᴮ	ńeᴮ	*neʔNEW_ENTRYěr6			NEW_ENTRYěr	ńźjeᴮ		
+邇	ěr7	ńźieᴮ	ńeᴮ	*neʔ
+褻	xiè	sjät	siat	*snat *snetNEW_ENTRYxiè12			
+二	èr1	ńźiᶜ	ńis	*nis
+發	fā	pjwɐt	puɑt	*patNEW_ENTRYfá1			NEW_ENTRYfá	pjwɐt	puɑt	*pat
+伐	fá2	bjwɐt	buɑt	*batNEW_ENTRYfá3	bjwɐt	buɑt	*batNEW_ENTRYfá4	bjwɐt	buɑt	*bat
+罰	fá3	bjwɐt	buɑt	*bat
+筏	fá5	bjwɐt	buɑt	*bat
+乏	fá6			NEW_ENTRYfá	bjwɐp	buɑp	*bap
+法	fǎ1			NEW_ENTRYfǎ2			NEW_ENTRYfǎ	pjwɐp	puɑp	*pap
+髮	fǎ3	pjwɐt	puɑt	*pat
+拚	fān1	pʰjwɐn	pʰuɑn	*phan
+翻	fān1	pʰjwɐn	pʰuɑn	*phan
+帆	fān2	bjwɐm	buɑm	*bam
+篷	péng	buŋ		NEW_ENTRYpéng6			
+蕃	fān3	pjwɐn	puɑn	*panNEW_ENTRYfán7	bjwɐn	buɑn	*ban
+樊	fán	bjwɐn	buɑn	*ban
+凡	fán4	bjwɐm	buɑm	*bom *bam
+燔	fán5	bjwɐn	buɑn	*ban
+蹯	fán6	bjwɐn	buɑn	*ban
+繁	fán7	bjwɐn	buɑn	*ban
+反	fǎn	pjwɐnᴮ	puɑnᴮ	*panɁ
+販	fàn	pjwɐnᶜ	puɑnᶜ	*pans
+番	fān	pʰjwɐn	pʰuɑn	*phan
+幡	fān	pʰjwɐn	pʰuɑn	*phan
+氾	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*phamsNEW_ENTRYfàn	bjwɐmᶜ	buɑmᶜ	*bams
+汎	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*phams
+泛	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*phams
+犯	fàn	bjwɐmᴮ	buɑmᴮ	*bamɁNEW_ENTRYfàn2			
+飯	fàn3	bjwɐnᶜ	buɑnᶜ	*bans *bons *banNEW_ENTRYfán	bjwɐn	buɑn	*bans *bons *ban
+方	fāng1	pjwaŋ	puɑŋ	*paŋNEW_ENTRYfāng2	pjwaŋ	puɑŋ	*paŋNEW_ENTRYfāng3	pjwaŋ	puɑŋ	*paŋNEW_ENTRYfāng4	pjwaŋ	puɑŋ	*paŋ
+舫	fǎng	pjwaŋᶜ,pwâŋᶜ	puɑŋᶜ	*paŋh
+放	fǎng	pjwaŋᴮ	puɑŋᴮ	*paŋɁNEW_ENTRYfǎng3			NEW_ENTRYfàng	pjwaŋᶜ	puɑŋᶜ	*paŋh
+芳	fāng5	pʰjwaŋ	pʰuɑŋ	*phaŋ
+坊	fáng1	bjwaŋ	buɑŋ	*baŋ
+防	fáng1	bjwaŋ	buɑŋ	*baŋ
+房	fáng2	bjwaŋ	buɑŋ	*baŋ
+紡	fǎng1	pʰjwaŋᴮ	pʰuɑŋᴮ	*phaŋɁ
+訪	fǎng2	pʰjwaŋᶜ	pʰuɑŋᶜ	*phaŋh
+聘	pìng	pʰjäŋᶜ	pʰieŋᶜ	*pheŋhNEW_ENTRYpìng			
+非	fēi1	pjwei	pui	*pəi *puiNEW_ENTRYfēi2	pjwei	pui	*pəiNEW_ENTRYfēi2			
+誹	fěi	pjwei[ᶜ]	pui puiᶜ	*pəi *pəihNEW_ENTRYfěi3			
+扉	fēi3	pjwei	pui	*pəi
+棐	fěi	pjweiᴮ	puiᴮ	*pəiɁNEW_ENTRYfěi1	pjweiᴮ	puiᴮ	*pəiɁNEW_ENTRYfěi2			
+飛	fēi4	pjwei	pui	*pəi *pui
+妃	fēi5	pʰjwei	pʰui	*phəi
+肥	féi1	bjwei	bui	*bəi
+腓	féi2	bjwei	bui	*bəi
+匪	fěi1	pjweiᴮ	puiᴮ	*pəiɁ
+胐	fěi4	pʰjweiᴮ,pʰuət	pʰət pʰuiᴮ	*phəiɁ *phə̂t *phuiɁ *phut
+吠	fèi1	bjwɐiᶜ	buɑs	*bats *bos *bas
+芾	fèi2			NEW_ENTRYfú5			NEW_ENTRYfú14	pjuət	put	*pət *put
+肺	fèi3	pʰjwɐiᶜ	pʰuas	*phots *phats
+沸	fèi4	pjwəiᶜ	pus	*pətsNEW_ENTRYfú13	pjwət	put	*pət
+疿	fèi5	pjweiᶜ		
+廢	fèi6	pjwɐiᶜ	puɑs	*pats
+分	fēn1	pjuən	pun	*pən *punNEW_ENTRYfèn	bjuənᶜ	bunᶜ	*bəns
+雰	fēn2	phjuən	pʰun	*phənNEW_ENTRYfēn3			
+氛	fēn2	phjuən	pʰun	*phənNEW_ENTRYfēn fén	bjuən	bun	*bənNEW_ENTRYfén1			
+饙	fēn	pjuən	pun	*pənNEW_ENTRYfēn7			
+紛	fēn4	pʰjuən	pʰun	*phənNEW_ENTRYfēn4			
+芬	fēn5	pʰjuən	pʰun	*phən
+翂	fēn6	pjuən	pun	*pən
+奮	fèn	pjuənᶜ	punᶜ	*pənsNEW_ENTRYfèn4	pjuənᶜ	punᶜ	*pənsNEW_ENTRYfèn5			
+羒	fén2			
+焚	fén3	bjuən	bun	*bən *bun
+墳	fén4	bjuən	bun	*bənNEW_ENTRYfèn	bjuənᴮ	bunᴮ	*bənɁNEW_ENTRYfén5	bjuən	bun	*bən
+憤	fèn	bjuənᴮ	bunᴮ	*bənɁNEW_ENTRYfèn6			
+忿	fèn	pʰjuənᴮ/ᶜ	pʰunᴮ pʰunᶜ	*phənɁ/s
+濆	fén5	bjuən	bun	*bənNEW_ENTRYfén9			
+鼖	fén6			
+蕡	fén7			
+羵	fén8			
+粉	fěn	pjuənᴮ	punᴮ	*bənɁ
+秎	fèn2	bjuənᶜ	bunᶜ	*bəns
+糞	fèn3	pjuənᶜ	punᶜ	*pəns
+丰	fēng1			NEW_ENTRYfēng	pʰjwoŋ	pʰuoŋ	*phoŋ
+封	fēng2	pjwoŋ	puoŋ	*poŋ
+犎	fēng3	pjwoŋ	puoŋ	*poŋ
+鋒	fēng4	pʰjwoŋ	pʰuoŋ	*phoŋ
+蜂	fēng4	pʰjwoŋ	pʰuoŋ	*phoŋ
+縫	féng	bjwoŋ	buoŋ	*boŋNEW_ENTRYfèng	bjwoŋᶜ	buoŋᶜ	*boŋhNEW_ENTRYféng3			
+峰	fēng5	pʰjwoŋ	pʰuoŋ	*phoŋ
+豐	fēng6	pʰjuŋ	pʰuŋ	*phuŋ
+風	fēng7	pjuŋ	puŋ puəm	*pəm
+諷	fèng	pjuŋᶜ	puəmᶜ puŋᶜ	*pəmsNEW_ENTRYfèng2			
+渢	féng	bjuŋ	buəm buŋ	*pəmNEW_ENTRYféng4			
+楓	fēng8	pjuŋ	puŋ puəm	*pəm
+逢	féng1	bjwoŋ	buoŋ	*boŋNEW_ENTRYféng2	bjwoŋ	buoŋ	*boŋ
+夆	féng1	bjwoŋ	buoŋ	*boŋ
+摓	féng2	bjwoŋ	buoŋ	*boŋ
+奉	fèng1	bjwoŋᴮ,pʰjwoŋᴮ	pʰuoŋᴮ buoŋᴮ	*boŋɁ phoŋɁ PCH *-uŋ.
+俸	fèng	bjwoŋᶜ	buoŋᶜ	*boŋh
+鳳	fèng3	bjuŋᶜ	puəmᶜ buŋᶜ mie me ŋe	*pəmsNEW_ENTRYní5	ŋiei,miei,mjie	puəmᶜ buŋᶜ mie me ŋe	*ŋê *me
+夫	fū2	pju	buɑ puɑ	*paNEW_ENTRYfú1	bju	buɑ puɑ	*ba *pa
+鈇	fū3			NEW_ENTRYfū	pju	puɑ	
+柎	fū5			NEW_ENTRYfū	pju	puo	*po
+扶	fú2	bju	buɑ	*baNEW_ENTRYfú3	pju	puɑ	*pa
+傅	fù	pjuᶜ	puɑᶜ	*pahNEW_ENTRYfù16			
+賻	fù	bjuᶜ	buɑᶜ	*bahNEW_ENTRYfù16			
+輔	fǔ	bjuᴮ	buɑᴮ	*baɁNEW_ENTRYfǔ8			
+伏	fú4	bjuk	buk	*bəkNEW_ENTRYfù	bjəuᶜ	buᶜ	*bəkhNEW_ENTRYfù2			
+服	fú4	bjuk	buk	*bək
+符	fú6			NEW_ENTRYfú	bju	buo	*bo
+拂	fú9	pʰjuət	pʰut	*phət
+茀	fú10	pjuət	put	*pətNEW_ENTRYfú11	pjuət	put	*pətNEW_ENTRYfú12			NEW_ENTRYfú15	pjuət	put	*pət
+韍	fú14	pjuət	put	*pət *put
+黻	fú15	pjuət	put	*pət
+浮	fú16	bjəu	bu	*bu
+桴	fú	pʰju	pʰuo	*phoNEW_ENTRYfú	bjuᴮ,bəuᴮ	boᴮ buoᴮ	*boɁ *bôɁNEW_ENTRYfú18			
+泭	fú	pʰju	pʰuo	*pho
+蜉	fú17	bjəu	bu	*bu
+福	fú19	pjuk	puk	*pək
+富	fù	pjəuᶜ	puᶜ	*pəkhNEW_ENTRYfù17			
+蝠	fú20			
+匐	fú21			
+斧	fǔ1	pjuᴮ	puɑᴮ	*paɁ
+府	fǔ2			NEW_ENTRYfǔ	pjuᴮ	puoᴮ	*poɁ
+腑	fǔ3			
+腐	fǔ4	pjuᴮ	puoᴮ	*poɁ
+膚	fǔ9	pju	puɑ	*pa
+撫	fǔ10	pʰjuᴮ	pʰuɑᴮ	*phaɁ
+拊	fǔ	pʰjuᴮ	pʰuoᴮ	*phoɁ
+父	fù1	bjuᴮ	buɑᴮ	*baɁ
+付	fù3	pjuᶜ	puoᶜ	*poh
+附	fù	bjuᶜ	buoᶜ	*bohNEW_ENTRYfù6			
+垘	fù	bjuᶜ	buoᶜ	*bohNEW_ENTRYfù6			
+胕	fù4	bjuᶜ	buoᶜ	*boh
+蚹	fù	bjuᶜ	buoᶜ	*bohNEW_ENTRYfù5			
+祔	fù6			
+駙	fù6			
+阜	fù7	bjəuᴮ	buᴮ	*buɁNEW_ENTRYfù8	bjəuᴮ	buᴮ	*buɁ
+垺	pēi	pʰju,pʰjəu,pʰuˆ˘ai	pʰu pʰə pʰio	*pho *phu *phə̂NEW_ENTRYpēi2			
+婦	fù9	bjəuᴮ	buᴮ	*bəɁ
+賦	fù10	pjuᶜ	puɑᶜ	*pah
+負	fù11	bjəuᴮ	buᴮ	*bəɁ
+復	fù12	bjuk	buk	*bukNEW_ENTRYfù	bjəuᶜ	buᶜ	*bukh
+複	fù	pjuk	puk	*puk
+覆	fù	pʰjuk	pʰuk	*phukNEW_ENTRYfù	pʰjəuᶜ	pʰuᶜ	*phukh
+腹	fù13	pjuk	puk	*puk
+蝮	fù14	pʰjuk	pʰuk	*phuk
+縛	fù15	bjwak	buɑk	*bak
+陔	gāi	kậi	kəi	*kə̂
+改	gǎi	kậiᶜ	kəiᴮ	*kə̂Ɂ *kləɁ
+蓋	gài			NEW_ENTRYhé8	Ɣâp	gɑp	*gâpNEW_ENTRYgài	kâiᶜ	kɑs	*kâts *kâps
+干	gān1	kân	kɑn	*kânNEW_ENTRYgān2	kân	kɑn	*kânNEW_ENTRYgān3			NEW_ENTRYgān	kân	kɑn	*kân
+扞	hàn	ɣânᶜ	gɑnᶜ	*gânsNEW_ENTRYhàn3			
+閈	hàn	ɣânᶜ	gɑnᶜ	*gânsNEW_ENTRYhàn3			
+竿	gān4	kân	kɑn	*kân
+簳	gǎn	kânᴮ	kɑnᴮ	*kânɁNEW_ENTRYgǎn6			
+笴	gě	kâᴮ,kânᴮ	kɑiᴮ kɑnᴮ	*kâiɁ *kânɁNEW_ENTRYgǎn5			NEW_ENTRYgě1			
+箇	gè	kâᶜ	kɑiᶜ	*kâihNEW_ENTRYgè3			
+個	gè	kâᶜ	kɑiᶜ	*kâihNEW_ENTRYgè3			
+肝	gān5	kân	kɑn	*kân
+甘	gān7	kâm	kɑm	*kâm *klam *kluam *klom
+酣	hān	ɣâm	gɑm	*gâm *glamNEW_ENTRYhān2			
+柑	gān8			NEW_ENTRYqián2	gjäm 3	giɑm	*gam
+乾	gān9	kân	kɑn	*kânNEW_ENTRYqián4	gjän 3	giɑn	*gan
+旱	hàn	ɣânᴮ	gɑnᴮ	*gânɁNEW_ENTRYhàn4			
+趕	gǎn1			
+稈	gǎn2			
+敢	gǎn3	kâmᴮ	kɑmᴮ	*kâmɁ kwam)
+感	gǎn4	kậmᴮ	kəmᴮ	*kə̂mɁ
+幹	gàn1	kânᶜ	kɑnᶜ	*kâns
+翰	hàn	ɣânᶜ	gɑnᶜ	*gânᴬ !NEW_ENTRYhàn7			
+紺	gàn2	kậmᶜ	kəmᶜ	*kə̂ms *kləms
+亢	gāng1	kâŋ	kɑŋ	*kâŋ *klaŋ
+岡	gāng2	kâŋ	kɑŋ	*kâŋ
+綱	gāng3	kâŋ	kɑŋ	*kâŋ
+剛	gāng4	kâŋ	kɑŋ	*kâŋ
+鋼	gāng4	kâŋ	kɑŋ	*kâŋ
+彊	qiǎng	gjaŋᴮ	giɑŋᴮ	*gaŋɁNEW_ENTRYjiāng5-jiāng			NEW_ENTRYqiáng	gjaŋ	an giɑŋ	*gaŋNEW_ENTRYqiǎng2			
+犅	gāng5	kâŋ	kɑŋ	*kâŋ *klaŋ
+肛	gāng6	kåŋ,xåŋ		
+港	gǎng			NEW_ENTRYgǎng	kåŋᴮ	kɔŋᴮ	*krôŋɁ
+高	gāo1	kâu	kɑu	*kâuNEW_ENTRYgāo	kâuᶜ	kɑuᶜ	*kâuh
+膏	gāo3	kâu[ᶜ]	kɑu kɑuᶜ	*kâu *kâuh
+羔	gāo4	kâu	kɑu	*kâu
+櫜	gāo5	kâu	kou	*kû *klu
+弢	tāo	tʰâu	tʰou	*lhûNEW_ENTRYtāo2			
+暠	gǎo1	kâuᴮ	kɑuᴮ	*kâuɁ
+皓	gǎo2			NEW_ENTRYhào2	Ɣâuᴮ	gouᴮ	*gûɁNEW_ENTRYgǎo	kâuᴮ	kouᴮ	*kûɁ
+皋	gǎo2			NEW_ENTRYgǎo	kâuᴮ	kouᴮ	*kûɁ
+縞	gǎo4			
+告	gào	kuok,kâuᶜ	kouk kouᶜ	*kluk *klukh
+誥	gào	kâuᶜ	kouᶜ	*klukh
+戈	gē1	kuâ	kuɑi	*kuâi
+歌	gē2	kâ	kɑi	*kâi
+割	gē3	kât	kɑt	*kât
+害	hài	ɣâiᶜ	gɑs	*gâtsNEW_ENTRYhài2			
+犗	jiè	kaiᶜ	kas	*krâtsNEW_ENTRYjiè10			
+胳	gē4	kâk	kɑk	*kâk *klak
+革	gé1	kɛk	kɛk	*krə̂k
+隔	gé2	kɛk	kɛk	*krêk
+膈	gé	kɛk	kɛk	*krêk
+格	gé3	kɐk	kak	*krâkNEW_ENTRYgé4	kɐk	kak	*krâkNEW_ENTRYgè2	kâk	kɑk	*kâk
+假	jiǎ	kaᴮ	kaᴮ	*krâɁNEW_ENTRYjiǎ2	kaᴮ	kaᴮ	*krâɁNEW_ENTRYjiǎ3	kaᴮ	kaᴮ	*krâɁNEW_ENTRYjiǎ4			
+骼	gé5	kɐk	kak	*krâkNEW_ENTRYgé	kɐk,kʰɐk,kâk	k(ʰ)ak kɑk	*khrâk *krâk *klak *kâk
+觡	gé6	kɐk	kak	*krâk
+閣	gé7			
+閤	gé8			NEW_ENTRYhé	Ɣập		NEW_ENTRYgé	kập	kəp	*kə̂p
+蛤	gé8			NEW_ENTRYgé	kập	kəp	*kə̂p
+哿	gě2			NEW_ENTRYgě	kâᴮ	kɑiᴮ	*kâiɁ
+各	gè1	kâk	kɑk	*kâk
+舉	jǔ	kjwoᴮ	kiɑɁ	*kaɁNEW_ENTRYjǔ6	kjwoᴮ	kiɑᴮ	*kaɁ
+鬲	gè4	kɛk	kɛk	*krêk
+吏	gè5	kat,kăt	kat kɛt	*krêtNEW_ENTRYlì	ljiᶜ	liəᶜ	*rəhNEW_ENTRYlì6			
+根	gēn	kən	kən	*kə̂n
+艮	gèn			NEW_ENTRYgèn	kənᶜ	kənᶜ	*kə̂ns
+更	gēng1	kɐŋ	kaŋ	*krâŋNEW_ENTRYgèng	kɐŋᶜ	kaŋᶜ	*krâŋh
+埂	gēng2			
+賡	gēng3	kɐŋ[ᶜ]	kaŋ kaŋᶜ	*krâŋh *krâŋ
+庚	gēng4			NEW_ENTRYgēng	kɐŋ	kaŋ	*krâŋ
+耕	gēng5	kɛŋ	kɛŋ	*krêŋ
+耿	gěng1	kɛŋᴮ	kɛŋᴮ	*krêŋɁ
+梗	gěng2			NEW_ENTRYgěng	kɐŋᴮ	kaŋᴮ	*krâŋɁ
+哽	gěng3			NEW_ENTRYgěng	kɐŋᴮ	kaŋᴮ	*krâŋɁNEW_ENTRYjùn2			NEW_ENTRYqūn	tsʰjuən,tsjuənᶜ	ts(ʰ)iun	*tsiun
+鯁	gěng3			NEW_ENTRYgěng	kɐŋᴮ	kaŋᴮ	*krâŋɁ
+恆	gèng1	kəŋᶜ	kəŋᶜ	*kə̂ŋhNEW_ENTRYhéng1	Ɣəŋ	gəŋ	*gə̂ŋ
+堩	gèng2			
+工	gōng1	kuŋ	koŋ	*kôŋ
+功	gōng1	kuŋ	koŋ	*kôŋ
+攻	gōng1	kuŋ	koŋ	*kôŋ
+弓	gōng2	kjuŋ	kuŋ	*kwəŋ
+躬	gōng3	kjuŋ	kuŋ	*kuŋ
+公	gōng4	kuŋ	koŋ	*kôŋ *kloŋNEW_ENTRYgōng4a	kuŋ	koŋ	NEW_ENTRYgōng5	kuŋ	koŋ	*kôŋNEW_ENTRYgōng6			NEW_ENTRYgōng	kuŋ	koŋ	*kôŋ *kloŋ
+鴻	húng	ɣuŋ	goŋ	*gôŋNEW_ENTRYhóng7			
+肱	gōng7	kwəŋ	kwəŋ	*kwə̂ŋ
+鞃	hóng	kwəŋ,kʰwəŋ	kʰwəŋ kwəŋ	*kwə̂ŋ *khwə̂ŋNEW_ENTRYhóng6			
+宮	gōng8	kjuŋ	kuŋ	*kuŋ
+觥	gōng9	kwɐŋ	kuaŋ	*kwrâŋ
+恭	gōng10	kjwoŋ	kɨoŋ	*koŋ *kroŋ
+龔	gōng10	kjwoŋ	kɨoŋ	*koŋ *kroŋ
+供	gōng11			NEW_ENTRYgōng	kjwoŋ[ᶜ]	kioŋ kioŋᶜ	*koŋ *koŋh
+拱	gǒng			NEW_ENTRYgǒng	kjwoŋᴮ	kioŋᴮ	*koŋɁ
+拲	gǒng			NEW_ENTRYgǒng	kjwoŋᴮ	kioŋᴮ	*koŋɁ
+共	gòng1	gjwoŋᶜ	gioŋᶜ	*goŋhNEW_ENTRYgǒng	kjwoŋᴮ	kioŋᴮ	*koŋɁ
+貢	gòng2	kuŋᶜ	koŋᶜ	*kôŋh
+句	gōu1	kəu	ko	*kô
+鉤	gōu1	kəu	ko	*kô
+枸	gōu1	kəu	ko	*kô
+區	gōu1	kəu	ko	*kô
+痀	jū	kju	kio	*koNEW_ENTRYjū8			
+胊	qú	gju	gio	*goNEW_ENTRYqú3			
+軥	qú	gju	gio	*goNEW_ENTRYqú3			
+傴	yǔ	Ɂjuᴮ	Ɂioᴮ	*ɁoɁNEW_ENTRYyǔ10			
+溝	gōu2	kəu	ko	*kô
+篝	gōu3			NEW_ENTRYgōu	kəu	ko	*kô
+狗	gǒu	kəuᴮ	koᴮ	*kôɁ *kloɁ
+垢	gòu1	kəuᴮ	koᴮ	*kôɁ
+淈	gǔ	kuət,ɣuət	guət kuət	*kût *gûtNEW_ENTRYgǔ17			
+詬	gòu2	xəuᶜ,kʰəuᶜ,kəuᴮ	koᴮ kʰoᶜ hoᶜ	kôɁ *(k)hôhNEW_ENTRYhòu2			
+冓	gòu3	kəuᶜ	koᶜ	*kôh
+遘	gòu4	kəuᶜ	koᶜ	*kôh
+覯	gòu4	kəuᶜ	koᶜ	*kôh
+姤	gòu4	kəuᶜ	koᶜ	*kôh
+購	gòu5	kəuᶜ	koᶜ	*kôh
+姑	gū1	kuo	kɑ	*kâ
+酤	gū2			NEW_ENTRYgū	kuo[ᶜ]	kɑ kɑɁ	*kâ
+孤	gū3			NEW_ENTRYgū	kuo	kuɑ	*kwâ
+罛	gū4	kuo	kuɑ	*kuâ
+軱	gū5			NEW_ENTRYgū	kuo	kuɑ	*kwâ
+古	gǔ1	kuoᴮ	kɑᴮ	*kâɁ
+故	gù	kuoᶜ	kɑᶜ	*kâhNEW_ENTRYgù3	kuoᶜ	kɑᶜ	*kâhNEW_ENTRYgù4			
+牯	gǔ3	kuoᴮ	ko	
+罟	gǔ4			NEW_ENTRYgǔ	kuoᴮ	kɑᴮ	*kâɁ
+谷	gǔ5	kuk	kok	*klokNEW_ENTRYyù	juk	jok	*lokNEW_ENTRYyù3			
+股	gǔ6	kuoᴮ	kɑᴮ	*kâɁ
+羖	gǔ7	kuoᴮ	kɑᴮ	*kâɁ
+骨	gǔ8	kuət	kuət	*kût
+鼓	gǔ9	kuoᴮ	kɑᴮ	*kâɁ *klaɁ
+瞽	gǔ10			
+賈	gǔ11	kuoᴮ	kɑᴮ	*kâɁNEW_ENTRYjià4	kaᶜ	kaᶜ	*krâh
+牟	gǔ12 zhuó	kuok,tśjak	kouk kiauk	*kâuk *kiaukNEW_ENTRYmóu1			NEW_ENTRYmóu	mjəu	mu	NEW_ENTRYzhuō1			NEW_ENTRYzhuó12			
+穀	gǔ13	kuk	kok	*kôkNEW_ENTRYgǔ14	kuk	kok	*kôk
+鷇	kòu	kʰəuᶜ	kʰoᶜ	*khôkhNEW_ENTRYkòu3			
+盬	gǔ15	kuoᴮ	kɑᴮ	*kâɁ
+蠱	gǔ16	kuoᴮ	kɑᴮ	*kâɁ
+固	gù1	kuoᶜ	kɑᶜ	*kâhNEW_ENTRYgù2	kuoᶜ	kɑᶜ	*kâh
+錮	gù	kuoᶜ	kɑᶜ	*kâhNEW_ENTRYgù2	kuoᶜ	kɑᶜ	*kâhNEW_ENTRYgù5			
+沍	hù	ɣuoᶜ	gɑᶜ	*gâhNEW_ENTRYhù4			
+牿	gù6	kuok	kouk	*kûk
+雇	gù7	kuoᶜ	kɑᶜ	*kâh
+顧	gù8	kuoᶜ	kɑᶜ	*kâɁ !NEW_ENTRYgù	kuoᶜ	kɑᶜ	*kâh
+瓜	guā1	kwa	kua	*kwrâ
+蝸	guā2			NEW_ENTRYluó1			NEW_ENTRYwō guā luó	kwa[i]	luɑi loi kɔi kuai	*krôi *C-rôi
+刮	guā3	kwat	kuat	*krôt
+寡	guǎ	kwaᴮ	kuaᴮ	*kwrâɁ
+鰥	guān	kwăn	kuɛn	*kwrə̂n *kwrânNEW_ENTRYguān6			
+挂	guà	kwaiᶜ	kuɛᶜ	*kwrêh *kwêh
+怪	guài1	kwăiᶜ	kuɛᶜ	*kwrə̂h
+夬	guài2			NEW_ENTRYguài	kwaiᶜ	kuas	*kwrâts *kwrêts
+官	guān1	kuân	kuɑn	*kôn
+倌	guān1	kuân	kuɑn	*kônNEW_ENTRYguān2	kuân	kuɑn	*kôn
+管	guān	kuân	kuɑn	*kônNEW_ENTRYguǎn	kuânᴮ	kuɑnᴮ	*kwânɁ *kônɁ
+貫	guàn	kuân[ᶜ]	kuɑn kuɑnᶜ	*kôns *kônNEW_ENTRYguàn3	kuân[ᶜ]	kuɑn kuɑnᶜ	*kônsNEW_ENTRYguàn4	kuanᶜ	kuanᶜ	*krôns
+棺	guān3	kuân	kuɑn	*kwân/*kônNEW_ENTRYguàn	kuânᶜ	kuɑnᶜ	*kwâns/*kôns
+冠	guān4	kuân	kuɑn	*kônNEW_ENTRYguàn	kuânᶜ	kuɑnᶜ	*kôns
+關	guān5	kwan	kuan	*krônNEW_ENTRYwān	Ɂwan	Ɂuan	*Ɂrôn
+觀	guān7	kuân	kuɑn	*kônNEW_ENTRYguàn	kuânᶜ	kuɑnᶜ	*kôns
+痯	guǎn			NEW_ENTRYguǎn	kuânᴮ	kuɑnᴮ	*kwânɁ *kônɁ
+丱	guàn1	kwan	kuanᶜ	*krôns
+涫	guàn2	kuânᶜ	kuɑnᶜ	*kwâns *kôns
+摜	guàn4	kuanᶜ	kuanᶜ	*krôns
+慣	guàn4	kuanᶜ	kuanᶜ	*krôns
+盥	guàn5	kuânᴮ,kuânᶜ	kuɑnᶜ kuɑnᴮ	*kwânɁ/s *kônɁ/s
+浣	huàn	ɣuânᴮ	ɣuɑnᶜ	*gwâns *gôns
+灌	guàn6	kuânᶜ	kuɑnᶜ	*kwâns
+光	guāng1	kuâŋ	kuɑŋ	*kwâŋNEW_ENTRYguāng2			NEW_ENTRYguāng	kuâŋ	kuɑŋ	*kwâŋ
+曠	kuàng	kʰuâŋᶜ	kʰuɑŋᶜ	*khwâŋhNEW_ENTRYkuàng2			NEW_ENTRYkuàng3			
+迋	guǎng1 wàng			NEW_ENTRYguǎng wàng	gjwaŋᴮ or jwaŋᴮ ?	gyɑŋᴮ	*gwaŋNEW_ENTRYwàng	jwaŋᶜ	wɑŋᶜ	*waŋhNEW_ENTRYwàng1 guǎng			
+廣	guǎng2	kwâŋᴮ	kuɑŋᴮ	*kwâŋɁ
+擴	kuō	kʰwâk	kʰuɑk	*khwâkNEW_ENTRYkuō			
+潢	huáng	ɣuâŋ	guɑŋ	*gwâŋNEW_ENTRYhuáng5			
+規	guī1	kjwie	kuie	*kwe
+嶲	xí	ɣiwei	ɣue	*wêNEW_ENTRYxí8			
+傀	guī2	kuậi	kuəi	*kuî
+瑰	guī2	kuậi	kuəi	*kuî
+歸	guī3	kjwei	kui	*kwəi
+龜	guī4	kjwi	ku kuiə	*ku kwrə
+鬼	guǐ1	kjwəiᴮ	kuiᴮ	*kuiɁ
+匭	guǐ2			NEW_ENTRYguǐ	kjwiᴮ 3	kwiəᴮ	*kwəɁ
+簋	guǐ3	kjwiᴮ 3	kwiəᴮ	*kwrəɁ
+貴	guì1	kjweiᶜ	kus kuis	*kus
+跪	guì2	gjwieᴮ,kʰjwieᴮ	gyaiᴮ gioiᴮ	*goiɁ *khoiɁ
+會	guì3			NEW_ENTRYhuì1	Ɣuâiᶜ	guɑs	*gwâts *gôts *gôs *gwâsNEW_ENTRYguì	kuâiᶜ	kuɑs	*kwâts *kôs *kôts *kwâsNEW_ENTRYhuì2	Ɣuâiᶜ	guɑs	*gwât *gwâ *gôs *gôtsNEW_ENTRYhuì3	Ɣuâiᶜ	guɑs	*gwâts *gôts *gôs *gwâs
+襘	guì3			NEW_ENTRYguì	kuâiᶜ	kuɑs	*kwâts *kôs *kôts *kwâs
+撅	guì4			NEW_ENTRYjué9	gjwɐt	gyɑt	*gotNEW_ENTRYguì	kjwäiᶜ	kios kyas	*kots
+緄	gǔn1	kuənᴮ	kuənᴮ	*kûnɁ
+稛	kǔn	kʰuənᴮ	kʰuənᴮ	*kʰûnɁNEW_ENTRYkǔn4			
+混	gǔn2			NEW_ENTRYhùn1	Ɣuənᴮ	guənᴮ	*gûnɁ
+袞	gǔn3			
+活	guō1			NEW_ENTRYhuó2	Ɣuât	guɑt	*gwât
+鍋	guō2	kuâ	kuɑi koi	*kwâi *kôi
+國	guó	kwək	kuək	*kwə̂k
+域	yù	jwək	wək	*wrəkNEW_ENTRYyù13			
+閾	yù	jwək	wək	*wrəkNEW_ENTRYxù	xjwək	hwik	*hwəkNEW_ENTRYxù12			NEW_ENTRYyù14			
+淢	xù	xjwək	hwik	*hwəkNEW_ENTRYxù12			
+囿	yòu	jəuᶜ	wuᶜ	*wəhNEW_ENTRYyòu3			
+果	guǒ1	kuâᴮ	kuɑiᴮ koiᴮ	*kôiɁ
+篋	guǒ	kuâᴮ		
+輠	guǒ2			NEW_ENTRYhuà5			NEW_ENTRYhuà	Ɣwaᴮ,Ɣuậiᶜ,Ɣuânᴮ	goiᶜ guaiᴮ guɑiᶜ	*grôiɁ gôih
+過	guò	kuâᶜ	kuɑiᶜ koiᶜ	*kôihNEW_ENTRYguō	kuâ	kuɑi koi	*kôi
+骸	hái			NEW_ENTRYhái	Ɣăi	gɛi	*grə
+海	hǎi1	xậiᴮ	həᴮ	*hmə̂Ɂ
+醢	hǎi2	xậiᴮ	həᴮ	*hwə̂Ɂ
+亥	hài1	Ɣəiᴮ	gəᴮ	*gə̂Ɂ
+鼾	hān1	xân		
+含	hán1	Ɣậm	gəm	*gə̂mNEW_ENTRYhàn	Ɣậmᶜ	gəmᶜ	*gə̂msNEW_ENTRYhàn8			
+函	hán1	Ɣậm	gəm	*gə̂mNEW_ENTRYhán3			
+頷	hàn	Ɣậmᴮ	gəmᴮ	*gə̂mɁNEW_ENTRYhàn9			
+寒	hán2	Ɣân	gɑn	*gân
+涵	hán4	Ɣậm	Ɣəm	*gə̂m
+闞	hǎn			NEW_ENTRYxiǎn3 hǎn	xămᴮ,xamᴮ,xâmᴮ	hamᴮ	*hâmɁ *hrə̂mɁ
+汗	hàn2	Ɣânᶜ	gɑnᶜ	*gâns
+漢	Hàn5	xânᶜ	hɑnᶜ	*hânsNEW_ENTRYmì1	mjiet 4	mit	*mit
+暵	hàn6	xân[ᴮ/ᶜ]	hɑnᴮ hɑnᶜ	*hânɁ/s
+熯	hàn	xânᴮ	hɑnᴮ	*hânɁ
+憾	hàn8			
+鑑	hàn10			NEW_ENTRYjiàn15	kamᶜ	kamᶜ	*krâmsNEW_ENTRYhàn	Ɣamᶜ	gamᶜ	*grâms
+濫	hàn11			NEW_ENTRYlǎn2			NEW_ENTRYlàn1	lâmᶜ	lɑmᶜ	*râmsNEW_ENTRYhàn	Ɣâmᶜ	gɑmᶜ	*gâmsNEW_ENTRYlǎn	lâmᴮ	lɑmᴮ	*râmɁ *g-ramɁ
+行	háng1			NEW_ENTRYháng2			NEW_ENTRYháng	Ɣâŋ[ᶜ]	gɑŋ gɑŋᶜ	*gâŋh *gâŋNEW_ENTRYxíng1	Ɣɐŋ	gaŋ	*grâŋNEW_ENTRYxìng	Ɣɐŋᶜ	gaŋᶜ	*grâŋhNEW_ENTRYháng	Ɣâŋ	gɑŋ	*gâŋ
+頏	háng3	Ɣâŋ	gɑŋ	*gâŋ
+航	háng4	Ɣâŋ	gɑŋ	*gâŋ
+杭	háng4	Ɣâŋ	gɑŋ	*gâŋ
+撓	hāo1			NEW_ENTRYnáo3	ṇauᴮ !,xâu	hɑu ṇauᴮ	*nrâuɁ *hnâu
+薅	hāo2	xâu	hou	*hû *hwû)
+茠	hāo2	xâu	hou	*hû *hwû)NEW_ENTRYxiū2			
+號	háo	Ɣâu	gɑu	*gâuNEW_ENTRYhào	Ɣâuᶜ	gɑuᶜ	*gâuhNEW_ENTRYhào1			
+讙	huān	xuân,xjwɐn	xyɑn xion xuɑn	*hwan/*hwân *hon/*hônNEW_ENTRYhuān		xyɑn xion xuɑn	
+好	hǎo	xâuᴮ	houᴮ	*hûɁNEW_ENTRYhào	xâuᶜ	houᶜ	*hûh
+浩	hào3	Ɣâuᴮ	gouᴮ	*gûɁ
+顥	hào4			
+昊	hào4			
+喝	hē	xập	həp	*hə̂p
+欱	hē	xập	həp	*hə̂p
+禾	hé1	Ɣuâ	guɑi	*(g)wâi
+和	hé2	Ɣuâ	Ɣuɑi	*(g)wâiNEW_ENTRYhè	Ɣuâᶜ	Ɣuɑiᶜ	*(g)wâih
+何	hé3	Ɣâ	gɑi	*gâiNEW_ENTRYhè1	Ɣâᴮ	gɑiᴮ	*gâiɁ
+胡	hú	Ɣuo	gɑ	*gâNEW_ENTRYhú1	Ɣuo	gɑ	*gâ *ɦâNEW_ENTRYhú2	Ɣuo	gɑ	*gâ *ɦâNEW_ENTRYhú3			
+遐	xiá	Ɣa	ga	*gâNEW_ENTRYxiá5			*gâ
+奚	xī	Ɣiei	ge	*gêNEW_ENTRYjié11			NEW_ENTRYxī9			
+曷	hé	Ɣât	gɑt	*gât
+盍	hé	Ɣâp	gɑp	*gâpNEW_ENTRYhé8	Ɣâp	gɑp	*gâpNEW_ENTRYhé9			
+河	hé4	Ɣâ	gɑi	*gâi
+合	hé5	Ɣập	gəp	*gə̂p
+洽	qià	Ɣăp	gɛp	*grə̂pNEW_ENTRYqià1			
+核	hé6	Ɣɛk	gɛk	*grə̂k
+涸	hé7	Ɣâk	gɑk	*gâk
+舐	hè	Ɣɐk	gak	*grâk *gar-kNEW_ENTRYhè6			NEW_ENTRYshì16	dźieᴮ	źeᴮ	*m-leɁ
+翮	hé10	Ɣɛk	gɛk	*grêk
+荷	hè1	Ɣâᴮ	gɑiᴮ	*gâiɁ
+鶴	hè2	Ɣâk	gɑk gɑuk	*gâuk *glauk
+賀	hè3			NEW_ENTRYhè	Ɣâᶜ	gɑiᶜ	*gâih
+赫	hè4	xɐk	hak	*hrâkNEW_ENTRYhè5	xɐk	hak	*hrâk
+嚇	xià hè	xaᶜ,xɐk	haᶜ hak	*hrâkhNEW_ENTRYhè7			NEW_ENTRYxià4 hè			
+覤	xì	xjɐk	hiɑk	*hakNEW_ENTRYxì5			
+虩	xì	xjɐk	hiɑk	*hakNEW_ENTRYxì5			
+嗃	hè8			NEW_ENTRYhè	xauᶜ	hauᶜ	hnrâuh
+翯	hè9			
+黑	hēi	xək	hək	*hmə̂k
+墨	mò	mək	mək	*mə̂kNEW_ENTRYmò13			
+恨	hèn	Ɣənᶜ	gənᶜ	*gə̂ns
+佷	hěn	Ɣənᴮ	gənᴮ	*gə̂nɁ
+衡	héng4	Ɣɐŋ	gaŋ	*grâŋNEW_ENTRYhóng5 héng	Ɣwɐŋ	guaŋ	*gwrâŋ
+虹	hóng1	Ɣuŋ	goŋ	*gôŋ *gloŋNEW_ENTRYjiàng	kåŋᶜ	kɔŋᶜ	*krôŋh
+紅	hóng2	Ɣuŋ	goŋ	*gôŋ *gloŋ
+彤	tóng	duoŋ	douŋ	*lûŋNEW_ENTRYtóng4			
+訌	hóng3	Ɣuŋ	goŋ	*gôŋ
+洪	hóng4	Ɣuŋ	goŋ	*gôŋ *gloŋ
+洚	hóng jiàng	Ɣuoŋ,guŋ,gåŋ,kåŋᶜ	goŋ gouŋ g/kɔŋᶜ	*grûŋNEW_ENTRYjiàng3		goŋ gouŋ g/kɔŋᶜ	
+橫	hóng5 héng	Ɣwɐŋ	guaŋ	*gwrâŋ
+鬨	hòng1	Ɣuŋᶜ,Ɣåŋᶜ	gɔŋᶜ goŋᶜ	*grôŋh
+戇	hòng2			NEW_ENTRYzhuàng3 hòng	xuŋᶜ,ṭåŋᶜ	hoŋᶜ ṭɔŋᶜ	*hôŋh trôŋh
+齁	hōu	xəu		
+侯	hóu1	Ɣəu	go	*gôNEW_ENTRYhóu2	Ɣəu	go	*gôNEW_ENTRYhóu3			NEW_ENTRYhóu	Ɣəu	go	*gô
+候	hòu	Ɣəuᶜ	goᶜ	*gôhNEW_ENTRYhòu5			
+喉	hóu4	Ɣəu	go	*gô
+猴	hóu5	Ɣəu	go	*gô
+鍭	hóu6			NEW_ENTRYhóu	Ɣəu,Ɣəuᶜ	go goᶜ	*gôh *gô
+后	hòu1	Ɣəuᴮ/ᶜ	goᴮ goᶜ	*gôɁ/h
+後	hòu3	Ɣəuᴮ	goᴮ Ɣoᴮ	*gôɁ ɦôɁNEW_ENTRYhòu	Ɣəuᶜ	Ɣoᶜ goᶜ	*gôh *ɦôh
+厚	hòu4	Ɣəuᴮ	goᴮ	*gôɁNEW_ENTRYhòu	Ɣəuᶜ	goᶜ	*gôh
+乎	hū1			NEW_ENTRYhū	Ɣwo	Ɣɑ	*ɦâ *â
+呼	hū2	xuo[ᶜ]	hɑ hɑᶜ	*hâ *hâh
+渟	hū	xuo	hɑ	*hâ
+忽	hū3			
+膴	hū4	xuo,also mju	hɑ	*hmâNEW_ENTRYwǔ9	mjuᴮ	muɑᴮ	*maɁNEW_ENTRYwǔ10	mjuᴮ	muɑᴮ	*maɁ
+幠	hū5			NEW_ENTRYhū	xuo	hɑ	*hmâ
+鬍	hú5			
+湖	hú7			
+弧	hú8	Ɣuo	guɑ	*gwâ
+狐	hú9	Ɣuo	guɑ	*gwâ
+搰	hú10			NEW_ENTRYhú	Ɣuət	guət	*gût
+壺	hú11	Ɣuo	ga	*gâ
+虎	hǔ1	xuoᴮ	hɑᴮ	*hlâɁ (hl-!)
+戶	hù1	Ɣwoᴮ	gɑᴮ	*gâɁ
+怙	hù2	Ɣuoᴮ	gɑᴮ	*gâɁ
+互	hù3	Ɣouᶜ	gɑᶜ	*gâh
+枑	hù3	Ɣouᶜ	gɑᶜ	*gâh
+滬	hù	Ɣuoᴮ	gɑᴮ	*gâɁNEW_ENTRYhù8			
+笏	hù5	xuət	huət	*hmût *hmut
+護	hù6	Ɣuoᶜ	guɑᶜ	*gwâh
+花	huā	xwa		
+華	huá	Ɣwa	Ɣua	*(g)wrâNEW_ENTRYhuá2			NEW_ENTRYhuá3			NEW_ENTRYhuá	Ɣwa	Ɣua	*wrâ
+荂	kuā	kʰwa,xjwo	kʰua hyɑ	*khrwâ *hwaNEW_ENTRYkuā1			
+滑	huá1	Ɣwăt	guat	*grût
+樺	huà2	Ɣwaᶜ	Ɣuaᶜ	*(g)wrâh
+話	huà3	Ɣwaiᶜ	guas	*grôs *gwrâs *grôts *gwrâts
+畫	huà4	Ɣwaiᶜ	Ɣuɛᶜ	*wekh *(g)wrekhNEW_ENTRYhuò	Ɣwɛk	Ɣuɛk	*(g)wrek *wek
+劃	huà	Ɣwɛk	Ɣuɛk	*wek *gwrek
+壞	huài	kwăiᶜ	kuɛiᶜ	*krûihNEW_ENTRYhuài	Ɣwăiᶜ	guɛiᶜ	*grûih
+桓	huán1	Ɣuân	Ɣuɑn	*wânNEW_ENTRYhuán2	Ɣuân	Ɣuɑn	*wân
+垸	huán1	Ɣuân	Ɣuɑn	*wân
+換	huàn	Ɣuânᶜ	Ɣuɑnᶜ	*wânsNEW_ENTRYhuàn1			
+還	huán3	Ɣwan	Ɣuan	*wrênNEW_ENTRYxuán3			NEW_ENTRYxuán	zjwän	zyan	*s-wen
+環	huán4			NEW_ENTRYhuán	Ɣwan	Ɣuan	*wrên
+鐶	huán4			NEW_ENTRYhuán	Ɣwan	Ɣuan	*wrên
+寰	huán4			NEW_ENTRYhuán	Ɣwan	Ɣuan	*wrên
+緩	huǎn1			NEW_ENTRYhuǎn2			NEW_ENTRYhuǎn	Ɣuânᴮ	Ɣuɑnᴮ	*gwânɁNEW_ENTRYhuǎn	Ɣuânᴮ	Ɣuɑnᴮ	*wanɁ
+輐	huǎn			
+幻	huàn2	Ɣwănᶜ	Ɣuan	*grôns
+宦	huàn3	Ɣuanᶜ	guanᶜ	*gwrâns
+衁	huāng1	xwâŋ	huɑŋ	*hmâŋ
+荒	huāng2			*hmâŋ *hmlaŋ *hmâŋNEW_ENTRYhuāng3			*hmâŋ *hmlaŋ *hmâŋNEW_ENTRYhuāng4			*hmâŋ *hmlaŋ *hmâŋNEW_ENTRYhuāng	xuâŋ	huɑŋ	*hmâŋ *hmlaŋ *hmâŋNEW_ENTRYhuāng	xwâŋ	huɑŋ	*hmâŋ *hmlaŋ *hmâŋ
+皇	huáng1	Ɣuâŋ	guɑŋ Ɣuɑŋ	*wâŋ
+煌	huáng2	Ɣuâŋ	guɑŋ Ɣuɑŋ	*wâŋ
+黃	huáng3	Ɣuâŋ	Ɣuɑŋ	*wâŋ
+璜	huáng4	Ɣuâŋ	Ɣuɑŋ	*wâŋ
+蟥	huáng6	Ɣuâŋ	Ɣuɑŋ	*wâŋ
+灰	huī1	xwậi	huəi	*hmə̂
+煇	huī2	xjwei	hui	*hwəi
+輝	huī2	xjwei	hui	*hwəi
+暉	huī2	xjwei	hui	*hwəi
+韡	wěi	jweiᴮ	wəiᴮ	*wəiNEW_ENTRYwěi5			
+徽	huī3	xjwei	hui	*hməiNEW_ENTRYhuī	xjwei	hui	*hməi
+麾	huī4	xjwie 3	hyɑi	*hmai
+撝	huī5			NEW_ENTRYhuī	xjwie 3	hyɑi	*hwai
+墮	huī6	xjwie	hyɑi	*hmai
+隳	huī6	xjwie	hyɑi	*hmai
+毀	huǐ	xjwieᴮ	hyɑiᴮ	*hmaiɁNEW_ENTRYhuǐ2			
+燬	huǐ	xjwieᴮ	hyɑiᴮ	*hmaiɁNEW_ENTRYhuǐ3			
+𤈦	huǐ	xjweiᴮ	huiᴮ	*hməiɁ
+回	huí	Ɣwậi	Ɣuəi	*wûi
+虺	huǐ1	xjweiᴮ	huiᴮ	*hmuiɁ
+解	xiè	Ɣaiᴮ	gɛᴮ	*grêɁNEW_ENTRYjiě	kaiᴮ	kɛᴮ	*krêɁNEW_ENTRYxiè6			
+薈	huì4			NEW_ENTRYhuì	Ɂuâiᶜ	Ɂuɑs Ɂos	*Ɂôts
+賄	huì5	xuậiᴮ	huəᴮ	*hmə̂Ɂ
+誨	huì6	xuậiᶜ	huəᶜ	*hmə̂h
+晦	huì7	xwậiᶜ	huəᶜ	*hmə̂Ɂ !
+彙	huì8	jweiᶜ	wus	*wəsNEW_ENTRYhuì9	jweiᶜ	wus	*wəs *wus)
+顪	huì10	xjwɐiᶜ	hyɑs	*hwats
+喙	huì10	xjwɐiᶜ	hyɑs	*hwatsNEW_ENTRYhuì11			
+惠	huì12			NEW_ENTRYhuì	Ɣiweiᶜ	Ɣwes	*wîts *wîs
+婚	hūn1	xuən	huən	*hmə̂n
+昏	hūn2			NEW_ENTRYhūn	xuən	huən	*hmə̂n
+閽	hūn3			NEW_ENTRYhūn	xuən	huən	*hmə̂n
+葷	hūn4			
+魂	hún1	Ɣuən	Ɣuən	*wûn
+渾	hún2			NEW_ENTRYhùn1	Ɣuənᴮ	guənᴮ	*gûnɁNEW_ENTRYhún	Ɣuən	guən	*gûn
+溷	hùn	Ɣuənᶜ	guənᶜ	*gûnsNEW_ENTRYhùn2			
+慁	hùn	Ɣuənᶜ	guənᶜ	*gûnsNEW_ENTRYhùn2			
+困	kùn	kʰuənᶜ	kʰuənᶜ	*khûnsNEW_ENTRYkùn1	kʰuənᶜ	kʰuənᶜ	*khûnsNEW_ENTRYkùn2			
+佸	huó1			NEW_ENTRYhuó	Ɣuât,kuât	guɑt kuɑt	*gwât *kwât *gôt *kôt
+火	huǒ1	xuâᴮ	huɑiᴮ	*hmə̂iɁ
+夥	huǒ2	Ɣuâᴮ	guɑiᴮ	*gwâiɁ *gôiɁ
+或	huò1			NEW_ENTRYhuò	Ɣwək	Ɣuək	*wə̂k
+惑	huò2	Ɣwək	Ɣuək	*wə̂k
+韄	huò3	Ɣwɛk	Ɣuak	*wrâk
+穫	huò4	Ɣwâk	Ɣuɑk	*wâk
+獲	huò	Ɣwɛk	Ɣuak	*wak *wrak
+擭	huò	Ɣwaᶜ,Ɂwɐk	Ɣuaᶜ Ɣuak	*wakh *wrakh *wrak *wak
+几	jī1			NEW_ENTRYjǐ1	kjiᴮ 3	kiᴮ	*kriɁ
+飢	jī2	kji 3	ki	*kri
+饑	jī	kjei	kii	*kəi
+汲	jī3	kjəp	kip	*kəp
+奇	jī4	kje 3	kiɑi	*kaiNEW_ENTRYqí	gjie 3	giɑi	*gaiNEW_ENTRYqí5			
+基	jī5	kji	kiə	*kə
+箕	jī6	kji	kiə	*kə
+期	jī7			NEW_ENTRYqí	gji	giə	*gəNEW_ENTRYjī	kji	kiə	*kəNEW_ENTRYqí10			
+雞	jī8	kiei	ke	*kê
+積	jī9	tsjäk	tsiek	*tsekNEW_ENTRYzì	tsieᶜ	tsieᶜ	*tsekhNEW_ENTRYzì5			
+績	jī10	tsiek	tsek	*tsêk
+隮	jī11	tsiei[ᶜ]	tsei	*tsə̂i
+霽	jì	tsieiᶜ	tseiᶜ	*tsə̂ihNEW_ENTRYjì19			
+濟	jì	tsieiᶜ	tseiᶜ	*tsə̂ihNEW_ENTRYjǐ6	tsieiᴮ	tseiᴮ	*tsˆîɁNEW_ENTRYjǐ7			NEW_ENTRYjì15	tsieiᶜ	tseiᶜ	*tsə̂ihNEW_ENTRYjì18			NEW_ENTRYjǐ	tsieiᴮ	tseiᴮ	*tsə̂iɁ
+嚌	jì	dzieiᶜ	dzeiᶜ	*dzə̂ihNEW_ENTRYjì17			
+幾	jī12	kjei	kii	*kəiNEW_ENTRYjī13	gjei	gii	*gəiNEW_ENTRYjǐ8	kjeiᴮ	kiiᴮ	*kəiɁ
+畿	jī13	gjei	gii	*gəi
+圻	qí	gjei	gii	*gəi
+機	jī14	kjei	kii	*kəi
+璣	jī14	kjei	kii	*kəi
+稽	jī15	kiei,kʰieiᴮ	kei kʰeiᴮ	*kî *khîɁNEW_ENTRYqǐ8			
+計	jì	kieiᶜ	keiᶜ	*kîhNEW_ENTRYjì1			
+譏	jī	kjei	kii	*kəi
+擊	jī16	kiek	kek	*kêk
+箍	jì	kieiᶜ	keᶜ	*kêkh
+毄	qī	kʰiek	kʰek	*khêk
+及	jí1	gjəp	gip	*gəp
+吉	jí2	kjiet 4	kit	*kitNEW_ENTRYjí3	kjiet 4		
+佶	jí4	gjiet 4	git	*git
+楔	xié	Ɣiet	get	*gîtNEW_ENTRYxiē2	siet	set	*sêt *snet)NEW_ENTRYxié2			NEW_ENTRYxiè5			
+極	jí5	gjək	gik	*gək
+亟	jí	kjək	kik	*kək
+疾	jí6	dzjet	dzit	*dzitNEW_ENTRYjí6	dzjet,dziᶜ	dziᶜ dzit	*dzits *dzit
+堲	jí10	dzjet	dzit	*dzitNEW_ENTRYjí9	tsjet	tsit	*tsitNEW_ENTRYjí8	tsjet	tsit	*tsitNEW_ENTRYjí9			NEW_ENTRYjí10			
+即	jí7	?	tsit	*tsit
+切	qiè	tsʰiet	tsʰet	*tshîtNEW_ENTRYqiè1			
+棘	jí11	kjək	kik	*kək
+朸	lì	ljək	lik	*rəkNEW_ENTRYlì2			
+急	jí12	kjəp	kip	*kəp
+集	jí13	dzjəp	dzip	*dzəp
+輯	jí13	dzjəp	dzip	*dzəpNEW_ENTRYjí21			NEW_ENTRYjí	tṣjəp	tṣip	*tsrəp
+雜	zá	dzəp	dzəp	*dzə̂pNEW_ENTRYzá			
+脊	jí14	tsjäk	tsiek	*tsekNEW_ENTRYjí	dzjäk	dziek	*dzek
+瘠	jí	dzjäk	dziek	*dzek
+膌	jí	dzjäk	dziek	*dzek
+蹐	jí15	tsjäk	tsiek	*tsek
+踖	jí16	tsjäk	tsiak	*tsiak *tsakNEW_ENTRYjí	dzjäk	dziak	*dziak *dzakNEW_ENTRYqì què	tsʰjäk,tsʰjak	tsʰiak	*tsʰiak *tsʰak
+藉	jí17	dzjäk	dziak	*dzak *dziakNEW_ENTRYjiè8	dzjaᶜ	dziaᶜ	*dzakh
+籍	jí18			
+楫	jí19	tsjäp	tsiap	*tsap *tsiap
+戢	jí20			NEW_ENTRYjí21			NEW_ENTRYjí	tṣjəp	tṣip	*tsrəp
+濈	jí20			NEW_ENTRYjí21			NEW_ENTRYjí	tṣjəp	tṣip	*tsrəp
+机	jǐ1	kjiᴮ 3	kiᴮ	*kriɁ
+己	jǐ2	kji	kiəᴮ	*kəɁ
+掎	jǐ3	kjieᴮ 3	kiɑiᴮ	*kaiɁ
+攲	qī	kʰjie 3	kʰiɑi	*khai
+麂	jǐ4	kjiᴮ 3	kiᴮ	*kriɁ
+擠	jǐ5	tsieiᴮ	tseiᴮ	*tsîɁ *tsə̂iɁ
+癠	jì	dziei[ᴮ/ᶜ]	dzei dzeiᴮ dzeiᶜ	*dzî *dzə̂i(Ɂ/h)NEW_ENTRYjì10		dzei dzeiᴮ dzeiᶜ	
+秭	zǐ	tsiᴮ	tsiᴮ	*tsiɁNEW_ENTRYzǐ4			
+蟣	jǐ9	kjeiᴮ	kiiᴮ	*kəiɁNEW_ENTRYqí17	gjei	gii	*gəi
+妓	jì2	kje 3, also gjeᴮ 3	kie gieᴮ	
+既	jì3	kjəiᶜ	kis	*kəts
+訖	qì	kjət	kit	*kətNEW_ENTRYqì4			
+暨	jì4	gjiᶜ 3	gis	*grjəts *grjəps
+徛	jì5	gjieᴮ 3	giɑiɁ	
+寄	jì6	kjeᶜ	kiɑiᶜ	*kaih
+忌	jì7	gjiᶜ	giəᶜ	*gəh
+誋	jì7	gjiᶜ	giəᶜ	*gəh
+惎	jì7	gjiᶜ	giəᶜ	*gəh
+紀	jì8	kjiᴮ	kiəᴮ	*kəɁ
+記	jì	kjiᶜ	kiəᶜ	*kəh
+季	jì9	kwiᶜ 4	kwis	*kwis
+揖	jì10	tsjəp,tṣjəp	tsip tṣip	*tsrəp *tsəp
+穄	jì11	tsjäiᶜ	tsias	*tsats *tsaps
+跡	jì13			NEW_ENTRYjì	tsjäk	tsiek	*tsiak
+冀	jì14	kji 3	ki	*kri *krəi
+覬	jì14	kji 3	ki	*kri *krəi
+津	jīn	tsjen	tsin	*tsinNEW_ENTRYjīn4			
+懠	jì16	dziei,dzieiᶜ	dzei dzeiᶜ	*dzîh *dzî *dzə̂i *dzə̂ih
+蹟	jì21	tsjäk	tsiek	*tsek
+繼	jì22	kieiᶜ	keᶜ	*kêh
+加	jiā1	ka	kai	*krâi
+駕	jià	kaᶜ	kaiᶜ	*krâihNEW_ENTRYjià2			
+嘉	jiā2	ka	kai	*krâi
+佳	jiā	kai	kɛ	*krêNEW_ENTRYjiā6			
+夾	jiā3	kăp	kɛp	*krêp
+狹	xiá	Ɣăp	gɛp	*grêpNEW_ENTRYxiá3			
+家	jiā7	ka	ka	*krâ
+嫁	jià	kaᶜ	kaᶜ	*krâh
+豭	jiā8	ka	ka	*krâ
+蛺	jiá1			
+莢	jiá2			NEW_ENTRYjiá	kiep	kep	*kêp
+頰	jiá2			NEW_ENTRYjiá	kiep	kep	*kêp
+鋏	jiá2			NEW_ENTRYjiá	kiep	kep	*kêp
+甲	jiǎ1	kap	kap	*krâp
+鞈	jiá	kăp	kɛp	*krəp
+嘏	jiǎ2	kaᴮ	kaᴮ	*krâɁ
+夏	xià	Ɣaᴮ	gaᴮ	*grâɁNEW_ENTRYxià3			
+稼	jià1	kaᶜ	kaᶜ	*krâh
+架	jià3			
+價	jià4	kaᶜ	kaᶜ	*krâh
+尖	jiān1	tsjäm	tsiam	*tsam
+鑯	jiān1	tsjäm	tsiam	*tsam
+銛	xiān	sjäm	siam	*samNEW_ENTRYxiān8			
+堅	jiān2	kien	ken	*kîn
+掔	qiān	kʰien,kʰăn	kʰen kʰɛn	*khrîn *khînNEW_ENTRYqiān2			
+劼	jié	kʰăt	kʰɛt	*khrîtNEW_ENTRYjié8			
+肩	jiān3	kien	ken	*kên
+姦	jiān4	kan	kan	*krân
+訕	shàn	ṣanᶜ	ṣanᶜ	*srâns *srânNEW_ENTRYshàn1			
+間	jiān5	kăn	kɛn	*krênNEW_ENTRYjiàn	kănᶜ	kɛnᶜ	*krênsNEW_ENTRYjiàn10			
+閒	jiān5	kăn	kɛn	*krênNEW_ENTRYjiàn	kănᶜ	kɛnᶜ	*krênsNEW_ENTRYjiàn10			NEW_ENTRYxián5	Ɣăn	gɛn	*grên
+蕑	jiān6			NEW_ENTRYjiān	kan	kan	*krânNEW_ENTRYjiān	kăn	kɛn	*krên
+兼	jiān7	kiem[ᶜ]	kem kemᶜ	*kêms *kêm
+瀸	jiān8	tsjäm	tsiam	*tsam
+熸	jiān9	tsjäm	tsiam	*tsam
+潛	qián	dzjäm	dziam	*dzamNEW_ENTRYjiàn	dzjämᶜ	dziamᶜ	*dzamsNEW_ENTRYjiàn11			NEW_ENTRYqián6			
+鞬	jiān10	kjɐn	kiɑn	*kan
+韊	lán	lân	lɑn	*rân *C-ran
+艱	jiān11			NEW_ENTRYjiān	kăn	kɛn	*krə̂n
+殲	jiān12			
+囝	jiǎn1	kjänᴮ 3,kjɐnᴮ	kiɑnᴮ	
+檢	jiǎn2	kjämᴮ,kjɐmᴮ	kiɑmᴮ kiamᴮ	*kamɁNEW_ENTRYjiǎn3		kiɑmᴮ kiamᴮ	NEW_ENTRYjiǎn	kjämᴮ,kjɐmᴮ	kiɑmᴮ kiamᴮ	*kamɁ
+儉	jiàn	gjämᴮ	giɑmᴮ	*gamɁNEW_ENTRYjiàn9			
+臉	jiǎn4			NEW_ENTRYliǎn2	lămᴮ [GY],kjämᴮ	kiamᴮ	*kamɁ *kramɁ
+錢	jiǎn5			NEW_ENTRYqián9	dzjän	dzian	*dzanNEW_ENTRYjiǎn	tsjänᴮ	tsianᴮ	*tsanɁ
+蹇	jiǎn6			NEW_ENTRYjiǎn	kjänᴮ 3,kjɐnᴮ	kianᴮ	*kanɁ
+謇	jiǎn6			NEW_ENTRYjiǎn	kjänᴮ 3,kjɐnᴮ	kianᴮ	*kanɁ
+減	jiǎn7	kămᴮ,Ɣămᴮ	kɛmᴮ	*krə̂mɁ
+揀	jiǎn8	kănᴮ	kɛnᴮ	*krenɁ
+攓	jiǎn9	kjänᴮ,kjɐnᴮ	kiɑnᴮ	*kanɁ
+掀	xiān	xjɐn	xiɑn	*han
+見	jiàn1	kienᶜ	kenᶜ	*kênsNEW_ENTRYxiàn	Ɣienᶜ	genᶜ	*gênsNEW_ENTRYxiàn1			
+現	xiàn	Ɣienᶜ	genᶜ	*gêns
+俔	qiàn	kʰienᶜ,Ɣienᴮ	genᴮ kʰenᶜ	*khêns *gênɁNEW_ENTRYqiàn2			
+建	jiàn2	kjɐnᶜ	kiɑnᶜ	*kans
+健	jiàn3	gjɐnᶜ	giɑnᶜ	*gans
+楗	jiàn4	gjɐnᴮ	giɑnᴮ	*ganɁ
+腱	jiàn5			NEW_ENTRYjiàn	kjɐn,gjɐnᶜ	kiɑn giɑnᶜ	*kan gans
+俴	jiàn6			NEW_ENTRYjiàn	dzjänᴮ	dzianᴮ	*dzanɁ
+賤	jiàn7			NEW_ENTRYjiàn	dzjänᶜ	dzianᶜ	*dzans
+劍	jiàn8	kjɐmᶜ	kiɑmᶜ	*kam
+蔪	jiàn12	dzjämᴮ	dziamᴮ	*dzamɁ
+薦	jiàn13	tsienᶜ	tsenᶜ	*tsə̂nsNEW_ENTRYjiàn14			NEW_ENTRYjiàn	dzienᶜ	dzenᶜ	*dzə̂ns
+荐	jiàn	dzienᶜ,dzuənᶜ	dzenᶜ	*dzə̂ns
+洊	jiàn14			NEW_ENTRYjiàn	dzienᶜ	dzenᶜ	*dzə̂ns
+監	jiàn15	kamᶜ	kamᶜ	*krâmsNEW_ENTRYjiān	kam[ᶜ]	kam	*krâm
+覽	lǎn	lâmᴮ	lɑmᴮ	*g-ramɁNEW_ENTRYlǎn3			
+檻	jiàn16	Ɣamᴮ,Ɣâmᴮ	Ɣamᴮ	*grâmɁ *gâmɁ
+江	jiāng1	kåŋ	kɔŋ	*krôŋ
+姜	jiāng2			
+將	jiāng3	tsjaŋ	tsiɑŋ	*tsaŋNEW_ENTRYjiàng	tsjaŋᶜ	tsiɑŋᶜ	*tsaŋhNEW_ENTRYqiāng	tsʰjaŋ	tsʰiɑŋ	*tshaŋNEW_ENTRYjiāng4	tsjaŋ	tsiɑŋ	*tsaŋNEW_ENTRYqiāng3			
+疆	jiāng6	kjaŋ	kiɑŋ	*kaŋ
+薑	jiāng7	kjaŋ	kiɑŋ	*kaŋ
+匠	jiàng1	dzjaŋᶜ	dziɑŋᶜ	*dzaŋh
+降	jiàng2	kåŋ	kɔŋ	*krûŋNEW_ENTRYxiáng	Ɣåŋ	gɔŋ	*grûŋNEW_ENTRYxiáng6			
+交	jiāo1	kau	kau	*krâu
+挍	jiào	kauᶜ	kauᶜ	*krâuhNEW_ENTRYjiào5			
+殽	yáo	Ɣau	gau	*grâu
+咬	jiāo3 yāo	kau	kau	*krâuNEW_ENTRYyāo4 jiāo	Ɂau	Ɂau	*ɁrâuNEW_ENTRYyǎo2	ŋauᴮ	ŋauᴮ	*ŋrâuɁ
+蛟	jiāo4	kau	kau	*krâu
+釗	jiāo5			NEW_ENTRYzhāo1 jiāo	tśjäu,kieu	keu kiau tśau	*kiau
+焦	jiāo6	tsjäu	tsiau	*tsau *tsiau
+樵	qiáu	dzjäu	dziau	*dzau *dziauNEW_ENTRYqiáo4			
+爝	jué	dzjak	dziɑk dziɑuk	*dzauk *dziaukNEW_ENTRYjué16			
+燋	jué	tsjak,tṣåk	tsiɑk tṣɔk	*tsraukNEW_ENTRYjué16			
+膠	jiāo7	kau[ᴮ]	kɔu kɔuᴮ	*krûɁ *krû
+憍	jiāo8			NEW_ENTRYjiāo9			NEW_ENTRYjiāo	kjäu 3	kiɑu	*kauNEW_ENTRYjiǎo	kjäuᴮ 3	kiɑuᴮ	*kauɁ
+嚼	jiáo	dzjak	dziɑk dziɑuk	
+爵	jué	tsjak	tsiɑk tsiɑuk	*tsauk *tsiaukNEW_ENTRYjué15			
+祷	jiǎo1	kauᴮ	kauᴮ	*krâuɁ
+姣	jiǎo2	kauᴮ	kauᴮ	*krâuɁ *kriâuɁ
+佼	jiǎo2	kauᴮ	kauᴮ	*krâuɁ *kriâuɁ
+僚	liáo	lieu[ᴮ]	leu leuᴮ	*riûɁ *riûNEW_ENTRYliáo1			
+絞	jiǎo3	kauᴮ	kauᴮ	*kriauɁ *krâuɁ
+繚	liǎo	ljäuᴮ,lieuᴮ	leuᴮ liauᴮ	*riauɁNEW_ENTRYliǎo2			
+柾	jiǎo4			
+皎	jiǎo4		keiauᴮ keuᴮ	NEW_ENTRYjiǎo	kieuᴮ	keiauᴮ keuᴮ	*kiâuɁ
+皦	jiǎo4		keiauᴮ keuᴮ	NEW_ENTRYjiǎo	kieuᴮ	keiauᴮ keuᴮ	*kiâuɁ
+角	jiǎo5	kåk	kɔk	*krôk
+較	jué	kåk	kɔk	*krâukNEW_ENTRYjué17			
+腳	jiǎo16	kjak	kiɑk	
+蹻	jiǎo17	kjäuᴮ 3	kiɑuᴮ	*kauɁ
+驕	qiāo	kʰjäu 3	kʰiɑu	*khauNEW_ENTRYjué	gjak 3	giɑk	*gakNEW_ENTRYjué14			NEW_ENTRYqiāo2			
+攪	jiǎo18	kauᴮ	kɔuᴮ	*krûɁ
+嶠	jiào1			NEW_ENTRYjiào	gjäuᶜ 3	giɑuᶜ	*gauh
+覺	jiào2			NEW_ENTRYjué11	kåk	kɔk	*krûkNEW_ENTRYjiào	kauᶜ	kɔuᶜ	*krûks
+叫	jiào3	kieuᶜ	keuᶜ	*kiûh
+嘂	jiào3	kieuᶜ	keuᶜ	*kiûh
+噭	jiào4	kieuᶜ,kiek	kek kiɑuk keuᶜ	*kiâuk *kiâukh
+教	jiào6	kauᶜ	kauᶜ	*krâuh
+髻	jì	kieiᶜ	kes	*kîts
+頡	jié7			
+節	jié9	tsiet	tset	*tsît
+櫛	jié10	tṣjɛt	tṣɛt	*tsrit
+絜	jié12	kiet,Ɣiet	get ket	*kêt *gêt
+緳	xié	kʰiet,Ɣiet	kʰet get	*khêt *gêtNEW_ENTRYxié3 qiè			
+桀	jié13	gjät 3	giat	*grat
+傑	jié13	gjät 3	giat	*grat
+朅	qiè	kʰjat 3,kʰjɐt	kʰiɑt	*khratNEW_ENTRYqiè3	kʰjat,kʰjɐt	kʰiɑt	*khatNEW_ENTRYqiè4			
+懈	xiè jiè	kaiᶜ	kɛᶜ	*krêhNEW_ENTRYxiè7 jiè			
+介	jiè1	kăiᶜ	kɛs	*krês *krêtsNEW_ENTRYjiè2	kăiᶜ	kɛs	*krês *krêts
+价	jiè2	kăiᶜ	kɛs	*krês *krêts
+疥	jiè3	kăiᶜ	kɛs	*krês *krêts
+芥	jiè4	kăiᶜ	kɛs	*krêts *krâts
+界	jiè5	kăiᶜ	kɛs	*krês *krêts
+屆	jiè6	kăiᶜ	kɛs	*krə̂ts *krə̂s
+借	jiè7	tsjäk	tsiak	*tsakNEW_ENTRYjiè	tsjaᶜ	tsiaᶜ	*tsakh
+戒	jiè9	kăiᶜ	kɛᶜ	*krə̂h
+誡	jiè9	kăiᶜ	kɛᶜ	*krə̂h
+駴	xiè	Ɣăiᴮ	gɛᴮ	*grə̂ɁNEW_ENTRYxiè9			
+斤	jīn1	kjən	kin	*kənNEW_ENTRYjīn1a			
+今	jīn2	kjəm	kim	*kəm
+金	jīn3	kjəm	kim	*kəm
+筋	jīn5	kjən	kin	*kən
+祲	jīn6	tsjəm[ᶜ]	tsim tsimᶜ	*tsəms *tsəm
+緊	jǐn1	kjienᴮ 4	kinᴮ	*kinɁ
+謹	jǐn2			NEW_ENTRYjǐn	kjənᴮ	kinᴮ	*kənɁ
+近	jìn1	gjənᴮ	ginᴮ	*gənɁNEW_ENTRYjìn	gjənᶜ	ginᶜ	*gəns
+浸	jìn2	tsjəmᶜ	tsimᶜ	*tsəms
+禁	jìn3	kjəmᶜ	kimᶜ	*krims
+盡	jìn4	dzjenᴮ,tsjenᴮ	dzinᴮ	*dzinɁ
+燼	jìn	dzjenᶜ	dzinᶜ	*dzins
+進	jìn5	tsjenᶜ	tsinᶜ	*tsins
+饉	jìn6	gjenᶜ 3	ginᶜ	*gəns
+殣	jìn6	gjenᶜ 3	ginᶜ	*gəns
+墐	jìn7			NEW_ENTRYjìn	gjenᶜ 3	ginᶜ	*grəns
+妗	jìn8	gjəmᶜ		
+紟	jìn9			NEW_ENTRYjìn	gjəmᶜ	gimᶜ	*gəms
+京	jīng1	kjɐŋ	kiaŋ	*kraŋ
+景	jǐng	kjɐŋᴮ	kiaŋᴮ	*kraŋɁNEW_ENTRYjǐng3	kjɐŋᴮ	kiaŋᴮ	*kaŋɁ
+鯨	qíng	gjɐŋ	giaŋ	*graŋNEW_ENTRYqíng4			
+荊	jīng3	kjɐŋ	kieŋ	*kreŋ
+經	jīng4	kieŋ	keŋ	*kêŋNEW_ENTRYjìng	kieŋᶜ	keŋᶜ	*kêŋh
+徑	jìng	kieŋᶜ	keŋᶜ	*kêŋh
+逕	jìng	kieŋᶜ	keŋᶜ	*kêŋh
+陘	xíng	Ɣieŋ	geŋ	*gêŋNEW_ENTRYxíng3			
+菁	jīng6	tsjäŋ,tsieŋ	ts(i)eŋ	*tseŋ *tsêŋ
+青	jīng6	tsjäŋ,tsieŋ	tsieŋ tseŋ tsʰeŋ	*tseŋ *tsêŋNEW_ENTRYqīng1	tsʰieŋ	tsieŋ tseŋ tsʰeŋ	*tshêŋ *k-sêŋ
+驚	jīng7	kjɐŋ	kieŋ	*kreŋNEW_ENTRYjué4	kiwet [GY],Ɣiwet [JY]	guet kuet	*kwêt *gwêt
+敬	jìng	kjɐŋᶜ	kieŋᶜ	*kreŋhNEW_ENTRYjìng7			
+警	jǐng	kjɐŋᴮ,kjäŋᴮ	kieŋᴮ	*kreŋɁNEW_ENTRYjǐng4			
+儆	jǐng	kjɐŋᴮ,kjäŋᴮ	kieŋᴮ	*kreŋɁNEW_ENTRYjǐng4			
+井	jǐng1	tsjäŋᴮ	tsieŋᴮ	*tseŋɁ
+阱	jǐng	dzjäŋᴮ	dzieŋᴮ	*dzeŋɁ
+頸	jǐng2	kjäŋᴮ,gjäŋ	kieŋᴮ gieŋ	*keŋɁ *geŋ
+剄	jǐng	kieŋᴮ	keŋᴮ	*kêŋɁ
+顅	qiān	kʰien,kan	kan kʰen	*khên *kren *h-ken *r-kenNEW_ENTRYqiān10			
+□	jǐng5			NEW_ENTRYmào10			NEW_ENTRYpàng2			NEW_ENTRYsuǐ2			NEW_ENTRYzhēng9			
+靜	jìng1	dzjäŋᴮ	dzieŋᴮ	*dzeŋɁ
+靖	jìng1	dzjäŋᴮ	dzieŋᴮ	*dzeŋɁ
+竫	jìng1	dzjäŋᴮ	dzieŋᴮ	*dzeŋɁ
+淨	jìng2			NEW_ENTRYjìng	dzjäŋᶜ	dzieŋᶜ	*dzeŋh
+脛	jìng3			NEW_ENTRYxìng3 jìng	Ɣieŋᶜ	geŋᶜ	*gêŋh
+勁	jìng4			NEW_ENTRYjìng	kjäŋᶜ	kieŋ	*keŋh
+竟	jìng5	kjɐŋᴮ	kiaŋᴮ	*kaŋɁNEW_ENTRYjìng	kjɐŋᶜ	kiaŋᶜ	*kaŋh
+境	jìng5	kjɐŋᴮ	kiaŋᴮ	*kaŋɁ
+鏡	jìng6	kjɐŋᶜ	kiaŋᶜ	*kaŋh
+坰	jiōng1			NEW_ENTRYjiōng	kiweŋ	kweŋ	*kwêŋ
+泂	jiǒng2	Ɣiweŋᴮ	Ɣueŋᴮ	*wêŋɁ
+迥	jiǒng2	Ɣiweŋᴮ	Ɣueŋᴮ	*wêŋɁNEW_ENTRYxiòng			
+洵	xuán	xiwen	hwen	*hwînNEW_ENTRYxún	sjuen	suin sun	*swinNEW_ENTRYxuán2			NEW_ENTRYxún2			NEW_ENTRYxún3			NEW_ENTRYxún	sjuen	suin	*swin
+憬	jiǒng3	kjwɐŋᴮ	kyaŋᴮ	*kwaŋɁ *kwraŋɁ
+窘	jiǒng4	gjuenᴮ 3	guin	*-un PCH *-uŋ
+熲	jiǒng5			NEW_ENTRYjiǒng	kiweŋᴮ	kueŋᴮ	*kwêŋɁ
+究	jiū1	kjəuᶜ	kuᶜ	*kuh
+救	jiù	kjəuᶜ	kuᶜ	*kuhNEW_ENTRYjiù5			
+求	qiú	gjəu	gu	*guNEW_ENTRYqiú1			
+鳩	jiū2	kjəu	ku	*ku
+繆	jiū3			NEW_ENTRYjiū	kjieu 4	kiu	*kiuNEW_ENTRYmiù2			NEW_ENTRYmóu6			
+九	jiǔ1	kjəuᴮ	kuᴮ	*kuɁ kwəɁ
+久	jiǔ2	kjəuᴮ	kuᴮ	*kuɁ *kᵂəɁ
+糾	jiǔ3	kjieuᴮ 4	kiuᴮ	*kiuɁ
+韭	jiǔ4	kjəuᴮ	kuᴮ	*kuɁ
+酒	jiǔ5	tsjəuᴮ	tsuᴮ	*tsiu *tsiuɁ
+酋	qiú	dzjəu	dzu	*dziuNEW_ENTRYqiú8			NEW_ENTRYqiú	dzjəu	dzu	*dzu
+臼	jiù1	gjəuᴮ	guᴮ	*guɁ
+舅	jiù2	gjəuᴮ	guᴮ	*guɁ
+舊	jiù3	gjəuᶜ	guᶜ	*gwəɁNEW_ENTRYjiù4	gjəuᶜ	guᶜ	*guh
+鵂	xiū	xjəu	hu	*hu
+就	jiù6			NEW_ENTRYjiù	dzjəuᶜ	dzuᶜ	*dzuh
+居	jū2	kjwo	kiɑ kiɑᶜ	*kaᴬ
+踞	jù	kjwoᶜ	kiɑᶜ	*kahNEW_ENTRYjù3			
+腒	jū3			NEW_ENTRYjū	kjwo	kiɑ	*ka
+据	jū4			NEW_ENTRYjū	kjwo	kiɑ	*ka
+苴	jū5	tsʰjwo	tsʰiɑ	*tsha
+蒩	zū	tsuo,tsjwo,tsʰjwo	tsiɑ tsɑ tsʰiɑ	*tsa...NEW_ENTRYzū		tsiɑ tsɑ tsʰiɑ	
+俱	jū6	kju	kio	*ko
+具	jù	gjuᶜ	gioᶜ	*goh
+駒	jū7	kju	kio	*ko
+拘	jū9			NEW_ENTRYjū	kju	kio	*ko
+局	jú1			NEW_ENTRYjú	gjwok	giok	*gok
+跼	jú2			
+橘	jú3	kjuet	kuit	*kwit
+掘	jú4			NEW_ENTRYjué18			NEW_ENTRYjué	gjuət,gjwɐt	gut	*gut
+鞠	jú5	kjuk	kuk	*kukNEW_ENTRYjú6	kjuk	kuk	*kukNEW_ENTRYjú7			NEW_ENTRYjú	kjuk	kuk	*kuk
+鞫	jú6	kjuk	kuk	*kuk
+咀	jǔ1	dzjwoᴮ	dziɑᴮ	*dzaɁ
+迎	zuò	dzâk	dzɑk	*dzâkNEW_ENTRYyíng1	ŋjɐŋ	ŋiaŋ	*ŋraŋNEW_ENTRYyìng	ŋjɐŋᶜ	ŋiaŋᶜ	*ŋraŋhNEW_ENTRYyìng1			NEW_ENTRYzuò4			
+筥	jǔ2	kjwoᴮ	kiɑᴮ	*kaɁ
+籧	jǔ2	kjwoᴮ	kiɑᴮ	*kaɁ
+矩	jǔ3	kjuᴮ	kyɑᴮ	*kwaɁ
+嵎	ku`o	kuât	kuɑt	*kwâtNEW_ENTRYkuò2			NEW_ENTRYyú23	ŋju	ŋio	*ŋo
+拒	jǔ4			
+柜	jǔ5	kjuᴮ	kyɑᴮ	*kwaɁ
+渠	qú	gjwo	gyɑ giɑ	*gwaNEW_ENTRYqú1			NEW_ENTRYqú2	gjwo	giɑ	*ga
+澮	kuài	kuâiᶜ	kuɑs	*kwâts *kôs *kôts *kwâsNEW_ENTRYkuài3			
+闕	què	kʰjwɐt	kʰyɑt	*khwat *khotNEW_ENTRYjué9	gjwɐt	gyɑt	*gotNEW_ENTRYquè2			
+巨	jù1			NEW_ENTRYjù	gjwoᴮ	gyɑɁ giɑɁ	*gwaɁ
+距	jù1			NEW_ENTRYjù	gjwoᴮ	gyɑɁ giɑɁ	*gwaɁ
+沮	jù2	dzjwoᴮ	dziɑᴮ	*dzaɁNEW_ENTRYjù	tsjwoᶜ	tsiɑᶜ	*tsah
+懼	jù5	gjuᶜ	gyɑᶜ	*gwah
+瞿	jù	kjuᶜ	kyɑᶜ	*kwah
+矍	jué	xjwak	hyɑk	*hwakNEW_ENTRYjué13			
+戄	jué	xjwak	hyɑk	*hwakNEW_ENTRYjué13			
+恇	kuāng	kʰjwaŋ	kʰyɑŋ	*khwaŋNEW_ENTRYkuāng2			
+據	jù6	kjwoᶜ	kiɑᶜ	*kah
+聚	jù7	dzjuᶜ	dzioᶜ	*dzoh
+族	zú	dzuk	dzok	*dzôkNEW_ENTRYzú5			
+最	zuì	tsuâiᶜ	tsuɑs tsos	*tsôtsNEW_ENTRYzuì2			
+稯	zōng	tsuŋ	tsoŋ	*tsôŋNEW_ENTRYzōng2			
+鐫	juān			NEW_ENTRYjuān	tsjwän	tsyan tsion	*tson
+卷	juǎn1	kjwänᴮ 3	kyanᴮ	*kronɁNEW_ENTRYquán3	gjwän 3	gyɑn	*gwan *gon
+捲	juǎn1	kjwänᴮ 3	kyanᴮ	*kronɁ
+臇	juǎn2			NEW_ENTRYjuǎn	tsjwänᴮ	tsyɑnᴮ tsionᴮ	*tsonɁ
+雋	juàn1	dzjwänᴮ	dzionᴮ dzyɑnᴮ	*dzonɁ
+倦	juàn2	gjwänᶜ 3	gyanᶜ	*gons *gwans *gions
+決	jué1	kiwet	kuet	*kwêtNEW_ENTRYjué2	kiwet	kuet	*kwêt
+袂	jué5			NEW_ENTRYmèi8 jué	mjiäiᶜ 4,kiwet	mias kuet	*kwêt *mets *mes
+厥	jué6	kjwɐt	kyɑt	*kotNEW_ENTRYjué7	kjwɐt	kyɑt	*kiot *kot
+蕨	jué8	kjwɐt	kyɑt	*keat *kot
+攫	jué12	kjwak	kyɑk	*kwak
+均	jūn1	kjiuen 4	kwin	*kwin
+鈞	jūn1	kjiuen 4	kwin	*kwinNEW_ENTRYjūn2	kjiuen 4	kwin	*kwin
+旬	xún	zjuen	zuin	*s-winNEW_ENTRYxún1			
+徇	xùn	zjuenᶜ	zuinᶜ	*s-winsNEW_ENTRYxùn2			
+殉	xùn	zjuenᶜ	zuinᶜ	*s-winsNEW_ENTRYxùn2			
+侚	xùn	zjuenᶜ	zuinᶜ	*s-winsNEW_ENTRYxùn2			
+君	jūn3	kjuən	kun	*kun
+軍	jūn4	kjuən	kun	*kun
+郡	jùn1	gjuən	gun	*gun
+濬	jùn3	sjuenᶜ	sunᶜ suinᶜ	*suns
+浚	jùn3	sjuenᶜ	sunᶜ suinᶜ	*suns
+咯	kǎ			NEW_ENTRYluò1	lâk [JY]	lɑk	*râk
+開	kāi	kʰậi	kʰəi	*khə̂i
+闓	kāi	kʰậi	kʰəi	*khə̂i
+豈	kǎi	凱		
+愾	kài2			NEW_ENTRYkài	kʰậiᶜ	kʰəs	*khə̂s
+刊	kān1			NEW_ENTRYkān1	kʰân	kʰɑn	*khân
+堪	kān2	kʰậm	kʰəm	*khə̂m
+嵁	kān3	kʰăm,kʰậm	kʰɛm	*khrə̂m
+戡	kān4	kʰậm	kʰəm	*khə̂m
+勘	kān5 kàn	kʰậmᶜ	kʰəmᶜ	*khə̂ms
+坎	kǎn1	kʰậmᴮ	kʰəmᴮ	*khə̂mɁNEW_ENTRYkǎn2			
+埳	kǎn1	kʰậmᴮ	kʰəmᴮ	*khə̂mɁ
+砍	kǎn3	kʰậmᴮ		
+歁	kǎn4			NEW_ENTRYkǎn	kʰậmᴮ	kʰəmᴮ	*khə̂mɁ
+塢	kǎn5			NEW_ENTRYkǎn	kʰâmᴮ	kʰɑmᴮ	*khâmɁ
+顑	kǎn6	kʰậmᴮ,xậmᶜ	həmᶜ kʰəmᴮ	*khə̂mɁ *hə̂ms
+看	kàn1	kʰânᶜ	kʰɑnᶜ	*khâns
+磡	kàn2	kʰậmᶜ	kʰəmᶜ	*khə̂ms
+嶔	qīn	kʰjəm,ŋjəmᴮ	kʰim ŋimᴮ	*kʰə̂mNEW_ENTRYqīn4			
+矙	kàn3			
+康	kāng1	kʰâŋ	kʰɑŋ	*khâŋ *khlaŋ
+糠	kāng2	kʰâŋ	kʰɑŋ	*khâŋ *khlaŋ
+囥	kàng	kʰâŋᶜ	kʰɑŋᶜ	
+考	kǎo1			NEW_ENTRYkǎo2			
+薧	kǎo3	kʰâuᴮ	kʰɑuᴮ	*khâuɁ
+槁	kǎo3	kʰâuᴮ	kʰɑuᴮ	*khâuɁ
+摳	kōu	kʰəu	LH	kʰio
+口	kǒu	kʰəuᴮ	kʰoᴮ	*khôɁ
+扣	kòu1	kʰəuᴮ/ᶜ	kʰoᴮ kʰoᶜ	*khôɁ/h
+叩	kòu1	kʰəuᴮ/ᶜ	kʰoᴮ kʰoᶜ	*khôɁ/h
+釦	kòu	kʰəuᴮ	kʰoᴮ	*khôɁ
+捆	kǔn	kʰuənᴮ	kʰuənᴮ	*khûnɁNEW_ENTRYkǔn3			
+寇	kòu2	kʰəuᶜ	kʰoᶜ	*khôh
+枯	kū1	kʰuo	kʰɑ	*khâ
+刳	kū2	kʰuo	kʰuɑ	*khwâ
+哭	kū3	kʰuk	kʰok	*khôk
+堀	kū4	kʰuət	kʰuət	*khût
+窟	kū4	kʰuət	kʰuət	*khût
+朏	kū5	kʰuət	kʰuət	*khût
+苦	kǔ	kʰuoᴮ	kʰɑᴮ	*khâɁNEW_ENTRYkù	kʰuoᶜ	kʰɑᶜ	*khâhNEW_ENTRYkù2			
+庫	kù1	kʰuoᶜ	kʰɑᶜ	*khâh
+褲	kù3			NEW_ENTRYkù	kʰuoᶜ	kʰuɑᶜ	*khwâh
+誇	kuā2	kʰwa	kʰua	*khwrâ
+跨	kuà	kʰwaᶜ	kʰuaᶜ	*khwrâ
+快	kuài1	kʰwaiᶜ	kʰuaiᶜ	*kʰwrêts
+塊	kuài4	kʰuậiᶜ,kʰuăiᶜ	kʰuaih kʰuəih	*khrûih
+寬	kuān	kʰuân	kʰuɑn	*khwân *khôn
+闊	kuò	kʰuât	kʰuɑt	*khôtNEW_ENTRYkuò3			
+窾	kuǎn	kʰuânᴮ	kʰuɑnᴮ	*khwânɁ *khônɁ
+匡	kuāng1			NEW_ENTRYkuāng	kʰjwaŋ	kʰyɑŋ	*khwaŋ
+眶	kuāng3			NEW_ENTRYkuāng	kʰjwaŋ	kʰyɑŋ	*khwaŋ
+筐	kuāng4	kʰjwaŋ	kʰyɑŋ	*khwaŋ
+狂	kuáng	gjwaŋ	gyɑŋᶜ	*gwaŋ
+況	kuàng1	xjwaŋᶜ	hyɑŋᶜ	*hwaŋh
+于	yú	ju	wɑ	*waNEW_ENTRYyú1	ju	wɑ	*waNEW_ENTRYyú2			
+刲	kuī1	kʰiwei	kʰue	*khwê
+巋	kuī2	kʰjwiᴮ 3	kʰui kʰuiɁ	*kh-iɁ / -əiɁ
+奎	kuí1			NEW_ENTRYkuí	kʰiwei	kʰye	*khwê
+頯	kuí2	gjwi 3	gui	*gwrə
+馗	kuí2	gjwi 3	gui	*gwrə
+夔	kuí3	gjwi 3	gui	*grui *gwrə
+犩	wéi	ŋjwi 3	ŋui	NEW_ENTRYwéi10			NEW_ENTRYwèi13			
+跬	kuǐ	kʰjweiᴮ	kʰyeᴮ	*khweɁ
+匱	kuì1	gjwiᶜ 3	gwis	*grus
+餽	kuì2	gjwiᶜ 3	gwih gwis	*gwəs *gwəh
+饋	kuì2	gjwiᶜ 3	gwih gwis	*gwəs *gwəh
+昆	kūn1	kuən	kuən	*kûnNEW_ENTRYkūn2	kuən	kuən	*kûnNEW_ENTRYkūn3			NEW_ENTRYkūn	kuən	kuən	kûn
+梱	kǔn2			NEW_ENTRYkǔn2	kʰuənᴮ	kʰuənᴮ	*khûnɁ
+睏	kùn2			
+括	kuò1	kuât	kuɑt	*kwât *kôt
+鞹	kuò4	kʰwâk	kʰuɑk	*khwâk
+郭	guō	kwâk	kuɑk	*kwâk
+剌	là1	lât	lɑt	*rât
+辣	là2	lât		
+臘	là3	lâp	lɑp	*râp
+蠟	là4	lâp		
+來	lái1	lậi	lə mɛk	*rə̂k/Ɂ *rə̂NEW_ENTRYlái2		lə mɛk	NEW_ENTRYlái	lậi	lə mɛk	*rə̂k/Ɂ *rə̂
+賚	lài	lậiᶜ	ləᶜ	*rə̂h *rə̂khNEW_ENTRYlài2			
+蒞	lì	ljiᶜ	lis	*rəs *rətsNEW_ENTRYlì5			
+戾	lì	lieiᶜ	les	*rês *rêtsNEW_ENTRYlì9	lieiᶜ,liet	les	*rêtsNEW_ENTRYlì10			
+鯠	lái3	lậi	lɑi lə	
+瀨	lài1	lâiᶜ	lɑs	*râs *râts
+惏	lán2			NEW_ENTRYlán3			NEW_ENTRYlán	lậm	ləm	*rə̂m *g-rəm
+婪	lán3			NEW_ENTRYlán	lậm	ləm	*rə̂m *g-rəm
+嵐	lán4	lậm	lɑm	
+藍	lán5	lâm	lɑm	*râmNEW_ENTRYlán6	lâm	lɑm	*râm
+蘭	lán7	lân	lɑn	*rân
+瀾	lán8	lân	lɑn	*rân *C-ran
+闌	lán9			NEW_ENTRYlán	lân	lɑn	*rân *g-ran
+欄	lán9			NEW_ENTRYlán	lân	lɑn	*rân *g-ran
+慫	lán10			NEW_ENTRYsǒng1	sjwoŋᴮ	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	*soŋɁNEW_ENTRYsǒng2	sjwoŋᴮ ~ səuᴮ	sioŋᴮ	*soŋɁ
+懶	lǎn1	lânᴮ		
+攬	lǎn4			NEW_ENTRYlǎn	lɑmᴮ	lɑmᴮ	*lâmɁ
+嚂	làn2			NEW_ENTRYlàn	lâmᶜ	lɑmᶜ	*râms *g-rams
+郎	láng1	lâŋ	lɑŋ	*râŋ *C-raŋ
+廊	láng2			
+筤	láng3	lâŋ	lɑŋ	*râŋ *C-raŋ
+朗	lǎng	lâŋᴮ	lɑŋᴮ	*râŋɁ
+浪	làng	lâŋᶜ	lɑŋᶜ	
+牢	láo1	lâu	lou	*rû
+勞	láo2	lâu	lɑu	*râuNEW_ENTRYlào	lâuᶜ	lɑuᶜ	*râuh
+醪	láo3	lâu	lou	*rû
+老	lǎo	lâuᴮ	louᴮ	*rûɁ
+酪	lào1	lâk	lɑk	*râk *g-rakNEW_ENTRYluò5			
+癆	lào2	lâuᶜ	lɑuᶜ	
+勒	lè1	lək	lək	*rə̂kNEW_ENTRYlè2			NEW_ENTRYlè	lək	lək	*rə̂k
+泐	lè2			NEW_ENTRYlè	lək	lək	*rə̂k
+阞	lè2			NEW_ENTRYlè	lək	lək	*rə̂k
+扐	lè2			NEW_ENTRYlè	lək	lək	*rə̂k
+仂	lè2			NEW_ENTRYlè	lək	lək	*rə̂k
+樂	lè3	lâk	lɑk	*râuk *C-raukNEW_ENTRYliào3	ljäuᶜ	liauᶜ	*riauhNEW_ENTRYyuè9	ŋåk	ŋɔk	*ŋrâuk
+雷	léi1	luậi	luəi	*rûi
+累	léi2	ljwi	lui	*ruiNEW_ENTRYlèi4	luậiᶜ,ljwi	luəiᶜ	*rûih
+縲	léi2	ljwi	lui	*rui
+櫐	lěi	ljwiᴮ	luiᴮ	*ruiɁNEW_ENTRYlěi4			
+藟	lěi	ljwiᴮ	luiᴮ	*ruiɁNEW_ENTRYlěi4			
+耒	lěi1	ljwiᴮ	luiᴮ	*ruiɁ
+磊	lěi2	luậiᴮ	luəiᴮ	*rûiɁ
+磥	lěi2	luậiᴮ	luəiᴮ	*rûiɁ
+儡	lěi3			NEW_ENTRYlěi	luậi[ᴮ]	luəiᴮ	*rûiɁ
+淚	lèi1	ljwiᶜ	lus luis	*ruts *riuts
+類	lèi2	ljwiᶜ	lus luis	*rus
+酹	lèi3	luâiᶜ	los luɑs	*rôs *g-rots
+儽	lèi4	luậiᶜ,ljwi	luəiᶜ	*rûih
+冷	lěng	lieŋᴮ,lɐŋᴮ	leŋᴮ	*rêŋɁ
+狸	lí1			
+梩	lí2			
+貍	lí3	lji	liə li	*pʰrə *pʰə-rə *rə
+釐	lí4	lji	liə	*rə
+梨	lí5	lji	li	*ri *rəi
+犁	lí6	liei,lji	lei	OCM
+犛	lí7	lji	liə	*rə
+離	lí9	ljie 3	liɑi	*raiNEW_ENTRYlí10	ljie 3	liɑi	*raiNEW_ENTRYlì	ljieᶜ 3	liɑiᶜ	*raihNEW_ENTRYlí11	ljie 3	liɑi	*rai
+罹	lí9	ljie 3	liɑi	*rai
+籬	lí12	ljie 3	liɑi	*rai
+厲	lì	ljäiᶜ	lias	*ratsNEW_ENTRYlì14	ljäiᶜ	lias	*ratsNEW_ENTRYlì15	ljäiᶜ	lias	*ratsNEW_ENTRYlì16	ljäiᶜ	lias	*ratsNEW_ENTRYlì17	ljäiᶜ	lias	*ratsNEW_ENTRYlì18			NEW_ENTRYlì19	ljäiᶜ	lias	*rats
+跟	lí13			NEW_ENTRYxǐ6	ṣjeᴮ	ṣieᴮ	*sreɁNEW_ENTRYlí	ljie	lie	*re
+李	lǐ1	ljiᴮ	liəᴮ	*rəɁ
+里	lǐ3	ljiᴮ	liəᴮ	*rəɁNEW_ENTRYlǐ4	ljiᴮ	liəᴮ	*rəɁ
+理	lǐ4	ljiᴮ	liəᴮ	*rəɁNEW_ENTRYlǐ5	ljiᴮ	liəᴮ	*rəɁNEW_ENTRYlǐ6	ljiᴮ	liəᴮ	*rəɁ
+史	shǐ	ṣiᴮ	ṣəᴮ	*srəɁ
+使	shǐ	ṣiᴮ	ṣəᴮ	*srəɁNEW_ENTRYshì	ṣiᶜ	ṣəᶜ	*srəhNEW_ENTRYshǐ8			NEW_ENTRYshì11			
+鯉	lǐ7	ljiᴮ	liəᴮ	*rəɁ
+禮	lǐ8	lieiᴮ	leiᴮ	*rîɁ *rə̂iɁ
+力	lì1	ljək	lik	*rək
+立	lì3	ljəp	lip	*rəp
+笠	lì4	ljəp	lip	*rəp
+利	lì7	ljiᶜ	liᶜ	*rih
+例	lì8			NEW_ENTRYlì	ljäiᶜ	lias	*rats
+栗	lì11	ljet	lit	*ritNEW_ENTRYlì12			NEW_ENTRYlì	ljet	lit	*rit
+慄	lì13	ljet	lit	*rit
+勵	lì20	ljäiᶜ	lias	*rats
+糲	lì21	lâiᶜ,ljäiᶜ	lias lɑs	*rats *ras
+歷	lì22	liek	lek	*rêk
+曆	lì22	liek	lek	*rêk
+麗	lì	lieiᶜ	leᶜ	*rêkh *rêhNEW_ENTRYlì23	lieiᶜ	leᶜ	*rêh
+驪	lí			
+聯	lián1	ljän	lian	*ran *ren
+潸	shān	ṣănᴮ,ṣăn	ṣanᴮ ṣɛn ṣan	*srân *srên *srânɁNEW_ENTRYshān4		ṣanᴮ ṣɛn ṣan	
+蓮	lián4	lien [GY]	len	*rên
+僆	lián5 liàn	ljänᴬ²	lian lianᶜ	
+廉	lián6	ljäm	liam	*ramNEW_ENTRYlián7			NEW_ENTRYlián	ljäm	liam	*rem
+磏	lián8	ljäm	liam	*ram *riam
+鎌	lián8	ljäm	liam	*ram *riam
+芟	shān	ṣam	ṣam	*srâmNEW_ENTRYshān3			
+摲	shān	ṣam	ṣam	*srâmNEW_ENTRYshān3			
+憐	lián9	lien	len	*rîn
+怜	líng	lieŋ	leŋ	NEW_ENTRYlíng2			
+荵	líng	ljəŋ	liŋ	NEW_ENTRYlíng2			
+斂	liǎn1	ljämᴮ,ljämᶜ	liamᴮ liamᶜ	*ramɁ *ramsNEW_ENTRYliàn	ljämᶜ	liamᶜ	*rams *romsNEW_ENTRYliàn4			
+蘞	liǎn3	ljämᴬ/ᴮ	liamᴮ	*ramɁ *romɁ
+楝	liàn1	lienᶜ	lenᶜ	*rên *g-rens
+湅	liàn2	lienᶜ	lenᶜ	*rên *g-rens
+練	liàn2	lienᶜ	lenᶜ	*rên *g-rensNEW_ENTRYliàn3			NEW_ENTRYliàn	lienᶜ	lėn	lenᶜ
+鍊	liàn2	lienᶜ	lenᶜ	*rên *g-rens
+僩	xiàn	Ɣănᴮ	gɛnᴮ	*grênɁNEW_ENTRYxiàn8			
+嫻	xián	Ɣăn	gɛn	NEW_ENTRYluò4			NEW_ENTRYxián10			
+俍	liáng1 làng	ljaŋ,lâŋᶜ	liɑŋ	*raŋ
+爽	shuǎng	ṣjaŋᴮ	ṣɑŋᴮ	*sraŋɁNEW_ENTRYshuǎng1	ṣjaŋᴮ	ṣɑŋᴮ	*sraŋ *sraŋɁNEW_ENTRYshuǎng2			
+梁	liáng2	ljaŋ	liɑŋ	*raŋ
+涼	liáng3	ljaŋ	liɑŋ	*raŋ
+霜	shuāng	ṣjaŋ	ṣɑŋ	*sraŋNEW_ENTRYshuāng2			
+量	liáng4	ljaŋ	liɑŋ	*raŋNEW_ENTRYliàng	ljaŋᶜ	liɑŋᶜ	*raŋh
+糧	liáng5	ljaŋ	liɑŋ	*raŋ
+粻	zhāng	ṭjaŋ	ṭɑŋ	*traŋNEW_ENTRYzhāng2			
+兩	liǎng	ljaŋᴮ	liɑŋᴮ	*raŋɁ
+輛	liàng	ljaŋᶜ	liɑŋᶜ	*raŋh
+亮	liàng	ljaŋᶜ	liɑŋᶜ	*raŋh
+膫	liáo2			
+獠	liáo3			NEW_ENTRYliáo	lieu	leu	*riâu
+聊	liáo4			NEW_ENTRYliáo	lieu	leu	*riû
+膋	liáo5	lieu	leu	*riâu
+腴	yú	jiu	jo	*joNEW_ENTRYyú13			
+了	liǎo1	lieuᴮ		
+料	liào1	lieuᶜ	leuᶜ	*riâuh *riûh
+燎	liào2	ljäuᶜ,lieuᶜ	leuᶜ	*riâuh
+療	liào3	ljäuᶜ	liauᶜ	*riauh
+列	liè1	ljät	liat	*rat
+烈	liè2	ljät	liat	*ratNEW_ENTRYliè-liè			
+冽	liè2	ljät	liat	*rat
+颲	liè2	ljät	liat	*rat
+茢	liè3	ljät	liat	*rat *ret
+劣	liè4	ljuät	liot lyat	*rot
+躐	liè5	ljäp	liap	*rap
+獵	liè6	ljäp	liap	*rap *repNEW_ENTRYliè7			
+鬣	liè8	ljäp	liap	*rap
+林	lín1	ljəm	lim	*rəmNEW_ENTRYlín2	ljəm	lim	*rəm
+森	sēn	ṣjəm	ṣim	*srəmNEW_ENTRYsēn			
+嗿	tǎn	tʰậmᴮ	tʰəmᴮ	*rhə̂mɁNEW_ENTRYtǎn4			
+淋	lín3	ljəm	lim	*rə̂m
+霖	lín3	ljəm	lim	*rə̂m
+臨	lín4	ljəm	lim	*rəmNEW_ENTRYlìn	ljəmᶜ	limᶜ	*rə/ims
+鱗	lín5	ljen	lin	*rin
+廩	lǐn2	ljəmᴮ	limᴮ	*rəmɁNEW_ENTRYlǐn3	ljəmᴮ	limᴮ	*rəmɁ *b-rəmɁ
+懍	lǐn3	ljəmᴮ	limᴮ	*rəmɁ *b-rəmɁ
+吝	lìn	ljenᶜ	linᶜ	*m-rəns
+岭	líng1	lieŋ		
+蛉	líng3			
+鈴	líng4	lieŋ	leŋ	*rêŋ *C-reŋ
+陵	líng6	ljəŋ	liŋ	*rəŋNEW_ENTRYlíng7	ljəŋ	liŋ	*rəŋ
+泠	líng7	ljəŋ	liŋ	*rəŋ
+霝	líng8	lieŋ	leŋ	*rêŋ rîn
+零	líng8	lieŋ	leŋ	*rêŋ rîn
+靈	líng9	lieŋ	leŋ	*rêŋ *C-reŋ
+領	lǐng	ljängᴮ	lieŋᴮ	*reŋɁ
+令	lìng	ljäŋ[ᶜ]	lieŋ lieŋᶜ	*reŋh *rin *rins *reŋ
+留	liú1	ljəu	lu	*ru
+劉	liú2	ljəu	lu	*ru
+戮	lù	ljuk	luk	*rukNEW_ENTRYlù18			
+流	liú3	ljəu	l(i)u	*ru *riu
+旒	liú4			
+六	liù1	ljuk	luk	*ruk
+溜	liù2	ljəuᶜ	r(i)u	*ru *riu
+翏	liù3	ljəuᶜ,ljeuᶜ,ljäuᶜ	liuᶜ	*riukh *riuh
+飂	liù3	ljəuᶜ,ljeuᶜ,ljäuᶜ	liuᶜ	*riukh *riuh
+隆	lóng1	ljuŋ	luŋ	*ruŋNEW_ENTRYlóng2	ljuŋ	luŋ	*ruŋ
+龍	lóng3	ljwoŋ	lioŋ	*roŋNEW_ENTRYlóng4			NEW_ENTRYmáng7	måŋ	mɔŋ	*mrôŋ
+籠	lóng5	luŋ[ᴮ]	loŋ loŋᶜ	*rôŋɁ *rôŋ
+聾	lóng6	luŋ	loŋ	*rôŋ
+壟	lǒng	ljwoŋᴮ	lioŋᴮ	*roŋɁ
+隴	lǒng	ljwoŋᴮ	lioŋᴮ	*roŋɁ
+弄	lòng1	luŋ[ᶜ]	loŋᶜ	*rôŋhNEW_ENTRYlòng2	luŋᶜ	loŋᶜ	*rôŋh
+婁	lóu1 lǒu	ləuᴮ	loᴮ	*rôɁNEW_ENTRYlǚ1	lju	lio	*rio *r-jo
+塿	lóu1 lǒu	ləuᴮ	loᴮ	*rôɁNEW_ENTRYlǒu			
+僂	lóu2	ləu,ljuᴮ	lioᴮ lo	*lô *loɁ
+髏	lóu3			
+漏	lòu1	ləuᶜ	loᶜ	*rôh *rôkh
+漉	lù	luk	lok	*rôkNEW_ENTRYlù15			
+䍡	lù	luk	lok	*rôk
+中	luán	luân	luɑn lon	*rônNEW_ENTRYluán2			NEW_ENTRYzhōng1	ṭjuŋ	ṭuŋ	*truŋNEW_ENTRYzhòng	ṭjuŋᶜ	ṭuŋᶜ	*truŋh
+鏤	lòu2			NEW_ENTRYlòu	ləuᶜ	loᶜ	*rôh *rô
+盧	lú1	luo	lɑ	*râ
+壚	lú1	luo	lɑ	*râ
+玈	lú1	luo	lɑ	*râ
+廬	lú2	ljwo	liɑ	*ra
+蘆	lú3	ljwo	liɑ	*ra
+顱	lú4	luo	lɑ	*râ
+臚	lú5			
+艫	lú6			
+鹵	lǔ1	luoᴮ	lɑᴮ	*rāɁ
+魯	lǔ2			
+櫓	lǔ3	luoᴮ	lɑᴮ	*râɁ
+彔	lù1	luk	lok	*rôk
+錄	lù	ljwok	liok	*rokNEW_ENTRYlù3			
+盝	lù2			
+陸	lù4	ljuk	luk	*ruk
+路	lù5	luoᶜ	lɑᶜ	*râkhNEW_ENTRYlù6	luoᶜ	lɑᶜ	*râkh
+簬	lù7	luoᶜ	lɑᶜ	*râkh *g-rah
+露	lù8	luoᶜ	lɑᶜ	*râkhNEW_ENTRYlù9	luoᶜ	lɑᶜ	*râkh
+鷺	lù10	luoᶜ	lɑᶜ	*râkh
+鹿	lù11	luk	lok	*rôk
+摝	lù12	luk	lok	*rôk
+麓	lù13	luk	lok	*rôk
+轆	lù14			
+越	lù16			NEW_ENTRYyuè4	jwɐt	wɑt	*watNEW_ENTRYyuè5	jwɐt	wɑt	*wat
+僇	lù17	ljuk	luk	*ruk
+臾	yú	jiu	jo	*joNEW_ENTRYyú12			
+驢	lǚ2	ljwo	liɑ	*ra
+旅	lǚ1	ljwoᴮ	liɑᴮ	*raɁNEW_ENTRYlǚ2	ljwoᴮ	liɑᴮ	*raɁNEW_ENTRYlǚ3	ljwoᴮ	liɑᴮ	*raɁ
+呂	lǚ1	ljwoᴮ	liɑᴮ	*raɁ
+鋁	lǚ4 (?)			*raɁ
+律	lǜ1	ljuet	luit lut	*rut
+率	shuài	ṣjuet,ṣwiᶜ	ṣuis ṣuit luit	*srut *srutsNEW_ENTRYlǜ5	ljuet	ṣuis ṣuit luit	*rut *riutNEW_ENTRYshuài1		ṣuis ṣuit luit	NEW_ENTRYshuài2		ṣuis ṣuit luit	NEW_ENTRYshuài3		ṣuis ṣuit luit	NEW_ENTRYshuài	ṣjuət,ṣwiᶜ	ṣuis ṣuit luit	*srut *sruts
+帥	shuài	ṣjuet,ṣwiᶜ	ṣuis ṣuit luit	*srut *srutsNEW_ENTRYshuài	ṣwiᶜ	ṣuis ṣus	*srutsNEW_ENTRYshuài2		ṣuis ṣuit luit	
+慮	lǜ2	ljwo,ljwoᶜ	liɑ liɑᶜ	*rah *ra
+勴	lǜ3			NEW_ENTRYlǜ	ljwoᶜ	liɑᶜ	*rah
+繂	lǜ5	ljuet	luit	*rut *riutNEW_ENTRYshuài3		luit	
+欒	luán1	luân	luɑn lon	*rôn
+臠	luán1	luân	luɑn lon	*rôn
+鑾	luán3	luân	luɑn lon	*rôn
+孿	lüán shuàn	ṣwanᶜ,ṣjwänᶜ	ṣuanᶜ	*sronsNEW_ENTRYshuàn luán		
+卵	luǎn	luânᴮ	luɑnᴮ lonᴮ	*rônɁ
+亂	luàn	luânᶜ	luɑnᶜ lonᶜ	*rôns
+掠	lüè1	ljak,ljaŋᶜ	liɑŋᶜ liɑk	*rak *raŋh.
+略	lüè1	ljak,ljaŋᶜ	liɑŋᶜ liɑk	*rak *raŋh.NEW_ENTRYlüè2	ljak	liɑk	*rakNEW_ENTRYlüè3	ljak	liɑk	*rakNEW_ENTRYlüè4	ljak	liɑk	*rak
+論	lún1	ljuen,luən	luən lun luənᶜ	*runNEW_ENTRYlùn	luənᶜ	luən lun luənᶜ	*rûns
+輪	lún2	ljuen	lun	*run
+綸	lún3	ljuen	lun	*runNEW_ENTRYguān	kwan	kuan	*krun
+捋	luō	luât	luɑt lot	*rôt
+螺	luó2	luâ	luɑi loi	
+騾	luó3			
+羅	luó4	lâ	lɑi	*râi
+籮	luó5	lâ	lɑi	
+砢	luǒ1			
+裸	luǒ2	luâᴮ	luɑiᴮ loiᴮ	*rôiɁ *ruâiɁ
+烙	luò2	lâk	lɑk	*râk
+硌	luò3	lâk	lɑk	*râk
+絡	luò6	lâk	lɑk	*râk
+落	luò7	lâk	lɑk	*râk
+雒	luò8	lâk	lɑk	*râk
+駱	luò9			
+媽	mā1			
+嗎	ma2			
+麻	má	ma	mai	*mrâi.
+馬	mǎ1	maᴮ	maᴮ	*mrâɁNEW_ENTRYmǎ2			
+禡	mǎ	maᶜ	maᶜ	*mrâh
+螞	mǎ2			
+買	mǎi	maiᴮ	mɛᴮ	*mrêɁ
+賣	mài	maiᶜ	mɛᶜ	*mrêhNEW_ENTRYyù23	jiuk	juk	*luk
+脈	mài1	mɛk	mɛk	*mrêkNEW_ENTRYmài2			
+麥	mài4	mɛk	mɛk	*mrə̂k
+邁	mài5	mwaiᶜ	mas	*mrâts
+勱	mài5	mwaiᶜ	mas	*mrâts
+瞞	mán			NEW_ENTRYmán	muân	mɑn	*mân
+慢	màn1			NEW_ENTRYmàn	manᶜ	manᶜ	*mrâns
+嫚	màn1			NEW_ENTRYmàn	manᶜ	manᶜ	*mrâns
+曼	màn2			NEW_ENTRYwàn2	mjwɐnᶜ	muɑnᶜ	*mânsNEW_ENTRYmàn	muânᶜ	mɑnᶜ	*mâns
+漫	màn2			NEW_ENTRYmàn	muânᶜ	mɑnᶜ	*mâns
+謾	màn3		mian mɑn mɑnᶜ man manᶜ	NEW_ENTRYmàn4		mian mɑn mɑnᶜ man manᶜ	NEW_ENTRYmàn	muânᶜ	mian mɑn mɑnᶜ man manᶜ	*mânsNEW_ENTRYmàn	muânᶜ,manᶜ,mjän 3	mian mɑn mɑnᶜ man manᶜ	*mrân *mâns *mrâns *mân
+芒	máng1	mjwaŋ,mwâŋ	muɑŋ mɑŋ huɑŋ	*maŋNEW_ENTRYmáng2	mwâŋ	muɑŋ mɑŋ huɑŋ	*mâŋNEW_ENTRYmáng3	mwâŋ,xwâŋ[ᴮ]	muɑŋ mɑŋ huɑŋ	*mâŋ *hmâŋ
+鋩	máng	mjwaŋ	muɑŋ	*maŋ
+茫	máng3	mwâŋ,xwâŋ[ᴮ]	muɑŋ mɑŋ huɑŋ	*mâŋ *hmâŋ
+盲	máng4	mɐŋ	maŋ	*mrâŋ
+蘉	máng6	mwâŋ	mɑŋ	*mâŋ
+尨	máng7	måŋ	mɔŋ	*mrôŋ
+莽	mǎng1	mwâŋᴮ	mɑŋᴮ	*mâŋɁ *mlaŋɁNEW_ENTRYmò	muoᴮ	mɑᴮ	*mâɁ *mlaɁ
+蟒	mǎng2	mwâŋᴮ	mɑŋᴮ	*mâŋɁ *mlaŋɁ
+貓	māo	mau,mjäu 3	mau	*mâu
+毛	máo	mâu	mɑu	*mâu
+世	mào1	mâuᶜ	mouᶜ	*mûhNEW_ENTRYshì7			NEW_ENTRYshì	śjäiᶜ	śas	*lhats *-ps
+帽	mào1	mâuᶜ	mouᶜ	*mûhNEW_ENTRYmào7			
+冒	mào2	mâuᶜ	mouᶜ	*mûhNEW_ENTRYmào3	mâuᶜ	mouᶜ	*mûhNEW_ENTRYmào4			NEW_ENTRYmào5			NEW_ENTRYmò6	mək	mək	*mə̂k
+瑁	mào6			
+媢	mào8			
+懋	mào9			NEW_ENTRYmào	məuᶜ	moᶜ	*môh
+沒	méi1	muət		NEW_ENTRYmò4	muət	muət	*mə̂tNEW_ENTRYmò5			NEW_ENTRYmò	muət	muət	*mə̂tNEW_ENTRYméi	muət		
+枚	méi2	muậi	məi	*mə̂i
+眉	méi3	mji 3	mi	*mrəiNEW_ENTRYwěi6	mjweiᴮ	muiᴮ	*məiɁ
+湄	méi3	mji 3	mi	*mrəi
+楣	méi3	mji 3	mi	*mrəi
+梅	méi4	muậi	mə	*mə̂ and *mə̂Ɂ
+脢	méi5	muậi[ᶜ]	mə məh	*mə̂ *mə̂h
+媒	méi6	muậi	mə	*mə̂
+禖	méi6	muậi	mə	*mə̂NEW_ENTRYméi7			
+腜	méi8	muậi	mə	*mə̂
+煤	méi9	muậi	mə	*mə̂
+美	měi1	mjiᴮ 3	miᴮ	*mrəiɁ
+每	měi2	mwậiᴮ	məᴮ	*mə̂Ɂ *moɁ) (dialectalNEW_ENTRYměi3			NEW_ENTRYměi	muậiᴮ	məᴮ	*mə̂Ɂ
+沬	mèi2			NEW_ENTRYmèi	muâiᶜ	mɑs	*mâts
+昧	mèi3	muậiᶜ	məs	*mə̂ts
+寐	mèi4	miᶜ 4	mis	*mis *mits
+魅	mèi5	mjiᶜ 3	mis	*mris *mrits
+銀	mèi6	muât,maiᶜ	mas mɑt	*mât *mrâtsNEW_ENTRYyín4	ŋjen 3	ŋin	*ŋrən
+痗	mèi7 huì	muậiᶜ,xuậiᶜ	huəᶜ məᶜ	*(h)mə̂h
+門	mén1	muən	mən	*mə̂n
+捫	mén2	muən	mən	**mə̂n
+揗	shùn	dźjuenᴮ/ᶜ	LH	ziunNEW_ENTRYshùn2			
+悶	mén3	muən	mən	*mə̂nNEW_ENTRYmèn	muənᶜ	mənᶜ	*mə̂nsNEW_ENTRYmèn			
+殙	hūn	xuən	huən	*hmə̂n
+虻	méng1	mɐŋ	maŋ	*mrâŋ
+氓	méng2	mɛŋ	mɛŋ	*mrə̂ŋ *mrâŋ
+盟	méng3			NEW_ENTRYméng	mjwɐŋ	miaŋ	*mraŋ
+萌	méng4	mɛŋ	mɛŋ	*mrâŋ
+夢	méng5	muŋ	moŋ	*môŋNEW_ENTRYmèng2	mjuŋᶜ	muŋ muŋᶜ	(tone A!) *məŋ
+矇	méng5	muŋ	moŋ	*môŋ
+蒙	méng6	muŋ	moŋ	*môŋ
+幪	měng	muŋᴮ	moŋᴮ	*môŋɁNEW_ENTRYměng3			
+濛	méng7	muŋ	moŋ	*môŋ
+黽	měng1	mɛŋᴮ	mɛŋᴮ	*mrêŋɁ
+蠓	měng2			
+孟	mèng1	mɐŋᶜ	maŋᶜ	*mrâŋh
+迷	mí1	miei	mei	*mî
+謎	mí	mieiᶜ	meiᶜ	*mîh
+眯	mǐ	mieiᴮ	meiᴮ	*mîɁNEW_ENTRYmǐ2			
+麋	mí2	mji 3	mi	*mri *mrəi
+彌	mí3	mjie 4	mie	*me
+弭	mǐ	mjieᴮ 4	mieᴮ	*meɁNEW_ENTRYmǐ4			
+敉	mǐ	mjieᴮ 4	mieᴮ	*meɁNEW_ENTRYmǐ4			
+瀰	mí4			
+麑	mí5		ŋe mie me	NEW_ENTRYní5	ŋiei,miei,mjie	ŋe mie me	*ŋê *me
+麛	mí5		ŋe mie me	
+糜	mí6	mje 3	miai	*mai
+米	mǐ1	mieiᴮ	meiᴮ	*mîɁ
+羋	mǐ3	mjieᴮ 4	mieᴮ	*meɁ
+渳	mǐ5	mjieᴮ 4	mieᴮ	*meɁ
+靡	mǐ6	mjeᴮ 3	miɑiᴮ	*maiɁNEW_ENTRYmǐ7	mjeᴮ 3	miɑiᴮ	*maiɁ
+麼	mó	mjeᴮ 3 [tone!]	miɑiᴮ	*maiɁNEW_ENTRYmó1			
+謐	mì2			
+密	mì3	mjet 3	mit	*mritNEW_ENTRYmì4	mjet 3	mit	*mritNEW_ENTRYmì5			
+蜜	mì6	mjiet 4	mit	*mit
+冪	mì7	miek	mek	*mêk
+冥	mì7	miek	mek	*mêkNEW_ENTRYmíng2	mieŋ[ᴮ]	meŋ meŋᴮ	*mêŋNEW_ENTRYmíng3	mieŋ	meŋ	*mêŋ
+幭	miè	miet	met	*mêtNEW_ENTRYmiè4			
+覓	mì8	miek	mek	*mêk
+瞑	mián1	mien	men	*mênNEW_ENTRYmiàn2			NEW_ENTRYmíng4	mieŋ	meŋ	*mêŋNEW_ENTRYmiàn	mienᶜ	menᶜ	*mêns
+眠	mián1	mien	men	*mên
+綿	mián2	mjiän 4	mian	
+棉	mián2	mjiän 4	mian	
+勉	miǎn1	mjänᴮ 3	mianᴮ	*mranɁ
+娩	miǎn2	mjänᴮ 3	mianᴮ	*mranɁ
+冕	miǎn3	mjänᴮ 3	miɑnᴮ	*mranɁ
+偭	miǎn4			NEW_ENTRYmiǎn	mjiänᴮ 4	mianᴮ	*menɁ
+湎	miǎn5	mjiänᴮ 4	mianᶜ	*mens
+面	miàn1	mjiänᶜ 4	mianᶜ	*mens
+眇	miǎo	mjiäuᴮ 4	miauᴮ	*miauɁ
+杪	miǎo	mjiäuᴮ 4	miauᴮ	*miauɁ
+妙	miào	mjiäuᶜ 4	miauᶜ	*miauhNEW_ENTRYmiào1			
+廟	miào2	mjäuᶜ 3	miɑuᶜ	*mauh
+乜	miē			
+滅	miè1	mjiät 4	miat	*met
+蔑	miè2	miet		NEW_ENTRYmiè2	miet	met	*mêt
+衊	miè3	miet	met	
+民	mín1	mjien 4	min	*min
+泯	mín2			NEW_ENTRYmín	mjenᴮ 3	mɨn mɨnᴮ	NEW_ENTRYmín	mjenᴮ 3	mɨn mɨnᴮ	*mrən *mrənɁNEW_ENTRYmǐn4			
+緡	mín3	mjen 3	mɨn	*mrənᴬ (tone!)
+痻	mín4	mjen 3	mɨn	*mrən
+愍	mǐn	mjenᴮ 3	mɨn mɨnᴮ	*mrənNEW_ENTRYmǐn4			
+憫	mǐn	mjenᴮ 3	mɨn mɨnᴮ	*mrənNEW_ENTRYmǐn4			
+忞	mín6			NEW_ENTRYmín	mjen 3	mɨn	*mrən
+旻	mín6			
+閔	mǐn1	mjenᴮ 3	mɨnᴮ	*mrən
+暋	mǐn	mjenᴮ 3	mɨnᴮ	*mrənɁNEW_ENTRYmǐn3			NEW_ENTRYmǐn4			
+敃	mǐn	mjenᴮ 3	mɨnᴮ	*mrənɁNEW_ENTRYmǐn3			
+敏	mǐn	mjenᴮ 3	mɨᴮ mɨnᴮ	*mrəɁNEW_ENTRYmǐn3			
+閩	mǐn2 mín	mjen 3 (tone!) [GY]	mɨn	
+皿	mǐn5	mjwɐŋᴮ	mɨaŋᴮ	*maŋɁ
+命	mìng	mjɐŋᶜ	mieŋᶜ	*mrin *mreŋ *mreŋhNEW_ENTRYmìng			
+銘	míng1a	mieŋ	meŋ	*mêŋ
+溟	míng3	mieŋ	meŋ	*mêŋ
+明	míng6	mjwɐŋ	miaŋ	*mraŋ
+鳴	míng7	mjwɐŋ	mieŋ	*mreŋ
+謬	miù1	mjeuᶜ	miuᶜ	*mriuh
+摩	mó2	muâ	mɑi	*mâi
+磨	mó2	muâ	mɑi	*mâi
+詛	mò	muâᶜ	mɑiᶜ	*mâihNEW_ENTRYmò12			
+謨	mó3	muo	mɑ	*mâɁ [! tone]
+譕	wú	mju	muɑ	*maNEW_ENTRYwú6			
+末	mò1	muât	mɑt	*mâtNEW_ENTRYmò2	muât	mɑt	*mât
+莫	mò7			NEW_ENTRYmò8	mâk	mɑk	*mâkNEW_ENTRYmù4	muoᶜ	mɑᶜ	*mâkhNEW_ENTRYmò	mâk	mɑk	*mâk
+瞙	mò8	mâk	mɑk	*mâk
+暯	mò8	mâk	mɑk	*mâk
+膜	mò10			NEW_ENTRYmò11			
+貊	mò11			
+貉	mò11			
+漠	mò11			
+纆	mò14	mək	mək	*mə̂k
+默	mò15	mək	mək	*mə̂k
+嘿	mò15	mək	mək	*mə̂k
+侔	móu2	mjəu,məu	mu mo	*mu *mô
+眸	móu3	mjəu	mu	*mu
+謀	móu4	mjəu	mu	*mo
+鍪	móu5	mjəu	mu	*mu
+牡	mǒu1			NEW_ENTRYmǔ1	məuᴮ	moᴮ	*mûɁ
+某	mǒu2	məuᴮ	moᴮ	*môɁ
+瞀	mòu	måk,məuᶜ	mɔk moᶜ	*mrôk *mrôkh
+母	mǔ2	məuᴮ	moᴮ	*môɁ
+姆	mǔ3	məuᴮ	moᴮ	*môɁ
+畝	mǔ5	məuᴮ	moᴮ	*môɁ
+木	mù1	muk	mok	*môk
+目	mù2	mjuk	muk	*muk
+牧	mù3	mjuk	muk	*mək
+暮	mù4	muoᶜ	mɑᶜ	*mâkh
+墓	mù5	muoᶜ	mɑᶜ	*mâkh.
+慕	mù6	muoᶜ	mɑᶜ	*mâkh *mlaks
+憮	wǔ	mjuᴮ	muɑᴮ	*maɁNEW_ENTRYwǔ7			
+蛯	mǔ	muoᴮ [GY]		
+霂	mù7			
+吶	nà1			NEW_ENTRYnuò1 nà	nuət,ńźjwät	ńot nuət ńuat	*nût *not
+訥	nà1			NEW_ENTRYnuò1 nà	nuət,ńźjwät	ńot nuət ńuat	*nût *not
+納	nà2			NEW_ENTRYnà	nập	nəp	*nˆup
+那	nà3	nâᶜ		
+若	ruò	ńźjak ~ ńźjaᴮ	ńiɑk	*nakNEW_ENTRYruò1	ńźjak,GY also ńźjaᴮ	ńɑk	*nakNEW_ENTRYruò2	ńźjak	ńɑk	*nakNEW_ENTRYruò3			
+譫	nà4	ṇaᶜ, i.e. prob. naᶜ		
+乃	nǎi1	nậiᴮ	nəᴮ	*nə̂ɁNEW_ENTRYnǎi2			NEW_ENTRYnǎi	nậiᴮ	nəᴮ	*nə̂Ɂ
+奶	nǎi3			
+嬭	nǎi4	nieiᴮ	neiᴮ	*nêɁ
+奈	nài1	nâiᶜ	nɑs	NEW_ENTRYnài2	nâiᶜ	nɑs	*nâsNEW_ENTRYnài3			
+柰	nài1	nâiᶜ	nɑs	
+鼐	nài4	nậiᴮ/ᶜ	nəᴮ nəᶜ	*nə̂Ɂ/h
+南	nán1	nậm	nəm	*nə̂m
+男	nán2	nậm	nəm	*nə̂m
+難	nán3	nân	nɑn	*nânNEW_ENTRYnàn	nânᶜ	nɑnᶜ	*nâns
+赧	nǎn1	ṇanᴮ	ṇanᴮ	*nrânɁ
+揇	nǎn2	nậmᴮ	nəmᴮ	*nə̂mɁ
+囊	náng	nâŋ	nɑŋ	*nâŋ
+曩	nǎng	nâŋᴮ	nɑŋᴮ	*nâŋɁ
+呶	náo1			NEW_ENTRYnáo	ṇau	ṇau	*nrâu
+怓	náo1			NEW_ENTRYnáo	ṇau	ṇau	*nrâu
+猱	náo2	nâu	nou	*nû
+獶	náo2	nâu	nou	*nû
+夒	náo2	nâu	nou	*nû
+獿	náo2	nâu	nou	*nû
+淖	nào	ṇauᶜ	ṇauᶜ	*nrâuhNEW_ENTRYnào			
+擾	rǎo	ńźjäuᴮ	ńauᴮ	*nauɁNEW_ENTRYrǎo			
+惱	nǎo	nâuᴮ	nɑuᴮ	NEW_ENTRYnǎo1			
+澗	nuán	nwan[ᶜ]	nuan nuanᶜ	NEW_ENTRYnuán		nuan nuanᶜ	
+腦	nǎo2	nâuᴮ	nɑuᴮ nouᴮ	*nâuɁ *nûɁ
+餒	něi	nuậiᴮ	nuəiᴮ	*nûiɁ
+內	nèi			NEW_ENTRYnèi	nuậiᶜ	nuəis nuəs	*nˆuts
+嫩	nèn nùn	nuənᶜ		
+能	néng1	nəŋ	nə nəŋ	*nə̂ !NEW_ENTRYnéng2	nəŋ	nə nəŋ	*nə̂ŋ *nə̂Ɂ
+態	tài	tʰậiᶜ	tʰəᶜ	*nhə̂hNEW_ENTRYtài2			
+尼	ní1	ṇi	ṇi	*nri *ni
+濘	nìng	nieŋᶜ	neŋᶜ	*nêŋhNEW_ENTRYnìng2			
+怩	ní3	ṇi	ṇi	*nri
+你	nǐ1	niᴮ		
+踂	niè6	ṇjäp	ṇap	*nrap *nrep
+躡	niè7	ṇjäp	ṇap	*nrap
+鑷	niè8			NEW_ENTRYniè	ṇjäp	ṇap	*nrep
+孽	niè9	ŋjät 3	ŋiɑt	*ŋrat *ŋretNEW_ENTRYniè			
+糱	niè10	ŋjät 3	ŋiɑt	*ŋrat
+槷	niè11			
+齧	niè12	ŋiet	ŋet	*ŋêt
+寧	níng1	nieŋ	neŋ	*nêŋ
+凝	níng2			NEW_ENTRYníng	ŋjəŋ	ŋiəŋ	*ŋəŋ
+佞	nìng1	nieŋᶜ	neŋᶜ	*nêŋh
+牛	niú	ŋjəu	ŋiu ŋu	*ŋwə
+狃	niǔ1	ṇjəuᴮ	ṇuᴮ	*nriuɁ
+紐	niǔ2	ṇjəuᴮ	ṇuᴮ	*nriuɁ *nruɁ
+鈕	niǔ3			
+忸	niǔ4			NEW_ENTRYniǔ	ṇjuk	ṇuk	*nruk *r-nuk
+糅	niù	ṇjəuᶜ	ṇuᶜ	*nruhNEW_ENTRYxuè2	xjwät 3	hyɑt	*hmat
+農	nóng1	nuoŋ	nouŋ	*nûŋ
+儂	nóng2	nuoŋ		
+濃	nóng3	ṇjwoŋ,nuŋ	nouŋ ṇoŋ	*nroŋ *nôŋ
+醲	nóng3	ṇjwoŋ,nuŋ	nouŋ ṇoŋ	*nroŋ *nôŋ
+膿	nóng3	ṇjwoŋ,nuŋ	nouŋ ṇoŋ	*nroŋ *nôŋ
+醹	rú	ńźju[ᴮ]	ńo ńoᴮ	*no *noɁNEW_ENTRYrú8			
+穠	nóng4	ṇjwoŋ,ńźjwoŋ	ṇoŋ ńoŋ	*nroŋ *noŋ
+氄	rǒng	ńźjwoŋᴮ	ńoŋᴮ	*noŋɁNEW_ENTRYrǒng			
+茸	róng	ńźjwoŋ	ńoŋ	
+茙	róng	nźjuŋ	ńuŋ	*nuŋNEW_ENTRYróng	ńźjuŋ	ńuŋ	*nuŋNEW_ENTRYróng6			
+耨	nòu	nuok,nəuᶜ	nouk noᶜ	*nûk *nôkh
+奴	nú1	nuo	nɑ	*nâNEW_ENTRYnú2			
+孥	nú3			NEW_ENTRYnú	nuo	nɑ	*nâ
+弩	nǔ1	nuoᴮ	nɑᴮ	*nâɁ
+努	nǔ2	nuoᴮ	nɑᴮ	*nâɁ
+怒	nù	nuoᶜ	nɑᶜ	*nâhNEW_ENTRYnù			
+女	nǚ1	˘ṇjwoᴮ	ṇɑᴮ	*nraɁ *C/r-naɁNEW_ENTRYnǜ	ṇjwoᶜ	ṇɑᶜ	*nrah
+籹	nǚ2			
+煖	nuǎn	nuânᴮ	nonᴮ nuɑnᴮ	*nônɁNEW_ENTRYxuān	xjwɐn	hyɑn	*hwanNEW_ENTRYxuān3			
+渜	nuǎn	nuânᴮ/ᶜ	nonᴮ nonᶜ nuɑnᴮ nuɑnᶜ	*nônɁ/s
+醐	nuàn			NEW_ENTRYnuàn	nuânᶜ	nonᶜ nuɑnᶜ	*nôns
+虐	nuè1	ŋjak	ŋiɑk	*ŋauk
+瘧	nuè	ŋjak	ŋiɑk	*ŋauk
+謔	nuè2			NEW_ENTRYxuè6 nuè			
+儺	nuó	nâ	nɑ	*nâi
+諾	nuò2			NEW_ENTRYqì	kʰjieᶜ 4	kʰieᶜ	*khehNEW_ENTRYnuò	nâk	nɑk	*nâk
+懦	nuò3			NEW_ENTRYrú4	ńźju	ńo	*no
+糯	nuò4	nuâᶜ [Jiyun]		
+甌	oū			NEW_ENTRYōu	Ɂəu	Ɂo	*Ɂô
+嘔	oǔ1			NEW_ENTRYoǔ	Ɂəuᴮ	Ɂoᴮ	*ɁôɁ
+偶	oǔ2	ŋəuᴮ	ŋoᴮ	*ŋôɁ
+遇	yù	ŋjuᶜ	ŋioᶜ	*ŋohNEW_ENTRYyù10			
+喁	yú yóng	ŋju,ŋəuᴮ,ŋjuŋ	ŋioŋ ŋio	*ŋo *ŋoŋNEW_ENTRYyóng2			NEW_ENTRYyú24 yóng			
+漚	où	Ɂəuᶜ	Ɂoᶜ	*Ɂôh
+渥	wò	Ɂåk	Ɂɔk	*ɁrôkNEW_ENTRYwò4			
+爬	pá1			
+怕	pà	pʰaᶜ		
+怖	pù	pʰuoᶜ	pʰɑᶜ	*phâhNEW_ENTRYpù1			
+箄	pái	baɨ	bɛ	*brê
+潘	pān	pʰuân	pʰɑn	*phân
+般	pán1	buân	bɑn	*bân
+蟠	pán2	buân	bɑn	*bân
+傍	páng	bwâŋ	bɑŋ	*bâŋ
+胖	pàng1 pán	buân	bɑn	*bân
+匏	páo	bau	bɔu	*bru
+跑	pǎo			
+胚	pēi1	pʰuậi	pʰə	*phə̂
+噴	pēn	pʰən[ᶜ]	pʰən pʰənᶜ	*phə̂n *phə̂ns
+歕	pēn	pʰən[ᶜ]	pʰən pʰənᶜ	*phə̂n *phə̂ns
+芃	péng1	buŋ,bjuŋ	boŋ buŋ	*bə̂m *bəm
+朋	péng2	bəŋ	bəŋ	*bə̂ŋ
+鵬	péng3			
+蓬	péng4	buŋ	boŋ	*bôŋ
+碰	pèng	bɐŋᶜ [Zìhuì],bâŋᶜ [Duan Yucai].		
+匹	pī1			NEW_ENTRYpǐ1	pʰjiet 4	pʰit	*phitNEW_ENTRYpǐ2	pʰjiet 4	pʰit	*phit
+鴄	pī2			NEW_ENTRYpǐ3	pʰjiet 4	pʰit	*phit
+披	pī3	pʰje 3	pʰiai	*phai
+劈	pī4	pʰiek	pʰek	*phêk
+皮	pí1	bje 3	biɑi	*bai
+膍	pí3	biei,bjii 4	bi bei	*bî *biNEW_ENTRYpí4	bi 4	bi	*bi
+毘	pí	bjii 4	bi	*bi
+毗	pí4	bi 4	bi	*bi
+貔	pí5	bi 4	bi	*bi
+脾	pí6	bjie 4	bie	*be
+疲	pí7	bje 3	biɑi	*bai
+庀	pǐ4	pʰiᴮ 4,pʰjieᴮ 4	pʰiᴮ pʰieᴮ	*phiɁ *pheɁ
+仳	pǐ6			
+屁	pì1	pʰjiᶜ	pʰiᶜ	*phih
+澼	pì3			
+擗	pì4	bjiäk 4	biek	*bek
+譬	pì5	pʰjieᶜ 4	pʰieᶜ	*phekh
+闢	pì6	bjiäk 4	biek	*bek *bai-k
+副	pì7	pjək,pʰjək	pik pʰik	*prək *phrək
+抜	pì	pʰjək		
+偏	piān1	pʰjiän 4	pʰian	*phenNEW_ENTRYzī5			
+諞	pián	bjiänᴮ 4	bian bianᴮ	*benɁ *benNEW_ENTRYpián3			
+漂	piāo2	pʰjiäu 4	pʰiau	*phiau
+飄	piāo	bjiäu,pjiäu 4	biau piau	*biau *piau
+薸	piāo3	bjiäu 4	biau	*biau
+貧	pín3	bjen 3	bin	*brən
+品	pǐn	pʰjəmᴮ	pʰimᴮ	*phrəmɁ
+牝	pìn bì	bjiᴮ,bjienᴮ 4	binᴮ biᴮ	*biɁ *binɁ
+平	píng1	bjɐŋ	bieŋ	*beŋ
+坪	píng1	bjɐŋ	bieŋ	*beŋ
+泙	píng2			
+評	píng3	bjɐŋ	bieŋ	*beŋ
+萍	píng4	bieŋ	beŋ	*bêŋ  probably *bleŋ
+蓱	píng4	bieŋ	beŋ	*bêŋ  probably *bleŋ
+瓶	píng5	bieŋ	beŋ	*bêŋ
+缾	píng5	bieŋ	beŋ	*bêŋ
+軿	píng6	bieŋ	beŋ	*bêŋ
+馮	píng7	bjəŋ	biŋ	*brəŋ
+憑	píng7	bjəŋ	biŋ	*brəŋ
+浡	pó1	buət	bət	*bə̂t
+婆	pó2	buâ		
+皤	pó3	buâ,puâ	bɑi	*bâi
+破	pò1	pʰuâᶜ	pʰɑiᶜ	*phâih
+魄	pò4	pʰɐk	pʰak	*phrâkNEW_ENTRYpò5	pʰɐk	pʰak	*phrâk
+俑	pò6			
+剖	pōu	pʰəuᴮ	pʰoᴮ	*phôɁ
+僕	pú1	buk,buok	bok	*bôk
+樸	pú2	pʰåk	pʰɔk	*phrôk
+蒲	pú4	buo	bɑ	*ba
+浦	pǔ1	pʰuoᴮ	pʰɑᴮ	*phâɁ
+暴	pù2	buk	bok	*bôk
+七	qī1	tsʰjet	tsʰit	*tshit PCH *snhit
+咠	qī2	tsʰjəp	tsʰip	*tshəp *k-səp *tsəp
+颯	sà	sập	səp	*sə̂pNEW_ENTRYsà			
+妻	qī3	tsʰiei	tsʰei	*tshə̂i *k-sə̂iNEW_ENTRYqì	tsʰieiᶜ	tsʰeiᶜ	*tshə̂ih
+淒	qī4	tsʰiei	tsʰei	*tshə̂i *k-sə̂i
+悽	qī4	tsʰiei	tsʰei	*tshə̂i *k-sə̂i
+漆	qī5	tsʰjet	tsʰit	*tshit
+倛	qī6	kʰji	kʰiə	*khə
+僛	qī6	kʰji	kʰiə	*khə
+欺	qī6	kʰji	kʰiə	*khə
+諆	qī6	kʰji	kʰiə	*khə
+谿	qī7			
+祁	qí1	gji 3	gi	*gri
+祈	qí2	gjei	gii	*gəi
+旂	qí3	gjei	gii	*gəi
+歧	qí4			NEW_ENTRYqí	gjie 4	gie	*ge
+岐	qí4			NEW_ENTRYqí	gjie 4	gie	*ge
+騎	qí6	gjie 3	giɑi	*gaiNEW_ENTRYjì	gjieᶜ 3	giɑiᶜ	*gaih
+其	qí7	gji	giə	*gəNEW_ENTRYqí8	gji	giə	*gə
+旗	qí9	gji	an giə	*gə
+萁	qí11			
+耆	qí12	gji 3	gi	*griNEW_ENTRYqí13			NEW_ENTRYzhǐ5			
+鰭	qí14	gji 3	gi	*gri
+鬐	qí14	gji 3	gi	*gri
+齊	qí15	dziei	dzei	*dzêiNEW_ENTRYzī	tsi	tsi	*tsi
+艩	qí16	dziei	dzei	*s-dləi *dzləi *s-dəi *dzəi *dzə̂I
+乞	qǐ1	kʰjət	kʰit	*khətNEW_ENTRYqì	kʰjəiᶜ	kʰis	
+杞	qǐ2	kʰjiᴮ	kʰiəᴮ	*khəɁ
+芑	qǐ3	kʰjiᴮ	kʰiəᴮ	*khəɁ
+起	qǐ4	kʰjiᴮ	kʰiəᴮ	*khəɁ
+企	qǐ5	kʰjieᴮ/ᶜ 4	kʰieᴮ kʰieᶜ	*kheɁ/h
+跂	qǐ5	kʰjieᴮ/ᶜ 4	kʰieᴮ kʰieᶜ	*kheɁ/h
+啟	qǐ6			NEW_ENTRYqǐ	kʰieiᴮ	kʰeiᴮ	*khîɁ
+綮	qǐ7	kʰieiᴮ ~ kʰieŋᴮ	kʰeiᴮ kʰeŋᴮ	*khîɁ *kheŋɁ
+凵	qì1	kʰăt	kʰɛt	*kʰret
+契	qì2	kʰieiᶜ	kʰeis kʰes	*khêts
+鍥	qiè	kʰiet	kʰet	*khêtNEW_ENTRYqiè7			
+迄	qì3	xjət	hit	*hət
+氣	xì	xjəiᶜ	his	*hətsNEW_ENTRYqì8	kʰjeiᶜ	kʰis	*khəs *khətsNEW_ENTRYxì6			
+餼	xì	xjəiᶜ	his	*hətsNEW_ENTRYxì6			
+泣	qì5	kʰjəp	kʰɨp	*khəpNEW_ENTRYyuǎn2	Ɂjwɐnᴮ	Ɂyɑnᴮ Ɂionᴮ	*ɁuanɁ *ɁonɁ
+湇	qì6			NEW_ENTRYqì	kʰjəp	kʰip	
+葺	qì7	tsʰjəp	tsʰip	*tshəp *tship *s-Ɂip)
+祫	qià2			NEW_ENTRYxiá2			
+千	qiān1	tsʰien	tsʰen tsʰein	*tshîn *s-nhîn
+鉛	qiān3	jiwän	jon jyan	*lon / *jon
+愆	qiān4			NEW_ENTRYqiān	kʰj¨än 3	kʰiɑn	*khrian
+搴	qiān5	kjänᴮ 3	kiɑnᴮ	*kranɁNEW_ENTRYqiāng2	kʰåŋ	kʰɔŋ	*khrôŋ
+騫	qiān6			
+牽	qiān7	kʰien	kʰen kʰein	*khîn
+弦	xián	Ɣien	gein gen	*gînNEW_ENTRYxián1			
+僉	qiān8	tsʰjäm	tsʰiam	*tsʰam *k-sam
+謙	qiān9	kʰiem	kʰem	*khêm
+歉	qiǎn	kʰămᴮ/ᶜ	kʰɛmᴮ kʰɛmᶜ	*khremɁ/sNEW_ENTRYqiǎn4			
+拑	qián1	gjäm 3	giɑm	*gam
+鉗	qián1	gjäm 3	giɑm	*gam
+箝	qián2	gjäm 3	giɑm	*gam
+前	qián3	dzien	dzein dzen	*dzên
+黔	qián5	gjəm,gjäm 3	giam giəm	*gəm *grəm
+鬵	qián7			
+燂	qián8 tán			NEW_ENTRYtán qián	dậm,dzjäm		
+遣	qiǎn1	kʰjiänᴮ 4	kʰianᴮ	*khenɁNEW_ENTRYqiàn	kʰjiänᶜ	khianᶜ	*khens
+淺	qiǎn2	tsʰjänᴮ	tsʰianᴮ	*tshanɁ
+諓	jiàn	dzjänᴮ/ᶜ	dzianᴮ dzianᶜ	*dzanɁ/s
+慊	qiǎn3	kʰiemᴮ	kʰemᴮ	*khêmɁ *khlemɁNEW_ENTRYqiè	kʰiep	kʰep	*khêp *khlepNEW_ENTRYqiè9			
+愜	qiè	kʰiep	kʰep	*khêp *khlepNEW_ENTRYqiè9			
+嗛	qiǎn	kʰiemᴮ,Ɣiemᴮ	gemᴮ kʰemᴮ	*khêmɁ *gêmɁ *kh/glemɁ
+欠	qiàn1	kʰjɐmᶜ	kʰiɑmᶜ	*khams
+倩	qiàn3	tsʰienᶜ	tsʰenᶜ	tshêns *k-sêns
+綪	qiàn3	tsʰienᶜ	tsʰenᶜ	tshêns *k-sêns
+騂	xīng	sjäŋ	sieŋ	*seŋNEW_ENTRYxīng5			
+羌	qiāng1	kʰjaŋ	kʰiɑŋ	*khaŋ *khiaŋ
+椌	qiàng	kʰåŋᶜ	kʰɔŋᶜ	*khrôŋh
+強	qiáng	gjaŋ	an giɑŋ	*gaŋ
+勍	qíng	gjɐŋ	giaŋ	*graŋNEW_ENTRYqíng3			
+繈	qiǎng1	kjaŋᴮ	kɨɑŋ	*kaŋɁ
+襁	qiǎng1	kjaŋᴮ	kɨɑŋ	*kaŋɁ
+骹	qiāo1	kʰau	kʰau	*khrâu
+磽	qiāo3	kʰau,kʰieuᴮ	kʰau kʰeuᴮ	*khriâu
+墝	qiāo3	kʰau,kʰieuᴮ	kʰau kʰeuᴮ	*khriâu
+厭	qiāo4			NEW_ENTRYyǎn	Ɂămᴮ	Ɂɛmᴮ	*Ɂrə̂mɁNEW_ENTRYyǎn3			NEW_ENTRYqiāo	kʰieu	kʰeu	*khiâu
+喬	qiáo1	gjäu 3	giɑu	*gau
+橋	qiáo2	gjäu 3	giɑu	*gauNEW_ENTRYjiào	kjäuᶜ 3	kiɑuᶜ	*kauh
+僑	qiáo3	翹		
+翹	qiáo5			
+竅	qiào2	kʰieuᶜ	kʰeuᶜ	*khiâuh
+茄	qié	gjâ		
+且	qiě	tsʰjaᴮ	tsʰiaᴮ	*tshaɁ
+竊	qiè5	tsʰiet	tsʰet	*tshêt
+挈	qiè8			
+侵	qīn1	tsʰjəm	tsʰim	*k-səm
+綅	qīn2	tsʰjəm	tsʰim	*tshəmNEW_ENTRYxiān6			
+衾	qīn3	kʰjəm	kʰim	*khəm
+親	qīn5	tsʰjen	tsʰin	*tshin *snhin
+秦	qín1	dzjen	dzin	*dzin
+屋	qín2	gjen 3	gin	*grənNEW_ENTRYwū4	Ɂuk	Ɂok	*Ɂôk
+勤	qín3	gjən	gin	*gən
+慬	qín3	gjən	gin	*gən
+禽	qín4	gjəm	gim	*gəm
+擒	qín5	gjəm	gim	*gəm
+坅	qǐn1	kʰjəmᴮ,ŋjəmᴮ	kʰimᴮ	*khəmɁ
+寢	qǐn4	tsʰjəmᴮ	tsʰimᴮ	*tshəmɁ *k-səmɁ
+清	qīng2	tsʰjäŋ	tsʰieŋ	*tsheŋ *k-seŋ
+醒	xǐng	sieŋ,sieŋᴮ/ᶜ	seŋ seŋᴮ seŋᶜ	*sêŋ(Ɂ/h)NEW_ENTRYxǐng2		seŋ seŋᴮ seŋᶜ	
+輕	qīng3	kʰjäŋ	kʰieŋ	*kheŋNEW_ENTRYqīng	kʰjäŋᶜ	kʰieŋᶜ	*kheŋh
+傾	qīng4	kʰjwäŋ	kʰyeŋ	*khweŋ
+頃	qīng4	kʰjwäŋ	kʰyeŋ	*khweŋ
+情	qíng1	dzjäŋ	dzieŋ	*dzeŋ
+晴	qíng2			
+請	qǐng	tsʰjäŋᴮ,dzjäŋ	tsʰieŋᴮ	*tsheŋɁ
+凊	qìng1	tsʰjäŋᶜ	tsʰieŋᶜ	*tsheŋh
+慶	qìng2	kʰjɐŋᶜ	kʰiaŋᶜ	*khaŋh *khaŋ *khiaŋh *khiaŋ
+磬	qìng3	kʰieŋᶜ	kʰeŋᶜ	*khêŋh
+穹	qiōng	kʰjuŋ	kʰuŋ	*khuŋ
+邛	qióng1	gjwoŋ	gioŋ	*goŋ
+窮	qióng2	gjuŋ	guŋ	*guŋ
+惸	qióng3	gjwäŋ	gueŋ	*gweŋ
+嬛	qióng3	gjwäŋ	gueŋ	*gweŋ
+瞏	qióng3	gjwäŋ	gueŋ	*gweŋ
+丘	qiū1	kʰjəu	kʰu	*khwəNEW_ENTRYqiū2	kʰjəu	kʰu	*khwə
+秋	qiū4	tsʰjəu	tsʰu	*tshiu *tshu
+俅	qiú2	gjəu	gu	*gu
+球	qiú3	gjəu	gu	*gu
+逑	qiú4	gjəu	gu	*gu
+仇	qiú4	gjəu	gu	*gu
+裘	qiú5	gjəu	gu	*gwə
+泅	qiú6	zjəu	ziu	*s-ju *s-lu
+虯	qiú7 jiū	gjeu,kjeu	kiu giu	*giu *kiu
+觓	qiú7 jiū	gjeu,kjeu	kiu giu	*giu *kiu
+觩	qiú7 jiū	gjeu,kjeu	kiu giu	*giu *kiu
+遒	qiú9			NEW_ENTRYqiú	dzjəu	dziu	*dzu
+曲	qū1	kʰjwok	kʰiok	*khok
+屈	qū2	kʰjuət	kʰut	*khut
+軀	qū3	kʰju[ᶜ]	kʰio	*kho
+驅	qū4	kʰju[ᶜ]	kʰio kʰioᶜ	*khio(h *kho(h
+虛	qū5	kʰjwo	kʰiɑ	*khaNEW_ENTRYxū2	xjwo	hiɑ	*ha
+墟	qū5	kʰjwo	kʰiɑ	*khaNEW_ENTRYxū3	xjwo		
+佢	qú2	gjwo	giɑ	*ga
+臞	qú4 jù	gju[ᶜ]	gyɑ gyɑᶜ	*gwa *gwah
+尪	wāng	Ɂwâŋ	Ɂwɑŋ	*ɁwâŋNEW_ENTRYwāng2			
+衢	qú5	gju	gyɑ	*gwa
+取	qǔ	tsʰjuᴮ	tsʰio	*tshoɁ
+娶	qù	tsʰjuᶜ	tsʰioᶜ	*tshoh
+去	qù1	kʰjwoᶜ	kʰiɑᶜ	*khahNEW_ENTRYqǔ	kʰjwoᴮ	kʰiɑᴮ	*khaɁ
+趣	qù2			NEW_ENTRYqù	tsʰjuᶜ	tsʰioᶜ	*tshoh
+棬	quān			NEW_ENTRYquān	kʰjwän 3	kʰyɑn	*khwan *khon
+全	quán1	dzjwän	dzyan dzion	*dzon
+犈	quán1	dzjwän	dzyan dzion	*dzon
+痊	quán	tsʰjwän	tsʰyan tsʰion	*tshon
+泉	quán2	dzjwän	dzyan	*dzwan (!)
+拳	quán3	gjwän 3	gyɑn	*gwan *gon
+彷	quán4	gjwän 3	gyɑn gion	*gon
+權	quán5			
+犬	quǎn1	kʰiwenᴮ	kʰuenᴮ	*khwə̂nɁ  rather *khwînɁ
+畎	quǎn2			NEW_ENTRYquǎn	kiwenᴮ	kuenᴮ	*kwînɁ
+甽	quǎn2			NEW_ENTRYquǎn	kiwenᴮ	kuenᴮ	*kwînɁ
+缺	quē	kʰiwet,kʰjwät	kʰuet kʰyat	*khwet
+群	qún	gjuən	gun	*gun
+然	rán1	ńźjän	ńan	*nanNEW_ENTRYrán2	ńźjän	ńan	*nan
+煽	shàn	śjänᶜ	śanᶜ	*nhansNEW_ENTRYshàn3			
+呥	rán3			NEW_ENTRYrán	ńźjäm	ńam	*nam
+染	rǎn1	ńźjämᴮ/ᶜ	ńamᴮ ńamᶜ	*namɁ/sNEW_ENTRYrǎn2			NEW_ENTRYrǎn	ńźjämᴮ/ᶜ	ńamᴮ ńamᶜ	*namɁ/s
+瀼	ráng	ńźjaŋ	ńɑŋ	*naŋ
+穰	ráng	ńźjaŋ	ńɑŋ	*naŋ
+壤	rǎng	ńźjaŋᴮ	ńɑŋᴮ	*naŋɁ
+讓	ràng	ńźjaŋᶜ	ńɑŋᶜ	*naŋh
+攘	ráng	ńźjaŋ	ńɑŋ	*naŋ
+禳	ráng	ńźjaŋ	ńɑŋ	*naŋ
+襄	xiāng	sjaŋ	siɑŋ	*snaŋNEW_ENTRYxiāng4			
+橈	ráo1	ńźjäu	ńau	
+蕘	ráo2	ńźjäu	ńau	*nau *ŋiau *niau
+燒	shāo	śjäu	tśʰau śau	*ŋhiau *nhiau *nhauNEW_ENTRYshāo2			
+熱	rè	ńźjät	ńat	*ŋet *net
+人	rén1	ńźjen	ńin	*nin
+仁	rén2	ńźjen	ńin	*ninNEW_ENTRYrén3			
+任	rén4	ńźjəm	ńim	*nəmNEW_ENTRYrèn	ńźjəmᶜ	ńimᶜ	*nəmsNEW_ENTRYrèn2	ńźjəmᴮ	ńimᴮ	*nəmɁNEW_ENTRYrèn4			
+紝	rén5	ńźjəm,ṇjəm	ṇim ńim	*nim nrim
+忍	rěn1	ńźjenᴮ	ńin	*nənɁNEW_ENTRYrěn2	ńźjenᴮ	ńin	*nənɁ.
+稔	rěn3	ńźjəmᴮ	ńimᴮ	*nəmɁ
+腍	rěn4			NEW_ENTRYrèn6			
+荏	rèn1 rěn	ńźjəmᴮ	ńimᴮ	*nəmɁNEW_ENTRYrèn2	ńźjəmᴮ	ńimᴮ	*nəmɁ
+妊	rèn4			
+飪	rèn5			
+認	rèn7	ńźjenᶜ	ńinᶜ	*nəns  i.e. Perh. *niəm
+仍	réng	ńźjəŋ	ńiŋ	*nəŋ
+日	rì	ńźjet	ńit	*nit
+容	róng1	jiwoŋ	joŋ	*loŋNEW_ENTRYróng2	jiwoŋ	joŋ	*loŋ *joŋ
+溶	róng3	jiwoŋ	joŋ	*loŋ
+涌	yǒng	jiwoŋᴮ	joŋᴮ	*loŋɁNEW_ENTRYyǒng5			
+湧	yǒng	jiwoŋᴮ	joŋᴮ	*loŋɁNEW_ENTRYyǒng5			
+洶	xiōng	xjwoŋ[ᴮ]	hioŋ hioŋᴮ	*-oŋɁ *-oŋNEW_ENTRYxiōng6			
+融	róng4	jiuŋ	juŋ	*luŋ
+戎	róng5	ńźjuŋ	ńuŋ	*nuŋ
+嶸	róng7			
+榮	róng8			NEW_ENTRYróng	jwɐŋ	waŋ	*wreŋ
+柔	róu1	ńźjəu	ńu	*nu
+揉	ròu	ńźjəuᶜ	ńuᶜ	*nuhNEW_ENTRYròu2			
+蹂	róu2	nźjəu[ᴮ/ᶜ]	ńu ńuᴮ ńuᶜ	*nu(Ɂ/h)
+肉	ròu1	ńźjuk	ńuk	*niuk *nukNEW_ENTRYrù	ńźjəuᶜ	ńuᶜ	*niukh *nukh
+如	rú1	ńźjwo,ńźjwoᶜ [GY]	ńɑ ńɑᶜ	*na *nahNEW_ENTRYrú2	ńźjwo	ńɑ ńɑᶜ	*na
+茹	rú3	ńźjwoᴮ/ᶜ	ńɑᴮ ńɑᶜ	*naɁ/hNEW_ENTRYrù2	ńźjwoᶜ	ńɑᶜ	*nahNEW_ENTRYrù3	ńźjwoᴮ	ńɑᴮ	*naɁ
+臑	rú4	ńźju	ńo	*no
+孺	rú	ńźjuᶜ	ńoᶜ	*nohNEW_ENTRYrú6			
+濡	rú5	ńźju	ńo	*no
+擩	rǔ ruán	ńźjwät	ńot ńuat	*notNEW_ENTRYrǔ4			NEW_ENTRYruán			
+溽	rù	ńźjwok	ńok	*nokNEW_ENTRYrù6			
+汝	rǔ1	ńźjwoᴮ	ńɑᴮ	*naɁNEW_ENTRYrǔ2	ńźjwoᴮ	ńɑᴮ	*naɁ
+乳	rǔ3	ńźjuᴮ	ńoᴮ	*noɁ
+辱	rǔ rù			NEW_ENTRYrù5			NEW_ENTRYrǔ rù	ńźjwok	ńok	*nok
+入	rù1	ńźjəp	ńip	*nəp *nup
+洳	rù4	ńźjwo[ᶜ]	ńɑ ńɑᶜ	*na *nah
+耎	ruǎn	ńźjwänᴮ	ńuanᴮ ńonᴮ	*nonɁ
+軟	ruǎn	ńźjwänᴮ	ńuanᴮ ńonᴮ	*nonɁ
+蕤	ruí			NEW_ENTRYruí	ńźwi	ńui	*nui
+緌	ruí			NEW_ENTRYruí	ńźwi	ńui	*nui
+繠	ruǐ	ńźwieᴮ,ńźnwiᴮ	ńuieᴮ ńuiᴮ	*noiɁ *nuiɁ
+蕊	ruǐ	ńźwieᴮ,ńźnwiᴮ	ńuieᴮ ńuiᴮ	*noiɁ *nuiɁ
+枘	ruì	ńźjwäiᶜ	ńuaiᶜ	*nots
+閏	rùn	ńźjuenᶜ	ńuinᶜ ńunᶜ	(*mn(i)uns) *nuns
+箬	ruò4	ńźjak	ńɑk	
+弱	ruò5	ńźjak	ńɑk ńɑuk	*niauk *nauk
+爇	ruò6	ńźjwät	ńot ńuat	*ŋiot *niot
+撒	sā sǎ			NEW_ENTRYsā sǎ	sât	sɑt	*sât
+洒	sǎ1 shǎi			NEW_ENTRYsǎ shǎi	ṣăiᴮ	ṣɛiᴮ	*srîɁNEW_ENTRYshǎi			NEW_ENTRYxǐ1	sienᴮ,sieiᴮ	seiᴮ	*sîɁ *sînɁ *sə̂nɁ *sə̂iɁ
+灑	sǎ2			NEW_ENTRYsǎ	ṣaiᴮ/ᶜ,ṣjeᴮ/ᶜ	ṣɛᴮ ṣɛᶜ	*srêɁ/h
+思	sāi	si,sậi		NEW_ENTRYsī3	si,siᶜ	siə	*səNEW_ENTRYsì	siᶜ	siəᶜ	*səh
+塞	sài sāi sè	sək,sậiᶜ	sək səᶜ	*sə̂kh *sə̂k
+三	sān	sâm	sɑm	*sə̂mNEW_ENTRYsàn	sâmᶜ	sɑmᶜ	*sə̂ms
+犙	sān			NEW_ENTRYsōu5	sjəu,ṣjeu	ṣu	*sru
+驂	cān	tsʰậm	tsʰəm	*tshə̂m *k-sə̂m
+散	sǎn1	sânᴮ	sɑnᴮ	*sânɁNEW_ENTRYsàn	sânᶜ	sɑnᶜ	*sânsNEW_ENTRYsàn			
+糝	sǎn2	sậmᴮ	səmᴮ	*sə̂mɁ
+喪	sāng1			NEW_ENTRYsàng			NEW_ENTRYsāng	sâŋ	sɑŋ	*smâŋNEW_ENTRYsàng	sâŋᶜ	sɑŋᶜ	*smâŋh
+桑	sāng2	sâŋ	sɑŋ	*sâŋ
+顙	sǎng	sâŋᴮ	sɑŋᴮ	*sâŋɁ *smaŋɁ
+搔	sāo1	sâu	sou	*sû
+埽	sǎo	sâuᴮ/ᶜ	souᴮ souᶜ	*sûɁ/hNEW_ENTRYsǎo1			
+騷	sāo2	sâu	sou	*sûNEW_ENTRYsāo3	sâu	sou	*sû
+慅	cǎo	tsʰâuᴮ	tsʰouᴮ	*tshûɁ *C-sûɁ
+懆	cǎo	tsʰâuᴮ	tsʰɑuᴮ	*tshâuɁ *C-sâuɁ
+踧	cù	tsjuk	tsuk	*tsuk
+臊	sāo4	sâu	sɑu	*sâu
+鱢	sāo5	sâu	sɑu tsʰɑu	*sâu *C-sâu
+嫂	sǎo2			
+色	sè1	ṣjək	ṣik ṣək	*srək
+澀	sè2	ṣjəp	ṣip	*srəp
+穡	sè3	ṣjək	ṣik ṣək	*srək
+嗇	sè3	ṣjək	ṣik ṣək	*srək
+沙	shā1	ṣa	ṣai	*srâi
+殺	shā2	ṣăt	ṣat sɛt	*srâtNEW_ENTRYshài2		ṣat sɛt	NEW_ENTRYshài	ṣăiᶜ	ṣat sɛt	*srêts
+歃	shà1	ṣăp,ṣjäp	ṣap ṣɛp	*srap
+廈	shà2			NEW_ENTRYxià5 shà	Ɣaᴮ	gaᴮ	
+翣	shà	ṣap	ṣap	*srap
+篩	shāi shī	ṣi	ṣi	*sriNEW_ENTRYshī6			
+曬	shài1 shì	ṣieᶜ	ṣeᶜ	*sreh
+山	shān1	ṣan,ṣăn	ṣɛn ṣan	*srân
+燧	shān2	ṣam	ṣam	*srâm
+閃	shǎn			NEW_ENTRYshǎn	śjämᴮ	śamᴮ	*lhamɁ *lhiamɁ
+覢	shǎn			NEW_ENTRYshǎn	śjämᴮ	śamᴮ	*lhamɁ *lhiamɁ
+扇	shàn2	śjänᶜ	śanᶜ	*nhans
+墠	shàn4			NEW_ENTRYshàn	źjänᴮ	dźanᴮ	*danɁ
+善	shàn6	źjänᴮ	dźanᴮ	*danɁ
+膳	shàn	zjänᶜ	dźanᶜ	*dans
+繕	shàn	zjänᶜ	dźanᶜ	*dans
+蟺	shàn7	źjänᴮ	dźanᴮ	*danɁ
+傷	shāng1			NEW_ENTRYshāng	śjaŋ	śɑŋ	*lhaŋ
+湯	shāng2			NEW_ENTRYtāng2	tʰâŋ	tʰɑŋ	*lhâŋ
+商	shāng3			NEW_ENTRYshāng	śjaŋ	śɑŋ	*lhaŋ
+賞	shǎng			NEW_ENTRYshǎng	śjaŋᴮ	śɑŋᴮ	*lhaŋɁ
+上	shàng1	źjaŋᴮ	dźɑŋᴮ	*daŋɁ *djaŋɁNEW_ENTRYshàng	źjaŋᶜ	dźɑŋᶜ	*daŋh *diaŋh
+梢	shāo1	ṣau	ṣau	*srâu
+稍	shào	ṣauᶜ	ṣauᶜ	*srâuhNEW_ENTRYshào			
+揱	shuò	ṣåk,ṣau,sieu	seu ṣau ṣɔk	*sriâuk *sriâuNEW_ENTRYshuò4			
+杓	sháo			NEW_ENTRYsháo	źjak	dźɑk	*diauk
+汋	sháo			NEW_ENTRYzhuó2	tśjak,źjak,jiak	tśɑk	*kiauk
+少	shǎo	śjäuᴮ	śauᴮ	*hiauɁNEW_ENTRYshào	śjäuᶜ	śauᶜ	*hiauh
+賒	shē1	śja	śa	*lha
+貰	shì	śjäiᶜ,dźjaᶜ	śas dźaᶜ	*lhas *m-lasNEW_ENTRYshì8			
+畬	shē2			NEW_ENTRYyú7	jiwo	jɑ	*laNEW_ENTRYshē	śja	śa	*hja
+舌	shé1			NEW_ENTRYshé	dźjät	źat	*m-let
+蛇	shé2	dźja	źa	*m-lai
+舍	shě1	śjaᴮ	śaᴮ	*lhaɁNEW_ENTRYshè	śjaᶜ	śaᶜ	*lhahNEW_ENTRYshě2	śjaᴮ	śaᴮ	*lhaɁNEW_ENTRYshè2	śjaᶜ	śaᶜ	*lhahNEW_ENTRYshè3			NEW_ENTRYshè4			
+捨	shě2	śjaᴮ	śaᴮ	*lhaɁ
+社	shè1	źjaᴮ	dźaᴮ	*daɁ
+說	shuì	śjwäiᶜ	śos śuɑs	*lhuats *lhos *lhots *lhuasNEW_ENTRYshuì4			NEW_ENTRYshuō	śjwät	śot śuat	*lhotNEW_ENTRYshuì	śjwäiᶜ	śos śuas	*lhots
+赦	shè5			NEW_ENTRYshè	śjaᶜ	śaᶜ	*lhakh
+涉	shè6	źjäp	dźap	*dap
+射	shè7			NEW_ENTRYshí9	dźjäk	źɑk źak	*m-lakNEW_ENTRYshè	dźjaᶜ	źaᶜ	*m-lakh
+設	shè8			NEW_ENTRYshè	śjät	śat	*nhet *ŋhet nhets
+懾	shè9	tśjäp	tśap	*tep *tapNEW_ENTRYshè	śjäp	śap	*nhep *nhap
+慹	shè9	tśjäp	tśap	*tep *tapNEW_ENTRYzhí11			
+攝	shè10	śjäp	śap	*nhep *s-nep
+麝	shè11	dźjaᶜ	źaᶜ	*m-lah
+誰	shéi shuí	źwi	dźui	*dui
+孰	shú	źjuk	dźuk	*dukNEW_ENTRYshú4			
+申	shēn1			NEW_ENTRYshēn	śjen	śin	*lhin
+伸	shēn1			NEW_ENTRYshēn	śjen	śin	*lhin
+呻	shēn1			NEW_ENTRYshēn	śjen	śin	*lhin
+身	shēn2	śjen	śin	*lhin nhin
+深	shēn3	śjəmᴬ	tśʰim śim	*nhəmNEW_ENTRYshèn	śjəmᶜ	śimᶜ	*nhəm
+賢	shěn	śjəmᴮ	śimᴮ	*nhəmɁNEW_ENTRYshěn2			
+莘	shēn4	ṣjɛn	ṣin	*srən
+詵	shēn4	ṣjɛn	ṣin	*srən
+神	shén2	dźjen	źin	*m-linNEW_ENTRYxiōng5	xjwoŋ	hioŋ	*hoŋ
+矧	shěn1	śjenᴮ	śinᴮ	*nhinɁ
+哂	shěn1	śjenᴮ	śinᴮ	*nhinɁ
+審	shěn3	śjəmᴮ	śimᴮ	*-əmɁ
+腎	shèn1	źjenᴮ	ginᴮ	*ginɁ
+蜃	shèn2	źjenᶜ	dźinᶜ	*dəns
+葚	shèn4	dźjəmᴮ,źjemᴮ	dźimᴮ źimᴮ	*(m-)dəmɁ
+生	shēng2	ṣɐŋ	ṣɛŋ	*srêŋ
+甥	shēng3	ṣɐŋ	ṣɛŋ	*srêŋ
+笙	shēng4	ṣɐŋ	ṣɛŋ	*srêŋ
+聲	shēng5	śjäŋ	śeŋ	*hieŋ
+勝	shēng6	śjəŋ	śiŋ	*lhəŋNEW_ENTRYshèng	śjəŋᶜ	śiŋᶜ	*lhəŋhNEW_ENTRYshèng3			
+繩	shéng	dźjəŋ	źiŋ	*m-ləŋNEW_ENTRYyìng4			
+聖	shèng1	śjäŋᶜ	śeŋᶜ	*hieŋh *lheŋh
+唾	shèng4			NEW_ENTRYtuò3	tʰuâᶜ	tʰuɑiᶜ tʰoiᶜ	*thôih
+尸	shī1			NEW_ENTRYshī	śi	śi	*lhi
+失	shī2	śjet	śit	*lhit
+佚	yì	jiet	jit	*litNEW_ENTRYyì11			
+逸	yì	jiet	jit	*litNEW_ENTRYyì33			
+虱	shī3	ṣjɛt	ṣit	*srit
+師	shī4	ṣi	ṣi	*sri
+溼	shī7	śjəp	śip tśʰip	*lhəp
+隰	xí	zjəp	zip	*s-ləpNEW_ENTRYxí9			
+詩	shī8	śi	śə	*lhə
+釃	shī12	ṣie	ṣe	*sre
+十	shí1	źjəp	gip dźip	*gip
+石	shí2	źjäk	dźak	dźɑk
+拾	shí3	źjəp	gip	*gip
+食	shí4	dźjək	źik	*m-liək *m-ləkNEW_ENTRYsì	ziᶜ	ziəᶜ	*s-liəkh *s-ləkhNEW_ENTRYsì8			
+飼	sì	ziᶜ	ziəᶜ	*s-liəkh *s-ləkh
+胎	tāi	tʰậi	tʰə	*lhə̂NEW_ENTRYtāi2			
+蝕	shí5			
+姼	shí6 shì duò	źje,źjeᴮ,tâᴮ	dźɑi dźɑiᴮ taiᴮ	*daiɁ *tâiɁ *dai
+時	shí7			NEW_ENTRYshí8			NEW_ENTRYshí	zi	dźə	*dəNEW_ENTRYshí	źi	dźə	(tone!) *dəɁ
+榭	xiè	zjaᶜ	ziaᶜ	*s-lakhNEW_ENTRYxiè10			
+寔	shí10	źjək	dźik	*dəkNEW_ENTRYshí11			NEW_ENTRYshí	źjək	dźik	*dək *diək
+實	shí	dźjet	dźit źit	*ditNEW_ENTRYshí12	dźjet	dźit źit	*m-litNEW_ENTRYshí13	dźjet	dźit źit	*m-ditNEW_ENTRYshí14		dźit źit	
+矢	shǐ1	śiᴮ	śiᴮ	*lhiɁNEW_ENTRYshǐ2			NEW_ENTRYshǐ3	śiᴮ	śiᴮ	*lhiɁNEW_ENTRYshǐ	śiᴮ	śiᴮ	*lhiɁ
+豕	shǐ7	śjieᴮ	śɑiᴮ śeᴮ	*lheɁ (*lhaiɁ)
+屎	shǐ9	śiᴮ	śiᴮ	*lhiɁ
+士	shì1	dẓiᴮ	dẓəᴮ	*dzrəɁNEW_ENTRYshì2	dẓiᴮ	dẓəᴮ	*dzrəɁ
+仕	shì2	dẓiᴮ	dẓəᴮ	*dzrəɁNEW_ENTRYshì3			
+事	shì	dẓiᶜ	dẓəᶜ	*dzrəɁ  rarely *dzrəhNEW_ENTRYshì12			
+氏	shì4	źieᴮ	gieᴮ	*geɁ
+市	shì5	źiᴮ	dźiəᴮ	*dəɁ
+柿	shì6	dẓiᴮ	dẓəᴮ	*-əɁ
+式	shì9	śjək	śik	*lhək
+試	shì	śiᶜ	śəᶜ	*lhəkhNEW_ENTRYshì10			
+室	shì13	śjet	śit	*lhit
+是	shì14	źieᴮ	dźeᴮ	*deɁ
+恃	shì15	źiᴮ	dźəᴮ	*dəɁ
+侍	shì	źiᶜ	dźəᶜ	*dəh
+視	shì17	źiᴮ,źiᶜ	giᴮ giᶜ	*giᴮ
+示	shì	dźiᶜ	giᶜ	*gih
+指	zhǐ	tśiᴮ	kiᴮ	*kiɁNEW_ENTRYzhǐ6			
+誓	shì19	źjäiᶜ	dźas	*dats *das
+嗜	shì20			NEW_ENTRYshì	źiᶜ	giᶜ	*gih
+筮	shì22			
+噬	shì23	źjäiᶜ	dźas	*dats *das
+勢	shì25			NEW_ENTRYshì	śjäiᶜ	śas	*ŋhets nhets
+釋	shì26	śjäk	śak tśʰɑk	*lhakNEW_ENTRYshì28			NEW_ENTRYshì	śjäk	śak	*lhak
+淅	xī	siek	sek	*sêk *slekNEW_ENTRYxī5			
+澤	shì27			
+識	shì32	śjək	śik	*-əkNEW_ENTRYzhì	tśiᶜ	tśəᶜ	*təkhNEW_ENTRYzhì34			
+收	shōu	śjəu	śu	*nhiuNEW_ENTRYshōu	śjəuᶜ	śuᶜ	*nhiuh
+叔	shú	śjuk	śuk	*nhiukNEW_ENTRYshú2			
+熟	shóu			NEW_ENTRYshú5 shóu	źjuk	dźuk	*duk
+手	shǒu1	śjəuᴮ	tśʰuᴮ śuᴮ	*nhuɁ
+守	shǒu2	śjəuᴮ	śuᴮ	*-uɁNEW_ENTRYshòu	śjəuᶜ	śuᶜ	*-uh
+首	shǒu3	śjəuᴮ	śuᴮ	*lhuɁ
+受	shòu1	źjəuᴮ	dźuᴮ	*duɁ
+授	shòu	źjəuᶜ	dźuᶜ	*duh
+售	shòu2	źjəuᶜ	dźuᶜ	*duh
+獸	shòu3	śjəuᶜ	śuᶜ	*-uh
+狩	shòu	śjəuᶜ	śuᶜ	*-uɁ !
+殊	shū1	źju	dźo	*do
+誅	zhū	ṭju	ṭo	*troNEW_ENTRYzhū2			
+樞	shū2	tśʰju	tśʰo	*k-hlo
+梳	shū3	ṣjwo	ṣɑ	*srâ
+書	shū4	śjwo	śɑ	*-a
+紓	shū6			NEW_ENTRYshū	śjwo,dźjwo	źɑ śɑ	*lha *mla
+舒	shū7			NEW_ENTRYshū	śjwo	śɑ	*lha
+輸	shū8			NEW_ENTRYshū	śju	śo	*lho *hjo
+秫	shú1	dźjuet	źut	OCM
+菽	shú3	śjuk	śuk	*nhuk
+贖	shú6	dźjwok	źok	*m-lok
+鼠	shǔ1	śjwoᴮ	tśʰɑᴮ śɑᴮ	*nhaɁ
+癙	shǔ2	śjwoᴮ	śɑᴮ	*nhaɁ
+黍	shǔ3	śjwoᴮ	śɑᴮ	*nhaɁ
+數	shǔ4	ṣjuᴮ	ṣoᴮ	*sroɁNEW_ENTRYshù	ṣjuᶜ	ṣoᶜ	*srohNEW_ENTRYshuò	ṣåk	ṣɔk	*srôkNEW_ENTRYshù7			NEW_ENTRYshuò5			
+曙	shǔ5	źjwoᶜ	dźɑᶜ	*dah *djahNEW_ENTRYshù6			
+屬	shǔ6			NEW_ENTRYzhǔ8	tśjwok	tśok	*tokNEW_ENTRYshǔ	źjwok	dźok	*dok
+樹	shǔ7	źjuᴮ	dźoᴮ	*doɁNEW_ENTRYshù	źjuᶜ	dźoᶜ	*dohNEW_ENTRYshù8			
+壴	zhù	ṭjuᶜ	ṭoᶜ	*trohNEW_ENTRYzhù15			
+戍	shù1	śjuᶜ	śoᶜ tśʰoᶜ	*-oh
+束	shù2	śjwok	śok	*lhok
+欶	shù3 shuò	ṣåk	ṣɔk	*srôkNEW_ENTRYshuò2			
+述	shù4	dźjuet	źut(źuit)	*m-lut
+術	shù4	dźjuet	źut(źuit)	*m-lut
+鉥	shù4	dźjuet	źut(źuit)	*m-lut
+訹	xù	sjuet	sut(suit)	*sut slutNEW_ENTRYxù10			
+誘	yòu	jiəuᴮ	juᴮ	*luɁNEW_ENTRYyǒu6			NEW_ENTRYyòu5			
+署	shù5			NEW_ENTRYshù	źjwoᶜ	dźɑᶜ	*dakh *dah
+刷	shuā	ṣjwät,ṣwat	ṣot ṣuat	*srôt
+雙	shuāng1	ṣåŋ	ṣɔŋ	*srôŋ
+水	shuǐ	świᴮ	tśuiᴮ śuiᴮ	*lhuiɁ
+睡	shuì1	źwieᶜ	dźoiᶜ dźuaiᶜ	*doih *djoih
+稅	shuì2	śjuäiᶜ	śos śuas	*lhots
+挩	shuì3			NEW_ENTRYshuì	śjwäiᶜ	śot śuat	*lhot
+吮	shǔn1	dźjuenᴮ	źunᴮ źuinᴮ	*m-liunɁ *m-lunɁ
+順	shùn1	dźjuenᶜ	źuinᶜ źunᶜ	*m-luns
+循	xún	zjuen	zuin ziun	*s-lunNEW_ENTRYxún7			
+馴	xún	zjuen	zuin ziun	*s-lun
+瞬	shùn3	śjuenᶜ	śuinᶜ	*hwins
+眴	xuàn shùn	xiwenᶜ	hwenᶜ	*hwînsNEW_ENTRYxún	sjuen	suin	*swinNEW_ENTRYxuàn3 shùn			NEW_ENTRYxún4			
+蟀	shuò3			
+爍	shuò6	śjak	śɑuk śɑk	*lhaukNEW_ENTRYshuò7	śjak	śɑuk śɑk	*lhiauk
+鑠	shuò6	śjak	śɑuk śɑk	*lhauk
+爚	yuè	jiak	jɑuk jɑk	*laukNEW_ENTRYyuè	jiak	jɑuk jɑk	*liaukNEW_ENTRYyuè11			NEW_ENTRYyuè12			
+瀹	yuè	jiak	jɑuk jɑk	*laukNEW_ENTRYyuè	jiak	jɑuk jɑk	*liaukNEW_ENTRYyuè11			
+曜	yào	jiäuᶜ	jɑuᶜ jauᶜ	*liaukhNEW_ENTRYyào5			NEW_ENTRYzī	dzi	dzi	*dzəi *dzi
+耀	yào	jiäuᶜ	jɑuᶜ jauᶜ	*liaukhNEW_ENTRYyào5			
+燿	yào	jiäuᶜ	jɑuᶜ jauᶜ	*liaukhNEW_ENTRYyào5			
+司	sī1	si	siə	*sə
+私	sī2	siᴮ	siᴮ	*siɁ
+絲	sī4	si	siə	*sə
+訾	sí			NEW_ENTRYzǐ5	tsieᴮ	tsieᴮ	*tseɁNEW_ENTRYsí	zie	zie	*
+死	sǐ	siᴮ	siᴮ	*siɁ
+四	sì1	siᶜ	siᶜ	*sis
+肆	sì1	siᶜ	siᶜ	*sisNEW_ENTRYsì6			NEW_ENTRYsì7			NEW_ENTRYsì	siᶜ	siᶜ	*sih *slih
+泗	sì2	siᶜ	siᶜ	*sih *sis
+似	sì3	ziᴮ	ziəᴮ	*s-ləɁ *s-jəɁ
+兕	sì4	ziᴮ	ziᴮ	*s-jəiɁ
+耜	sì5	ziᴮ	ziəᴮ	*s-ləɁ
+嗣	sì10			NEW_ENTRYsì	ziᶜ	ziəᶜ	*s-ləh
+松	sōng1	zjwoŋ	zioŋ	*s-loŋ
+崧	sōng2	sjuŋ	suŋ	*suŋ *sluŋ
+嵩	sōng2	sjuŋ	suŋ	*suŋ *sluŋ
+聳	sǒng	sjwoŋᴮ	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	*soŋɁ *C-soŋhNEW_ENTRYsǒng1	sjwoŋᴮ	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	*soŋɁNEW_ENTRYsǒng2	sjwoŋᴮ ~ səuᴮ	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	*soŋɁNEW_ENTRYsǒng3	sjwoŋᴮ	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	*soŋɁNEW_ENTRYsǒng4		sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	
+竦	sǒng	sjwoŋᴮ	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	*soŋɁ *C-soŋhNEW_ENTRYsǒng4		sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	
+鬆	sōng3	suoŋ,tsʰjwoŋ		
+縱	zòng	tsjwoŋᶜ	tsioŋᶜ	*tsoŋhNEW_ENTRYzǒng	tsuŋᴮ	tsoŋᴮ	*tsôŋɁNEW_ENTRYzǒng			NEW_ENTRYzòng2			
+悚	sǒng1	sjwoŋᴮ	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	*soŋɁ
+駷	sǒng2	sjwoŋᴮ ~ səuᴮ	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ	*soŋɁ
+送	sòng1	suŋᶜ	soŋᶜ	*sôŋh.
+訟	sòng2	zjwoŋ	zioŋ	*s-loŋNEW_ENTRYsòng	zjwoŋᶜ	zioŋᶜ	*s-loŋh
+誦	sòng	zjwoŋᶜ	zioŋᶜ	*s-loŋh
+搜	sōu1	ṣjəu	ṣu	*sro/uNEW_ENTRYsōu2	ṣjəu	ṣu	*sro *sruNEW_ENTRYsōu3 sǒu	səuᴮ	so soᴮ	*sôɁ *sô
+獀	sōu4	ṣjəu	ṣu	*ṣo
+叟	sǒu1	səuᴮ	soᴮ	*sô
+瞍	sǒu1	səuᴮ	soᴮ	*sô
+藪	sǒu2	səuᴮ	soᴮ	*sôɁ
+嗽	sòu1	səuᶜ	soᶜ	*sôh
+漱	sòu2			NEW_ENTRYsòu	səuᶜ,ṣjəuᶜ	ṣuᶜ	*srukh
+縮	sū3			NEW_ENTRYsuō	ṣjuk	ṣuk	*srukNEW_ENTRYsuō1	ṣjuk	ṣuk	*srukNEW_ENTRYsuō2			
+俗	sú	zjwok	ziok	*s-lok
+泝	sù1			NEW_ENTRYsù	suoᶜ	sɑᶜ	*sŋâkh
+愬	sù1			NEW_ENTRYsù	suoᶜ	sɑᶜ	*sŋâkh
+訴	sù1			NEW_ENTRYsù	suoᶜ	sɑᶜ	*sŋâkh
+素	sù2	suoᶜ	sɑᶜ	*sâh
+夙	sù3	sjuk	suk	*sukNEW_ENTRYsù	sjuk	suk	*suk
+宿	sù4	sjuk	suk	*sukNEW_ENTRYxiù	sjəuᶜ	suᶜ	*sukh
+粟	sù5	sjwok	siok tsʰok	*sok
+速	sù6	suk	sok	*sôk
+勗	xù	xjwok	hiok	*hokNEW_ENTRYxù9			
+蔌	sù7	suk	sok	*sôk
+肅	sù8	sjuk	suk	*suk
+蒋	sù8	sjuk	suk	*sukNEW_ENTRYsù	ṣjəu	ṣu	*sruNEW_ENTRYsù9			
+修	xiū	sjəu	su	*sûNEW_ENTRYxiū5	sjəu	su	*su *siu *sliuNEW_ENTRYtiáo	dieu	deu	*liû
+酸	suān	suân	suɑn son	*sôn
+蒜	suàn1	suânᶜ	sonᶜ suɑnᶜ	*sôns
+算	suàn2	suânᴮ,suanᶜ	sonᴮ sonᶜ suɑnᴮ suɑnᶜ	*sônɁ/s
+綏	suī	swi	sui	*snui
+妥	tuǒ	tʰuâᴮ	tʰuɑiᴮ	*nhôiɁNEW_ENTRYtuǒ3			
+隨	suí			NEW_ENTRYsuí	zwie	zyɑi	*s-wa/oi
+髓	suǐ1	swieᴮ	syɑiᴮ tsʰyɑiᴮ	*soiɁ *swaiɁ)
+歲	suì1	sjwäiᶜ	syas	*swats
+遂	suì2	zwiᶜ	zuis	*s-wis
+遹	yù	jiuet	jut wit	*witNEW_ENTRYyù27			
+穗	suì3	zwiᶜ	zuis	*s-wis
+孫	sūn1	suən	suən	*sûn
+飧	sūn2	suən	suən	*sûn
+損	sǔn	suənᴮ	suənᴮ	*sûnɁ
+遜	sùn xùn	suənᶜ	suənᶜ	*sûnsNEW_ENTRYsùn xùn			NEW_ENTRYxùn4			
+巽	sùn xùn	suənᶜ	suənᶜ	*sûnsNEW_ENTRYsùn xùn			
+所	suǒ1	ṣjwoᴮ	ṣɑᴮ	*sraɁ
+瑣	suǒ5	suâᴮ	suɑiᴮ soiᴮ	*sôiɁ
+他	tā	tʰâ		NEW_ENTRYtuō1	tʰâ	tʰɑi	*lhâi
+誻	tà1	dập	dəp	*lə̂p
+沓	tà1	dập	dəp	*lə̂pNEW_ENTRYtà2	dập	dəp	*dəp
+詍	yì	jiäiᶜ	jas	*lats *laps
+眔	tà2	dập	dəp	*dəp
+遝	tà2	dập	dəp	*dəp
+台	tāi1	tʰậi	tʰə	*lhə̂NEW_ENTRYyí1			NEW_ENTRYyí	jii	jə	*lə
+治	tái1	dậi		NEW_ENTRYzhì11	ḍi[ᶜ]	ḍəᶜ	*d-ləh
+苔	tái2	dậi	də	*lə̂
+嬯	tái3	dậi	də	*də̂
+臺	tái3	dậi	də	*də̂
+犇	tài1			NEW_ENTRYtài dì	dieiᶜ,dâi	dɑs des	*dês *dâs
+貪	tān1	tʰậm	tʰəm	*rhə̂mNEW_ENTRYtān2	tʰậm	tʰəm	*rhə̂m
+探	tān3	tʰậm	tʰəm	*nhə̂m
+灘	tān6	tʰân	tʰɑn	
+覃	tán1	dậm	dəm	*lə̂mNEW_ENTRYtán2			NEW_ENTRYyǎn4	jiämᴮ	jamᴮ	*jamɁ
+潭	tán3	dậm	dəm	*lə̂m
+譚	tán4			NEW_ENTRYtán	dậm	dəm	*lə̂m
+炎	tán7	dâm	dɑm	*lâmNEW_ENTRYyán2	jiäm 4 [JY]	jam	*lam  prob. *liamNEW_ENTRYyán3	jäm 3 [GY]	wam	*wam
+惔	tán7	dâm	dɑm	*lâm
+談	tán8	dâm	dɑm	*lâm
+詹	zhān	tśjäm	tśam	*tamNEW_ENTRYzhān6			
+檀	tán9			
+袒	tǎn1	dânᴮ	dɑnᴮ	*dânɁ
+襢	tǎn1	dânᴮ	dɑnᴮ	*dânɁNEW_ENTRYzhǎn	ṭjänᴮ	ṭanᴮ	*tranɁNEW_ENTRYzhàn	ṭjänᶜ	ṭanᶜ	*transNEW_ENTRYzhǎn4			
+坦	tǎn2	tʰânᴮ	tʰɑnᴮ	*thânɁNEW_ENTRYtǎn3	tʰânᴮ	tʰɑnᴮ	*thânɁ
+黮	tǎn5	tʰậmᴮ,dậmᴮ	tʰəmᴮ dəmᴮ	*thə̂mɁ *də̂mɁ
+炭	tàn1	tʰânᶜ	tʰɑnᶜ	*thâns
+鏜	tāng1	tʰâŋ	tʰɑŋ	*thâŋ
+闐	tián	dien	den	*dînNEW_ENTRYtián5			
+唐	táng1	dâŋ	dɑŋ	*lâŋ
+塘	táng2	dâŋ	dɑŋ	*lâŋ
+滔	tāo3 táo			NEW_ENTRYtāo4			NEW_ENTRYtāo	tʰâu	tʰou	*lhûNEW_ENTRYtáo	dâu	dou	*lû
+慆	tāo5			NEW_ENTRYtāo6			NEW_ENTRYtāo	tʰâu	tʰou	*lhû
+韜	tāo7			NEW_ENTRYtāo	tʰâu	tʰou	*lhû
+匋	táo1	dâu	dou	*lû
+陶	táo1	dâu	dou	*lûNEW_ENTRYtáo5			NEW_ENTRYtáo	dâu	dou	*lû
+桃	táo2	dâu	dɑu	*lâu
+逃	táo3	dâu	dɑu	*lâu
+洮	táo4	tʰâu	tʰɑu	*lhâu
+萄	táo6			
+貣	tè1	tʰək,dək	tʰək	*lhə̂k
+特	tè2	dək	dək	*də̂kNEW_ENTRYtè4			NEW_ENTRYtè	dək	dək	*də̂k
+犆	zhí tè	dək	dək	*də̂kNEW_ENTRYtè4			NEW_ENTRYtè	dək	dək	*də̂k
+慝	tè5	tʰək	tʰək	*nhə̂k
+疼	téng1	duoŋ	douŋ	
+騰	téng2	dəŋ	dəŋ	*lə̂ŋ
+梯	tī1	tʰiei	tʰei	*thî *thə̂i
+剔	tī2	tʰiek	tʰek	*lhêk
+鬄	tī2	tʰiek	tʰek	*lhêk
+提	tí1	diei	de	*dêNEW_ENTRYdǐ	tieiᴮ	teᴮ	*têɁ
+題	tí1	diei	de	*dê
+禔	tí2			NEW_ENTRYzhī7	diei,tśie,źie	tśe	*te *de
+啼	tí3	diei	de	*dê
+蹄	tí4	diei	de	*dê
+體	tǐ	tʰieiᴮ	tʰeiᴮ	*rhîɁ
+涕	tì1	tʰieiᴮ/ᶜ	tʰeiᶜ tʰeiᴮ	*thîɁ/h
+剃	tì2	tʰieiᶜ		
+逖	tì3	tʰiek	tʰek	*thêk
+惕	tì4	tʰiek	tʰek	*lhêk
+趯	tì5-tì			NEW_ENTRYtì-tì	tʰiek-tʰiek	tʰek tʰeuk	*lhiâuk
+添	tiān3	tʰiem	tʰem	
+恬	tián2	diem	dem	*lîm *lêm
+甜	tián3	diem	dem	*lîm *lêm
+填	tián4	dien	dein den	*dîn
+瑱	tiàn	tʰienᶜ	tʰeinᶜ tʰenᶜ	*thînsNEW_ENTRYtiàn			
+舔	tiǎn1	tʰiemᴮ	tʰemᴮ	*lhîmɁ
+煔	tiǎn2	tʰiemᴮ/ᶜ	tʰemᴮ tʰemᶜ	*lhêmɁ/s
+𤈛	tiǎn2	tʰiemᴮ/ᶜ	tʰemᴮ tʰemᶜ	*lhêmɁ/s
+挑	tiāo1	tʰieu	tʰeu	*lhiâu
+條	tiāo2			NEW_ENTRYtiáo1			NEW_ENTRYtiáo2			NEW_ENTRYtiáo	dieu	deu	*liûNEW_ENTRYtiāo	tʰieu	tʰeu	*lhiû
+窕	tiǎo	dieuᴮ	deuᴮ	*liâuɁ
+跳	tiào1	dieuᶜ	deuᶜ	*liâuh
+呫	tiē1	tʰiep	tʰep	*thêpNEW_ENTRYzhān3			
+鐵	tiě	tʰiet	tʰet	*lhêt *lhît
+汀	tīng1			
+聽	tīng2	tʰieŋ	tʰeŋ	*lhêŋNEW_ENTRYtìng tīng	tʰieŋᶜ	tʰeŋᶜ	*lhêŋh
+亭	tíng1	dieŋ	deŋ	*dêŋ
+停	tíng2	dieŋ	deŋ	*dêŋNEW_ENTRYtíng2			
+庭	tíng3	dieŋ	deŋ	*lêŋNEW_ENTRYtíng4			NEW_ENTRYtíng	dieŋ	deŋ	*lêŋ
+莛	tíng5			NEW_ENTRYtíng	dieŋ	deŋ	*lêŋ
+筳	tíng5			NEW_ENTRYtíng	dieŋ	deŋ	*lêŋ
+挺	tǐng2	tʰieŋᴮ	tʰeŋᴮ	*lhêŋɁ
+梃	tǐng3 dìng	dieŋᴮ	deŋᴮ	*lêŋɁ
+恫	tōng1	tʰuŋ	tʰoŋ	*thôŋ *thôŋ
+痛	tòng	tʰuŋᶜ	tʰoŋᶜ	*lhôŋh *thôŋhNEW_ENTRYtòng			
+通	tōng2	tʰuŋ	tʰoŋ	*lhôŋ
+同	tóng1	duŋ	doŋ	*dôŋ
+銅	tóng2	duŋ	doŋ	*lôŋ *dlôŋ *dôŋ
+筒	tóng3	duŋ	doŋ	*dôŋ *dlôŋ
+筩	tóng3	duŋ	doŋ	*dôŋ *dlôŋ
+童	tóng5	duŋ	doŋ	*dôŋNEW_ENTRYtóng6	duŋ	doŋ	
+僮	tóng5	duŋ	doŋ	*dôŋ
+瞳	tóng	tʰuŋ	tʰoŋ	*thôŋ
+桶	tǒng	tʰuŋᴮ	tʰoŋᴮ	*lhôŋɁ *thôŋɁ
+偷	tōu1	tʰəu	tʰo	*lhôNEW_ENTRYtōu2	tʰəu	tʰo	*lhô
+脫	tuō	tʰuât,duât	dot tʰuɑt tʰot duɑt	*lôt *lhôtNEW_ENTRYtuō3	tʰuât,duât	dot tʰuɑt tʰot duɑt	*lôt *lhôt
+投	tóu1	dəu	do	*dô
+歈	tóu2 yú	dəu	do	*lô
+頭	tóu3	dəu	do	*dô
+橢	tǒu			
+突	tū	tʰuət,duət	duət tʰuət	*thût *dût
+途	tú1	duo	dɑ	*lâNEW_ENTRYtú2	duo	dɑ	*lâ
+涂	tú2	duo	dɑ	*lâ
+塗	tú2	duo	dɑ	*lâ
+徒	tú3	duo	dɑ	*dâ
+土	tǔ1	tʰuoᴮ	tʰɑᴮ	*thâɁ
+吐	tǔ2	tʰuoᴮ,tʰuoᶜ	tʰɑᴮ	*thâɁNEW_ENTRYtù	tʰuoᴮ,tʰuoᶜ	tʰɑᶜ	*thâh
+兔	tù	tʰuoᶜ	tʰɑᶜ	*lhâh
+貒	tuān			
+團	tuán1	duân	duɑn don	*dôn
+摶	tuán1	duân	duɑn don	*dôn
+漙	tuán1	duân	duɑn don	*dôn
+縳	zhuàn	ḍjwänᴮ	ḍionᴮ ḍuɑnᴮ	*dronɁNEW_ENTRYzhuàn2			
+膞	zhuǎn	źjwänᴮ,tśjwänᴮ	dź/tśuanᴮ dź/tśionᴮ	*donɁ *tonɁ
+彖	tuàn	tʰuânᶜ	tʰonᶜ tʰuɑnᶜ	*thôns
+推	tuī	tʰuậi	tʰuəi	*thûi
+腿	tuǐ	tʰuậiᴮ		
+退	tuì1	tʰuậiᶜ	tʰuəs	*thûts *thûs
+駾	tuì2			NEW_ENTRYtuì	duâiᶜ,tʰuâiᶜ	dos tʰos duɑs tʰuɑs	*lôts *lhôts
+吞	tūn1	tʰən	tʰən	*thə̂n *lhə̂n
+暾	tūn2	tʰuən	tʰuən	*thûn
+純	tún3	duən[ᴮ]	duən	*dûn
+豚	tún5	duən	duən	*dûn
+臀	tún6	duən	duən	*dûn
+佗	tuó1			
+阤	tuó2			NEW_ENTRYzhì	ḍjeᴮ	ḍɑiᴮ	*d-laiɁNEW_ENTRYzhì7	ḍjieᴮ	ḍeᴮ	*d-laiɁNEW_ENTRYzhì8			
+鼉	tuó3	dâ,dân	dɑi dɑn	*dâi *dân
+隋	tuǒ1	tʰuâᴮ	tʰoiᴮ	*lhôiɁNEW_ENTRYtuǒ2	tʰuâᴮ	tʰoiᴮ	*lhôiɁNEW_ENTRYduò	duâᴮ	doiᴮ	*lôiɁ
+拓	tuò1	tʰâk	tʰɑk	*thâk
+橐	tuò2	tʰâk	tʰɑk	*thâk
+蘀	tuò4	tʰâk	tʰɑk	*lhâk
+蛙	wā1	Ɂwai	Ɂuɛ	*Ɂwrê *Ɂwe
+窪	wā2	Ɂwai	Ɂuɛ	*Ɂwrê
+洼	wā	Ɂiwei	Ɂue	*Ɂwê
+外	wài	ŋuâiᶜ	ŋuɑs	*ŋôs *ŋôts
+灣	wān	Ɂwan	Ɂuan	*Ɂrôn
+頑	wán			NEW_ENTRYwán	ŋwan,ŋwăn	ŋuan	*ŋrôn
+宛	wǎn1			
+婉	wǎn2			NEW_ENTRYwǎn	Ɂjwɐnᴮ	Ɂyɑnᴮ	*ɁonɁ *Ɂau-nɁ)NEW_ENTRYyè5	Ɂjɐp	Ɂiɑp	*Ɂap
+苑	wǎn3			NEW_ENTRYyuàn	Ɂjwɐnᴮ,Ɂjuət	Ɂyɑnᴮ Ɂiut also	*ɁwanɁ *ɁonɁ (*Ɂut)NEW_ENTRYyù11			NEW_ENTRYyuàn1	Ɂjwɐnᴮ	Ɂyɑnᴮ	*ɁonɁNEW_ENTRYyuàn2			
+碗	wǎn4	Ɂuânᴮ	Ɂuɑnᴮ	*ɁônɁ
+腕	wàn1			NEW_ENTRYwàn	Ɂuânᶜ	Ɂuɑnᶜ	*Ɂwâns
+萬	wàn3	mjwɐnᶜ	miɑnᶜ	*mans
+汪	wāng1			NEW_ENTRYwāng	Ɂwaŋ	Ɂuɑŋ	*Ɂwâŋ
+亡	wáng1	mjwaŋ	muɑŋ	*maŋ
+忘	wàng	mjwaŋ[ᶜ]	muɑŋ muɑŋᶜ	*maŋ (!)NEW_ENTRYwàng3			
+罔	wǎng	mjwaŋᴮ	muɑŋᴮ	*maŋɁNEW_ENTRYwǎng3	mjwaŋᴮ	muɑŋᴮ	*maŋɁNEW_ENTRYwǎng4			NEW_ENTRYwǎng5			
+王	wáng2	jwaŋ	wɑŋ	*waŋNEW_ENTRYwàng	jwaŋᶜ	wɑŋᶜ	*waŋh
+往	wǎng1	jwaŋᴮ	wɑŋᴮ	*waŋɁ
+枉	wǎng2			NEW_ENTRYwǎng	Ɂjwaŋᴮ	Ɂyɑŋᴮ	*ɁwaŋɁ
+網	wǎng3	mjwaŋᴮ	muɑŋᴮ	*maŋɁ
+妄	wàng2	mjwaŋᶜ	muɑŋᶜ	*maŋh
+望	wàng4	mjwaŋᴬ/ᶜ	muɑŋᴬ muɑŋᶜ	*maŋᴬNEW_ENTRYwàng5	mjwaŋᴬ/ᶜ	muɑŋ	*maŋᴬ
+逶	wēi2	Ɂjwie 3	Ɂyɑi	*Ɂwai *Ɂoi
+萎	wēi3	Ɂjwie 3	Ɂyɑi Ɂioi	*Ɂoi *Ɂwai
+威	wēi4	Ɂjwei	Ɂui	*Ɂui
+畏	wèi	Ɂjweiᶜ	Ɂuiᶜ	*Ɂuih
+危	wéi1 wēi	ŋjwie	ŋyɑi ŋioi	*ŋoi
+惟	wéi2	jiwi	wi	*wi
+唯	wéi2	jiwi	wi	*wi
+隹	wéi2	jiwi	wi	*wiNEW_ENTRYzhuī1	tświ	tśui	*tui
+維	wéi2	jiwi	wi	*wi
+為	wéi3	jwie	wɑi	*waiNEW_ENTRYwèi	jwieᶜ	wɑiᶜ	*waih
+圍	wéi5	jwei	wui	*wəi
+違	wéi6	jwei	wui	*wəi
+諱	huì	xjweiᶜ	huiᶜ	*hwəih
+微	wéi7	mjwei	mui	*məiNEW_ENTRYwéi8	mjwei	mui	*məi
+巍	wéi9	ŋjwei	ŋui	*ŋui
+魏	wèi	ŋjweiᶜ	ŋuiᶜ	*ŋuihNEW_ENTRYwèi15			
+尾	wěi1	mjweiᴮ	muiᴮ	*məiɁ
+委	wěi2	Ɂjwieᴮ	Ɂioiᴮ Ɂyɑiᴮ	*ɁoiɁNEW_ENTRYwěi3	Ɂjwieᴮ	Ɂioiᴮ Ɂyɑiᴮ	*ɁoiɁ
+緯	wěi4	jweiᶜ	wuiᶜ	*wəih
+緷	yùn	juənᶜ	wunᶜ	*wənsNEW_ENTRYyùn3			
+亹	wěi6	mjweiᴮ	muiᴮ	*məiɁ
+勿	wù	mjuət	mut	*mətNEW_ENTRYwù	mjwət	mut	*mətNEW_ENTRYwù3			NEW_ENTRYwù4			
+未	wèi1	mjwəiᶜ	mus	*məts *məsNEW_ENTRYwèi2	mjweiᶜ	mus	*məts *məs
+味	wèi3	mjweiᶜ	mus	*məts
+位	wèi4	jwiᶜ	wəs	*wə(t *wrə(t
+踈	wèi5	jiwiᶜ 4	wiᶜ	*wih
+蜼	wèi6	jiwiᶜ,ljwiᴮ,jiəuᶜ	wiᶜ luiᴮ	*wih *ruiɁ *r-wiɁ)
+衛	wèi7	jwäiᶜ	was wes	*wets *wes
+胃	wèi8	jweiᶜ	wus	*wəts
+謂	wèi9	jweiᶜ	wə(t)s	*wjəts
+鬱	yù	Ɂjuət	Ɂut	*ɁutNEW_ENTRYyù32	Ɂjuət	Ɂut	*ɁutNEW_ENTRYyù33			
+餧	wèi14	Ɂjweiᶜ	Ɂuiᶜ	*Ɂuih
+溫	wēn	Ɂuən	Ɂuən	*Ɂûn
+文	wén1	mjuən	mun	*mən
+蚊	wén2	mjuən	mun	*mən
+聞	wén3	mjuən	mun	*mən
+問	wèn	mjuənᶜ	munᶜ	*mənsNEW_ENTRYwèn			
+吻	wěn1	mjuənᴮ	munᴮ	*mənɁ
+紊	wěn2	mjuənᶜ - tone!	munᶜ	*məns
+翁	wēng	Ɂuŋ	Ɂoŋ	*Ɂôŋ
+瓮	wèng	Ɂuŋᶜ	Ɂoŋᶜ	*Ɂôŋh
+甕	wèng	Ɂuŋᶜ	Ɂoŋᶜ	*Ɂôŋh
+罋	wèng	Ɂuŋᶜ	Ɂoŋᶜ	*Ɂôŋh
+我	wǒ			NEW_ENTRYwǒ	ŋâᴮ	ŋɑiᴮ	*ŋâiɁ
+沃	wò1	Ɂuok	Ɂɑuk	*Ɂâuk
+鋈	wù			NEW_ENTRYwù13			
+臥	wò2	ŋuâᶜ	ŋuɑiᶜ	*ŋôih *ŋwâih
+幄	wò3			
+汙	wū1	Ɂuo	Ɂuɑ	*Ɂwâ
+巫	wū2	mju	muɑ	*ma
+誣	wū3	mju	muɑ	*ma
+焉	yān	Ɂjän 3	Ɂɑn Ɂiɑn	*ɁanNEW_ENTRYyān2		Ɂɑn Ɂiɑn	NEW_ENTRYyān	jän 3 -irregular	Ɂɑn Ɂiɑn	*Ɂan an
+烏	wū6	Ɂuo	Ɂɑ	*Ɂâ
+鴉	yā	Ɂa	Ɂa	*ɁaNEW_ENTRYyā2			
+毋	wú1	mju	muɑ	*mə
+吾	wú2	ŋuo	ŋɑ	*ŋâ
+吳	wú3	ŋuo	ŋuɑ	*ŋwâ
+無	wú4	mju	muɑ	*ma
+蕪	wú5	mju	muɑ	*ma
+廡	wú5	mju	muɑ	*maNEW_ENTRYwǔ9	mjuᴮ	muɑᴮ	*maɁNEW_ENTRYwǔ10	mjuᴮ	muɑᴮ	*maɁ
+午	wǔ1	ŋuoᴮ	ŋɑᴮ	*ŋâɁNEW_ENTRYwǔ2			
+五	wǔ3	ŋuoᴮ	ŋɑᴮ	*ŋâɁ
+武	wǔ4	mjuᴮ	muɑᴮ	*maɁNEW_ENTRYwǔ5	mjuᴮ	muɑᴮ	*maɁ
+侮	wǔ6	mjuᴮ	muoᴮ	*moɁ
+舞	wǔ8			
+甒	wǔ11	mjuᴮ	muɑᴮ	*maɁ
+兀	wù1	ŋuət	ŋuət	*ŋût
+刖	yuè	ŋjwɐt,ŋwat	ŋyɑt ŋuat	*ŋot *ŋrôtNEW_ENTRYyuè2			
+扤	wù2	ŋuət	ŋuət	*ŋût
+物	wù5	mjuət	mut	*mət
+悟	wù6	ŋuoᶜ	ŋɑᶜ	*ŋâh
+寤	wù6	ŋuoᶜ	ŋɑᶜ	*ŋâh
+啎	wù7			NEW_ENTRYwù	ŋuoᶜ	ŋɑᶜ	*ŋâh
+迕	wù7			NEW_ENTRYwù	ŋuoᶜ	ŋɑᶜ	*ŋâh
+晤	wù7			NEW_ENTRYwù	ŋuoᶜ	ŋɑᶜ	*ŋâh
+捂	wù7			NEW_ENTRYwù	ŋuoᶜ	ŋɑᶜ	*ŋâh
+忤	wù7			NEW_ENTRYxī17	xjie 3	hiɑi	
+蘁	wù10			NEW_ENTRYwù	ŋâk,ŋuoᶜ	ŋɑᶜ ŋɑk	*ŋâkh *ŋâk
+務	wù11	mjuᶜ	muoᶜ	*moh
+霧	wù12	mjuᶜ	muoᶜ	*moh
+夕	xī1	zjäk	ziak	*s-jak
+西	xī2	siei	sei sen also	*snə̂i *sə̂i
+棲	xī2	siei	sei sen also	*snə̂i *sə̂i
+栖	xī2	siei	sei sen also	*snə̂i *sə̂i
+吸	xī3	xjəp	hip	*hŋəp *həp
+析	xī4	siek	sek	*sêk
+昔	xī6	sjäk	siak	*sak sjak
+腊	xī7			
+息	xī8	sjək	sik	*sək
+溪	xī10	kʰiei	kʰe	*khê *khle
+犀	xī11	siei	sei	*sə̂i
+希	xī12	xjei	hii	*həi
+睎	xī12	xjei	hii	*həi
+膝	xī13	sjet	sit	*sit
+悉	xī14	sjet	sit	*sit
+蠵	xī16	Ɣiwei	Ɣue	*wê
+翕	xī18			
+犧	xī19			NEW_ENTRYxī	xjie	hiɑi	*hŋai
+用	xī20			NEW_ENTRYyòng	jiwoŋᶜ	joŋᶜ	*loŋhNEW_ENTRYyòng			
+席	xí1	zjäk	ziak ziɑk	*s-lak
+習	xí2	zjəp	zip	*s-ləpNEW_ENTRYxí3	zjəp	zip	*s-ləp
+肄	yì	iᶜ	jis	*ləts *ləpsNEW_ENTRYyì26			
+覡	xí6			
+襲	xí7			
+洗	xǐ1	sienᴮ,sieiᴮ	seiᴮ	*sîɁ *sînɁ *sə̂nɁ *sə̂iɁ
+徙	xǐ2	sjieᴮ	sieᴮ	*sêɁ
+枲	xǐ3	siᴮ	siəᴮ	*səɁ
+喜	xǐ4	xjiᴮ	hiəᴮ	*həɁ
+狶	xǐ5	xjei[ᴮ]	hii hiiᴮ	*həiɁ *həi *hləiɁ *hləi
+屣	xǐ6	ṣjeᴮ	ṣieᴮ	*sreɁ
+系	xì1	Ɣieiᶜ	geᶜ	*gêh
+繫	xì1	Ɣieiᶜ	geᶜ	*gêhNEW_ENTRYxì	kieiᶜ	keᶜ	*kêh
+係	xì	kieiᶜ	keᶜ	*kêh
+細	xì2	sieiᶜ	seᶜ	seiᶜ)
+戲	xì3	xjeᶜ 3	hiɑiᶜ	*haih
+嘕	xiān	xjän 3	hiɑn	NEW_ENTRYxiān5			
+潟	xì4	sjäk	*siak	*sak
+呷	xiá1	xap	hap	*hap
+赮	xiá4	Ɣa	ga	*gra
+瑕	xiá4	Ɣa	ga	*gra
+霞	xiá4	Ɣa	ga	*gra
+騢	xiá4	Ɣa	ga	*gra
+下	xià1	Ɣaᴮ	gaᴮ	*graɁNEW_ENTRYxià	Ɣaᶜ	gaᶜ	*grah
+暇	xià2	Ɣaᶜ	gaᶜ	*grah
+先	xiān1	sien	sen	*sə̂nNEW_ENTRYxiàn	sienᶜ	senᶜ	*sə̂ns
+仙	xiān2	sjän	sian	*san
+僊	xiān2	sjän	sian	*san
+秈	xiān3	sjän		
+鮮	xiān4	sjän	sian	*sanNEW_ENTRYxiǎn4	sjänᴮ	sianᴮ	*senɁ
+纖	xiān7	sjäm	siam	*sam *sem
+涎	xián2	zjän,jiänᶜ	lanᴮ zian janᶜ	*(s-)lan
+咸	xián3	Ɣăm	gɛm	*grə̂m
+鹹	xián4	Ɣăm	gɛm	*grə̂m
+閑	xián5	Ɣăn	gɛn	*grênNEW_ENTRYxián6	Ɣăn	gɛn	*grênNEW_ENTRYxián7	Ɣăn	gɛn	*grênNEW_ENTRYxián8	Ɣăn	gɛn	*grên
+攔	lán	lân	lɑn	*rân *g-ran
+汐	xián9	Ɣăn	grɛn	*grên
+銜	xián11	Ɣam	gam	*grâm
+燅	xián12	zjäm	ziam	*s-lam
+毨	xiǎn1	sienᴮ	senᴮ	*sînɁ *sə̂nɁ
+銑	xiǎn1	sienᴮ	senᴮ	*sînɁ *sə̂nɁ
+險	xiǎn2	xjämᴮ 3,xjɐmᴮ	hiɑmᴮ hiamᴮ	*hŋramɁ *hŋamɁ
+尟	xiǎn4	sjänᴮ	sianᴮ	*senɁ
+癬	xiǎn5	sjänᴮ	sianᴮ tsʰiɑnᴮ	*sa/enɁ
+顯	xiǎn6	xienᴮ	henᴮ	*hênɁ
+晛	xiàn2			
+陷	xiàn3	Ɣămᶜ	gɛmᶜ	*grə̂ms
+錎	xiàn3	Ɣămᶜ	gɛmᶜ	*grə̂ms
+限	xiàn4			
+霰	xiàn5	sienᶜ	senᶜ	*sêns
+線	xiàn6	sjänᶜ	sianᶜ	*sans
+羨	xiàn7	zjänᶜ,dzjänᶜ	zianᶜ	*s-lans
+獻	xiàn9	xjɐnᶜ	hiɑnᶜ	*hŋans
+憲	xiàn9	xjɐnᶜ	hiɑnᶜ	*hŋans
+甗	yàn yǎn	ŋjɐnᴮ/ᶜ	ŋiɑnᴮ ŋiɑnᶜ	*ŋanɁ/hNEW_ENTRYyàn9			
+縣	xiàn10	Ɣienᶜ	genᶜ	*wênsNEW_ENTRYxuán4	Ɣiwen	guen	*gwîn
+相	xiāng1	sjaŋ	siɑŋ	*saŋNEW_ENTRYxiàng	sjaŋᶜ	siɑŋᶜ	*saŋhNEW_ENTRYxiàng2			
+想	xiǎng1	sjaŋᴮ	siɑŋᴮ	*saŋɁNEW_ENTRYxiǎng1			
+香	xiāng2	xjaŋ	hiɑŋ	*haŋ
+纕	xiāng3	sjaŋ	siɑŋ	*snaŋ
+卿	xiāng5			NEW_ENTRYxiàng1	xjaŋᶜ	hiɑŋᶜ	*haŋh *hnaŋhNEW_ENTRYxiāng	xjaŋ	hiɑŋ	*haŋ
+庠	xiáng1	zjaŋ	ziɑŋ	*s-jaŋ *s-laŋNEW_ENTRYxiáng2	zjaŋ	ziɑŋ	*s-jaŋ *s-laŋNEW_ENTRYxiáng3			
+祥	xiáng1	zjaŋ	ziɑŋ	*s-jaŋ *s-laŋ
+詳	xiáng4	zjaŋ	ziɑŋ	*s-laŋ *s-jaŋ
+翔	xiáng5	zjaŋ	ziaŋ	*s-jaŋ *s-laŋ
+徉	yáng	jiaŋ	jaŋ	*jaŋ *laŋNEW_ENTRYyáng5			
+饟	xiǎng2	śjaŋᴬ/ᴮ/ᶜ	śɑŋᴮ	*nhaŋɁ/h
+餉	xiǎng2	śjaŋᴬ/ᴮ/ᶜ	śɑŋᴮ	*nhaŋɁ/h
+鄉	xiǎng3	xjaŋᴮ	hiɑŋᴮ	*haŋᴬ !
+饗	xiǎng3	xjaŋᴮ	hiɑŋᴮ	*haŋᴬ !
+享	xiǎng3	xjaŋᴮ	hiɑŋᴮ	*haŋᴬ !
+響	xiǎng4			NEW_ENTRYxiǎng	xjaŋᴮ	hiɑŋᴮ	*haŋ !
+向	xiàng1	xjaŋᶜ	hiɑŋᶜ	*haŋh *hnaŋh
+嚮	xiàng1	xjaŋᶜ	hiɑŋᶜ	*haŋh *hnaŋh
+巷	xiàng3	Ɣåŋᶜ	gɔŋᶜ	*grôŋh
+項	xiàng4	Ɣåŋᴮ	gɔŋᴮ	*grôŋɁ
+象	xiàng5	zjaŋᴮ	ziɑŋᴮ	*s-jaŋɁ *ziɑŋNEW_ENTRYxiàng6	zjaŋᴮ	ziɑŋᴮ	*s-jaŋɁNEW_ENTRYxiàng7	zjaŋᴮ	ziɑŋᴮ	*s-jaŋɁ
+像	xiàng7	zjaŋᴮ	ziɑŋᴮ	*s-jaŋɁ
+佯	yáng3	jiaŋ	jɑŋ	*jaŋ *laŋNEW_ENTRYyáng3			
+樣	yàng3	jiaŋᶜ		NEW_ENTRYyàng3			
+削	xiāo1			NEW_ENTRYxuē xuè xiāo	sjak,sjäuᶜ	siɑuk siauᶜ siɑk	*siauk *siaukhNEW_ENTRYxuè3 xiāo			
+消	xiāo2	sjäu	siau	*siau
+銷	xiāo2	sjäu	siau	*siau
+捎	xiāo	sieu	seu	*siâu
+梟	xiāo3	kieu	keu	*kiû
+小	xiǎo1	sjäuᴮ	siauᴮ	prob. *siauɁ rather than *sauɁ
+肖	xiào	sjäuᶜ	siauᶜ	*siauhNEW_ENTRYxiào4			
+俏	qiào	tsʰjäuᶜ	tsʰiauᶜ	*C-siauh
+曉	xiǎo2	xieuᴮ	heuᴮ	*hiâuɁ
+笑	xiào1	sjäuᶜ	siauᶜ tsʰiauᶜ	*siauh
+校	xiào2	Ɣauᶜ,Ɣauᴬ/ᴮ	gauᶜ	*grâuh
+嘯	xiào5	sieuᶜ	seuᶜ	*siûh
+箾	xiāo	sieu	seu	*siâu
+斅	xiào6			NEW_ENTRYxiào	Ɣauᶜ	gɔuᶜ	*grûkh
+脅	xiē1	xjɐp	hiap	(from **hrap) *hap
+協	xié1	Ɣiep	gep	*gêp
+寫	xiě1	sjaᴮ	siaᴮ	*saɁNEW_ENTRYxiě2	sjaᴮ	siaᴮ	*saɁ *slaɁ *sjaɁ)
+瀉	xiè	sjaᶜ	siaᶜ	*sahNEW_ENTRYxiè11			
+泄	xiè1	sjät,jiäiᶜ	siat jas	*slat(s *j instead of *lNEW_ENTRYyì7			NEW_ENTRYyì14			
+洩	xiè1	sjät,jiäiᶜ	siat jas	*slat(s *j instead of *lNEW_ENTRYyì	jiäiᶜ	jas	*lats *j instead of *lNEW_ENTRYyì14			
+紲	xiè2	sjät	siat	*sat *set
+絏	xiè2	sjät	siat	*sat *set
+鞢	xiè2	sjät	siat	*sat *set
+蟹	xiè3	Ɣaiᴮ	gɛᴮ	*grêɁ
+屧	xiè4	siep	sep	*sîp *slip
+心	xīn1	sjəm	sim	*səm
+辛	xīn2	sjen	sin	*sin
+新	xīn3	sjen	sin	*sin
+薪	xīn4	sjen	sin	*sin
+欣	xīn5	xjən	hin	*hən
+尋	xín	zjəm	zim	*s-ləmNEW_ENTRYxún5	zjəm	zim	*s-ləmNEW_ENTRYxún6			
+爓	xín	zjəm	zim	*s-ləm
+信	xìn1	sjenᶜ	sinᶜ	*sin !NEW_ENTRYxìn2			NEW_ENTRYxìn	sjenᶜ	sinᶜ	*slins) (irreg. *sins from
+訊	xùn	sjenᶜ	sinᶜ	NEW_ENTRYxùn3			
+恂	xún	sjuen	suin sun	*swinNEW_ENTRYxún3			
+狌	xīng1	sjäŋ	sieŋ	*seŋ
+星	xīng2	sieŋ	seŋ tsʰeŋ	*sêŋNEW_ENTRYqíng	dzjäŋ	dzieŋ	*dzeŋ
+猩	xīng3	sieŋ	seŋ	*sêŋ
+腥	xīng4	sieŋ	seŋ	*sêŋNEW_ENTRYxìng1	sieŋᶜ	seŋᶜ	*sêŋh
+興	xīng6	xjəŋ	hiŋ	*həŋ
+馨	xīng7	xieŋ	heŋ	*hêŋ
+形	xíng2	Ɣieŋ	geŋ	*gêŋ
+擤	xǐng1	xjəŋᶜ	hiŋᶜ	*həŋh
+性	xìng2	sjäŋᶜ	sieŋᶜ	*seŋ *seŋh
+姓	xìng2	sjäŋᶜ	sieŋᶜ	*seŋ *seŋh
+兄	xiōng1	xjwɐŋ	hyaŋ	*hwaŋ
+凶	xiōng2			
+兇	xiōng3	xjwoŋ	hioŋ	*hoŋ
+匈	xiōng4	xjwoŋ	hioŋ	*hoŋ
+雄	xióng1	juŋ 3	wuŋ	*wəŋ
+熊	xióng2	juŋ	wəm	*wəm
+煦	xiǒng			NEW_ENTRYxǔ3			NEW_ENTRYxǔ	xjuᴮ/ᶜ	hioᴮ hioᶜ	*hoɁ/hNEW_ENTRYxiǒng	xjwoŋᴮ	hioŋᴮ	*hoŋɁ
+休	xiū1	xjəu	x(ɨ)u	*hu
+庥	xiū2			
+羞	xiū3	sjəu	su	*snuNEW_ENTRYxiū4	sjəu	su	*snu
+脩	xiū6			NEW_ENTRYxiū7			NEW_ENTRYxiū	sjəu	su	*siu *sliu
+溲	xiū8			NEW_ENTRYxiǔ2	˘ṣjəuᴮ	ṣuᴮ	*sruɁNEW_ENTRYxiū	ṣjəu	ṣu	*sru
+糔	xiǔ2	˘ṣjəuᴮ	ṣuᴮ	*sruɁ
+潃	xiǔ	sjəuᴮ	suᴮ	*suɁNEW_ENTRYxiǔ3			
+秀	xiù1	sjəu	suᶜ	*suh *swuh
+袖	xiù2			NEW_ENTRYxiù	zjəuᶜ	ziuᶜ	*s-luh *s-juh
+褎	xiù4			NEW_ENTRYyòu6			NEW_ENTRYyoù7	jiəuᶜ	juᶜ	*juh *wuhNEW_ENTRYyòu	jiəuᶜ	juᶜ	*luh *juhNEW_ENTRYxiù	zjəuᶜ	ziuᶜ	*s-luh *s-juh
+胥	xū1	sjwo	siɑ	*sa
+須	xū4	sju	sio	tsʰioNEW_ENTRYxū5	sju	sio	tsʰio
+鬚	xū4	sju	sio	tsʰio
+需	xū5	sju	sio	tsʰio
+嬃	xū6	sju	sio	*sno
+徐	xú			NEW_ENTRYxú	zjwo	ziɑ	*s-la
+湑	xǔ1	sjwoᴬ/ᴮ	sɑ sɑᴮ	*r *sraɁ light (with 釃) *sra of in
+濾	lǚ	ljwoᶜ	liɑh	
+諝	xǔ2	sjwoᴮ	siɑᴮ	*saɁ
+擬	xǔ4	sjuᴮ	sioᴮ	**snot) *snoɁ (perh.
+序	xù1	zjwoᴮ	ziɑᴮ	*s-laɁNEW_ENTRYxù2	zjwoᴮ	ziɑᴮ	*s-laɁ
+敘	xù2	zjwoᴮ	ziɑᴮ	*s-laɁ
+緒	xù2	zjwoᴮ	ziɑᴮ	*s-laɁ
+卹	xù3	sjuet	sut	OCM
+旭	xù4			
+烜	xuǎn	xjwɐnᴮ	hyɑnᴮ	*hwanɁ *honɁNEW_ENTRYxuǎn			
+頊	xù5	xjwok	hiok	*hŋok
+婿	xù7			
+酗	xù8			NEW_ENTRYxù	xjuᶜ	hioᶜ	*hoh
+續	xù11			
+宣	xuān1	sjwän	syan	*swan
+暖	xuān2	xjwɐn[ᴮ]	hyɑn hyɑnᴮ	*hwanɁ *hwan
+玄	xuán1	Ɣiwen	Ɣuen	*wîn
+旋	xuán3			NEW_ENTRYxuán	zjwän	zyan	*s-wen
+懸	xuán4	Ɣiwen	guen	*gwîn
+泫	xuàn1	Ɣiwenᴮ	Ɣuenᴮ	*wînɁ
+湲	yuán	jwän	wen wan	*wan *wenNEW_ENTRYyuán9			
+眩	xuàn2			NEW_ENTRYxuàn	Ɣiwen[ᶜ]	Ɣwen Ɣwenᶜ	*wîns *wîn
+炫	xuàn2			NEW_ENTRYxuàn	Ɣienᶜ	Ɣ(u)enᶜ	*wîns
+學	xué	Ɣåk	gɔk	*grûk
+雪	xuě	sjwät	siot syat	*sot *snot
+血	xuè1	xiwet	huet	*hwît
+嗀	xuè4 hù	xåk,xuk	hɔk hok	*hrok
+熏	xūn	xjuən	hun	*hwən *C-un
+燻	xūn	xjuən	hun	*hwən *C-un
+焄	xūn	xjuən	hun	*hwən *C-un
+芸	yún	juən	wun	NEW_ENTRYyún3			
+訓	xùn1	xjuənᶜ	hunᶜ	*huns
+逡	xùn5	sjuenᶜ	sunᶜ suinᶜ	*suns
+押	yā1			
+壓	yā3	Ɂap	Ɂap	*Ɂrâp *Ɂâp
+牙	yá1	ŋa	ŋa	*ŋrâ
+芽	yá2			
+砺	yā yà	Ɂa [GY]	Ɂa	*Ɂâ
+雅	yǎ2	ŋaᴮ	ŋaᴮ	*ŋrâɁ
+亞	yà1	Ɂaᶜ	Ɂaᶜ	*Ɂah *Ɂrâh
+御	yà2	ŋaᶜ	ŋaᶜ	*ŋrâhNEW_ENTRYyù15			NEW_ENTRYyù	ŋjwoᶜ	ŋiɑᶜ	*ŋah
+迓	yà2	ŋaᶜ	ŋaᶜ	*ŋrâh
+訝	yà2	ŋaᶜ	ŋaᶜ	*ŋrâh
+顏	yán	ŋan	ŋan	*ŋrânNEW_ENTRYyán7			
+咽	yān1	Ɂien	Ɂen Ɂein	*ɁînNEW_ENTRYyàn	Ɂienᶜ	Ɂeinᶜ Ɂenᶜ	*ɁînsNEW_ENTRYyàn7			
+嚥	yàn	Ɂienᶜ	Ɂeinᶜ Ɂenᶜ	*ɁînsNEW_ENTRYyàn5			
+淹	yān3			NEW_ENTRYyān	Ɂjäm 3	Ɂiɑm	*Ɂram
+猒	yān4	Ɂjiäm[ᶜ] 4	Ɂiam	*ɁemNEW_ENTRYyàn	Ɂjiämᶜ 4	Ɂiamᶜ	*Ɂems
+沿	yán1	jiwän	juan jon	*lon *jon
+緣	yuán	jiwän	juan jon	*lonNEW_ENTRYyuàn	jiwänᶜ	juanᶜ jonᶜ	*lonsNEW_ENTRYyuán11			NEW_ENTRYyuàn5			
+燄	yàn	jiämᴮ	jamᴮ	*lamɁ *liamɁNEW_ENTRYyàn6			
+剡	yàn	jiämᴮ	jamᴮ	*lamɁ *liamɁNEW_ENTRYyǎn4	jiämᴮ	jamᴮ	*jamɁNEW_ENTRYyàn6			
+言	yán4			NEW_ENTRYyán	ŋjɐn	ŋiɑn	*ŋan
+延	yán5	jiän	jan	*lan
+筵	yán5	jiän	jan	*lan
+研	yán6	ŋien	ŋen	*ŋên
+硯	yàn	ŋienᶜ	ŋenᶜ	*ŋêns
+巖	yán8	ŋam	ŋam	*ŋrâm
+嚴	yán	ŋjɐm	ŋiɑm	*ŋam
+儼	yǎn	ŋjɐmᴮ	ŋiɑmᴮ	*ŋamɁNEW_ENTRYyǎn8			
+鹽	yán9	jiäm	jam	*jam *r-jamNEW_ENTRYyàn	jiämᶜ	jamᶜ	*jams
+衍	yǎn1 yàn	jiänᴮ/ᶜ	janᴮ janᶜ	*janɁ *jans
+演	yǎn	jiänᴮ	janᴮ	*janɁ
+奄	yǎn2	Ɂjämᴮ 3	Ɂiɑmᴮ	*ɁramɁ
+掩	yǎn	Ɂjämᴮ 3,Ɂjɐmᴮ	Ɂiɑmᴮ	*ɁramɁNEW_ENTRYyǎn3			
+弇	yǎn3			
+揜	yǎn3			
+偃	yǎn5	Ɂjɐnᴮ	Ɂiɑnᴮ	*ɁanɁ
+匽	yǎn	Ɂjɐnᴮ/ᶜ	Ɂiɑnᴮ Ɂiɑnᶜ	*ɁanɁ/s
+眼	yǎn6	ŋănᴮ	ŋɛn	*ŋrə̂nNEW_ENTRYěn	ŋənᴮ	ŋənᴮ	*ŋə̂nɁ
+酓	yǎn7	Ɂjiämᴮ 4	Ɂiamᴮ	*ɁemɁ
+巘	yǎn9			
+黶	yǎn10	Ɂjiämᴮ 4	Ɂiamᴮ	*ɁemɁ
+宴	yàn1	Ɂienᶜ	Ɂenᶜ	*Ɂêns
+燕	yàn1	Ɂienᶜ	Ɂenᶜ Ɂenᴮ	*ɁênsNEW_ENTRYyàn4	Ɂienᶜ	Ɂenᶜ Ɂenᴮ	*Ɂêns
+晏	yàn	Ɂienᶜ,Ɂanᶜ	Ɂanᶜ Ɂenᶜ	*Ɂêns Ɂrêns
+雁	yàn2	ŋanᶜ	ŋanᶜ	*ŋrâns
+鴳	yàn3	Ɂanᶜ	Ɂanᶜ	*Ɂrâns
+鷃	yàn3	Ɂanᶜ	Ɂanᶜ	*Ɂrâns
+唁	yàn8			NEW_ENTRYyàn	ŋjänᶜ 3	ŋiɑnᶜ	*ŋans
+諺	yàn8			NEW_ENTRYyàn	ŋjänᶜ 3	ŋiɑnᶜ	*ŋans
+豔	yàn10	jiämᶜ	jamᶜ	() *jams *r-jams
+央	yāng1			NEW_ENTRYyāng	Ɂjaŋ	Ɂiɑŋ	*Ɂaŋ
+秧	yāng2	Ɂjaŋ	Ɂiɑŋ	*Ɂaŋ
+殃	yāng3	Ɂjaŋ	Ɂiɑŋ	*Ɂaŋ
+羊	yáng1	jiaŋ	jɑŋ	*jaŋ *laŋNEW_ENTRYyáng2	jiaŋ	jɑŋ	*jaŋ *laŋ
+蜑	yáng4	jiaŋ	jɑŋ	*laŋ
+瘍	yáng4	jiaŋ	jɑŋ	*laŋ
+恙	yàng	jiaŋᶜ	jɑŋᶜ	*laŋhNEW_ENTRYyàng1			
+洋	yáng6	jiaŋ	jɑŋ	*jaŋ *laŋ
+揚	yáng7	jiaŋ	jɑŋ	*laŋNEW_ENTRYyáng8	jiaŋ	jɑŋ	*laŋ
+鍚	yáng8	jiaŋ	jɑŋ	*laŋ
+陽	yáng9	jiaŋ	jɑŋ	*laŋ
+暘	yáng9	jiaŋ	jɑŋ	*laŋ
+楊	yáng10	jiaŋ	jɑŋ	*laŋ
+仰	yǎng1	ŋjaŋᴮ	ŋiɑŋᴮ	*ŋaŋɁ
+養	yǎng2	jiaŋᴮ	jɑŋᴮ	*jaŋɁ *laŋɁNEW_ENTRYyàng	jiaŋᶜ	jɑŋᶜ	*jaŋh *laŋh
+癢	yǎng3	jiaŋᴮ	jɑŋᴮ	*jaŋɁ
+么	yāo1			NEW_ENTRYyāo	Ɂieu	Ɂeu	*Ɂiû
+妖	yāo2	Ɂjäu 3	Ɂiɑu	*Ɂau
+祆	yāo3			
+訞	yāo3			
+腰	yāo5	Ɂjiäu 4	Ɂiau	*Ɂiau
+要	yāo5	Ɂjiäu 4	Ɂiau	*ɁiauNEW_ENTRYyào2	Ɂjiäuᶜ 4		NEW_ENTRYyào3			
+窯	yáo1	jiäu or jiəu [QY]	jau	*jau
+搖	yáo2	jiäu	jau	*jau
+媱	yáo2	jiäu	jau	*jau
+夭	yǎo1	Ɂjäuᴮ 3	Ɂiɑuᴮ	*ɁauɁ
+殀	yǎo1	Ɂjäuᴮ 3	Ɂiɑuᴮ	*ɁauɁ
+舀	yǎo3			NEW_ENTRYyóu7 yǎo			NEW_ENTRYyóu yǎo	jiəu,jiäuᴮ	ju jauᴮ	*lu lauɁ
+杳	yǎo4			NEW_ENTRYyǎo	Ɂieuᴮ	Ɂeuᴮ	*ɁiûɁ *ɁiâuɁ
+窅	yǎo4			NEW_ENTRYyǎo	Ɂieuᴮ	Ɂeuᴮ	*ɁiûɁ *ɁiâuɁ
+窔	yào1			NEW_ENTRYyào	Ɂieuᶜ	Ɂeuᶜ	*Ɂiâuh
+穾	yào1			NEW_ENTRYyào	Ɂieuᶜ	Ɂeuᶜ	*Ɂiâuh
+藥	yào4	jiak	jɑuk jɑk	*jauk *r-jauk
+噎	yē	Ɂiet	Ɂet Ɂeit	*Ɂît
+饐	yì	Ɂieiᶜ	Ɂeis Ɂes	*ɁîtsNEW_ENTRYyì40			
+殪	yì	Ɂiᶜ	Ɂis	*ɁitsNEW_ENTRYyì39			
+也	yě1	jiaᴮ	jaᴮ	*laɁ
+冶	yě2	jiaᴮ	jaᴮ	*laɁ
+野	yě3	jiaᴮ	jaᴮ	*laɁ
+夜	yè1	jiaᶜ	jaᶜ	*jah jakh
+液	yè2	jiäk	jak	*jak *r-jak
+饁	yè3	jäp 3	wɑp jɑp	*wap *jap
+葉	yè4	jiäp	jɑp	*lap
+裔	yì	jiäiᶜ	jas	*lats *lapsNEW_ENTRYyì31	jiäiᶜ	jas	*latsNEW_ENTRYyì32			
+燁	yè6	jäp 3,jiəp	jap both wap either	*lap *wap
+業	yè7	ŋjɐp	ŋiɑp	*ŋapNEW_ENTRYyè8	ŋjɐp	ŋiɑp	*ŋap
+一	yī1	Ɂjet	Ɂit	*Ɂit
+伊	yī2	Ɂi 4	Ɂi	*Ɂi
+衣	yī3	Ɂjei	Ɂii	*ɁəiNEW_ENTRYyì	Ɂjəiᶜ	Ɂiiᶜ	*ɁəihNEW_ENTRYyì5			
+依	yī4	Ɂjei	Ɂii	*Ɂəi
+隱	yìn	Ɂjənᶜ [GY]	Ɂinᶜ	*ɁənsNEW_ENTRYyǐn	Ɂjənᴮ	Ɂinᴮ	*ɁənɁNEW_ENTRYyǐn5			NEW_ENTRYyìn2			
+翳	yī5	Ɂiei[ᶜ]	Ɂei Ɂeih	*Ɂə̂i *Ɂə̂ih *Ɂî *Ɂîh
+扆	yǐ	Ɂjeiᴮ	Ɂiiᴮ	*ɁəiɁNEW_ENTRYyǐ5			
+醫	yī6	Ɂi	Ɂiə	*Ɂə
+貽	yí2	jii	jə	*lə
+胤	yìn	jienᶜ	jinᶜ	*lənsNEW_ENTRYyìn4			
+賸	yìng	jiəŋᶜ	Ɂiŋᶜ	*ləŋhNEW_ENTRYyìng5			
+侇	yí5	ji	ji	*li
+迤	yí6	jie	jɑi	*lai
+迆	yí6	jie	jɑi	*lai
+迻	yí7			
+易	yì	jiäk	jek	*lekNEW_ENTRYyì9	jieᶜ	jeᶜ	*lekhNEW_ENTRYyì10			
+儀	yí10	ŋje 3	ŋiɑi	*ŋaiNEW_ENTRYyí11	ŋje 3	ŋiɑi	*ŋai
+宜	yí10	ŋje 3	ŋiɑi	*ŋai
+義	yì	ŋjeᶜ 3	ŋiɑiᶜ	*ŋaihNEW_ENTRYyì37			
+議	yì	ŋjeᶜ 3	ŋiɑiᶜ	*ŋaihNEW_ENTRYyì38			
+詣	yì	ŋieiᶜ	ŋeiᶜ	*ŋîh *ŋə̂ihNEW_ENTRYyì34			
+遺	yí12	jiwi	wi	*wiNEW_ENTRYyì	jiwiᶜ	wih wis	*wih
+疑	yí13	ŋji	ŋiə	*ŋə
+彝	yí14			
+已	yǐ1	jiiᴮ	jəᴮ	*ləɁ
+以	yǐ2	jiiᴮ	jəᴮ	*ləɁ
+倚	yǐ3	Ɂjeᴮ	Ɂiɑiᴮ	*ɁaiɁ
+猗	yǐ4	Ɂjeᴮ	Ɂiɑiᴮ	*ɁaiɁ
+蟻	yǐ6	ŋjeᴮ 3	ŋiaiᴮ	*ŋaiɁ
+螘	yǐ	ŋjeiᴮ	ŋiiᴮ	*ŋəiɁ
+弋	yì1	jiək	jək	*lək
+刈	yì2	ŋjɐiᶜ	ŋiɑs	*ŋas *ŋats
+亦	yì3	jiäk	jak	*jakNEW_ENTRYyì4	jiäk	jak	*jak
+腋	yì4	jiäk	jak	*jak
+掖	yì4	jiäk	jak	*jak
+役	yì6	jiwäk	wek	*wek *wai-k
+曳	yì7			
+邑	yì8	Ɂjəp	Ɂip	*Ɂəp
+軼	yì12			NEW_ENTRYyì	jiet,diet	jit det	*lit *lît
+泆	yì13	jiet	jit	*litNEW_ENTRYyì	jiet,diet	jit det	*lit *lît
+溢	yì13	jiet	jit	*litNEW_ENTRYyì21			
+勩	yì15	jiäiᶜ	jas	*las
+抴	yì16	jiäiᶜ,jiät	jat jas	*lat *lats
+益	yì17	Ɂjiäk 4	Ɂiek	*Ɂek
+嗌	yì18	Ɂjäk	Ɂiek	*Ɂek
+縊	yì	Ɂieiᶜ	Ɂeᶜ	*Ɂîth *ɁîkhNEW_ENTRYyì19			
+膉	yì20			
+翼	yì22	jiək	jək	*lək
+意	yì23			NEW_ENTRYyì	Ɂiᶜ	Ɂiəᶜ	*Ɂəkh
+憶	yì24	Ɂjək	Ɂiək	*Ɂək
+臆	yì24	Ɂjək	Ɂiək	*ɁəkNEW_ENTRYyì25			
+熠	yì27	jiəp,jəp	jəp wəp	*wəp
+藝	yì28	ŋjiäiᶜ 4	ŋias	*ŋets
+簿	yì29	ŋjeiᶜ	ŋiiᶜ ŋis	*ŋəs *ŋəih *ŋəls)
+毅	yì30			
+繹	yì35	jiäk	jak jɑk	*lak
+譯	yì36			
+驛	yì36			
+懌	yì36			
+斁	yì36			
+因	yīn1	Ɂjien 4	Ɂin	*Ɂin
+姻	yīn2			
+茵	yīn3			
+湮	yīn4	Ɂjien 4	Ɂin	*Ɂin
+堙	yīn4	Ɂjien 4	Ɂin	*Ɂin
+闉	yīn4	Ɂjien 4	Ɂin	*Ɂin
+陰	yīn5	Ɂjəm	Ɂim	*ɁəmNEW_ENTRYyìn	Ɂjəmᶜ	Ɂimᶜ	*Ɂəms
+蔭	yìn	Ɂjəmᶜ	Ɂimᶜ	*Ɂəms
+冘	yín1	jiəm	jim	*ləm
+垠	yín2			
+淫	yín3	jiəm	jim	(liəm) *ləm
+尹	yǐn1	jiuenᴮ	junᴮ juinᴮ	*winɁ *j/lunɁ
+引	yǐn2	jienᴮ	jinᴮ	*linɁ
+靷	yìn	jienᶜ	jinᶜ	*linsNEW_ENTRYyìn3			
+絼	zhèn	ḍjenᴮ	ḍinᴮ	*d-linɁNEW_ENTRYzhèn6			
+紖	zhèn	ḍjenᴮ	ḍinᴮ	*d-linɁNEW_ENTRYzhèn6			
+飲	yǐn3	Ɂjəmᴮ	Ɂimᴮ	*ɁəmɁNEW_ENTRYyìn	Ɂjəmᶜ	Ɂimᶜ	*Ɂəms
+螾	yǐn4	jienᴮ	jinᴮ	*lə/inɁ *jə/inɁ
+蚓	yǐn4	jienᴮ	jinᴮ	*lə/inɁ *jə/inɁ
+英	yīng1	Ɂjɐŋ	Ɂiaŋ	*Ɂ-aŋ
+鷹	yīng2	Ɂjəŋ	Ɂiŋ	*Ɂəŋ
+膺	yīng3	Ɂjəŋ	Ɂiŋ	*ɁəŋNEW_ENTRYyīng5			
+應	yìng	Ɂjəŋᶜ	Ɂiŋᶜ	*ɁəŋhNEW_ENTRYyīng	Ɂjəŋ	Ɂiŋ	*ɁəŋNEW_ENTRYyìng2			
+嬰	yīng4	Ɂjiäŋ 4	Ɂieŋ	*Ɂeŋ
+盈	yíng2	jiäŋ	jeŋ	*leŋ
+嬴	yíng2	jiäŋ	jeŋ	*leŋ
+熒	yíng3	Ɣiweŋ[ᴬ/ᴮ/ᶜ]	Ɣueŋ	*wêŋ
+瑩	yíng	jwɐŋ	waŋ	*wreŋ
+營	yíng4	jiwäŋ 4	weŋ	*weŋ
+塋	yíng	jiwäŋ 4	weŋ	*weŋ
+縈	yíng5	Ɂjiwäŋ 4	Ɂyeŋ	*Ɂweŋ
+蠅	yíng6	jiəŋ	jiŋ	*jəŋ *ləŋ
+影	yǐng1	Ɂjɐŋᴮ	Ɂiaŋᴮ	*ɁraŋɁ
+癭	yǐng2	Ɂjiäŋᴮ 4	Ɂieŋᴮ	*ɁeŋɁ
+硬	yìng3	ŋɛŋᶜ		
+媵	yìng5			
+邕	yōng1	Ɂjwoŋ	Ɂioŋ	*Ɂoŋ PCH *Ɂuŋ
+雍	yǒng yòng	Ɂjwoŋᴬ/ᴮ/ᶜ	Ɂioŋᴮ Ɂioŋᶜ	*Ɂuŋ *Ɂoŋ(Ɂ/h) PCHNEW_ENTRYyǒng6 yòng			
+壅	yǒng yòng	Ɂjwoŋᴬ/ᴮ/ᶜ	Ɂioŋᴮ Ɂioŋᶜ	*Ɂuŋ *Ɂoŋ(Ɂ/h) PCHNEW_ENTRYyǒng6 yòng			
+癰	yōng2	Ɂjwoŋ	Ɂioŋ	*Ɂoŋ
+饔	yōng3			NEW_ENTRYyōng	Ɂjwoŋ	Ɂioŋ	*Ɂoŋ
+庸	yóng1	jiwoŋ	joŋ	*loŋ
+永	yǒng1	jwɐŋᴮ	waŋᴮ	*wraŋɁ
+詠	yǒng	jwɐŋᶜ	waŋᶜ	*wraŋh
+泳	yǒng2	jwɐŋᴮ	waŋᴮ	*wraŋɁ
+甬	yǒng3	jiwoŋᴮ	joŋᴮ	*loŋɁ
+踊	yǒng4	jiwoŋᴮ	joŋᴮ	*loŋɁ
+禜	yǒng7	jwɐŋ[ᶜ]	waŋ waŋᶜ	*wreŋ *wreŋh
+攸	yōu1	jiəu	ju	*ju
+悠	yōu2	jiəu	ju	*liu
+由	yóu	jiəu	ju	*liuNEW_ENTRYyóu2	jiəu	ju	*liu *ju *wu) (fromNEW_ENTRYyóu3			
+呦	yōu3	Ɂjieu 4	Ɂiu	*Ɂiu
+幽	yōu4	Ɂjieu 4	Ɂiu	*Ɂiu
+黝	yǒu	Ɂjieuᴮ 4	Ɂiuᴮ	*ɁiuɁNEW_ENTRYyǒu5			
+櫌	yōu5	Ɂjəu	Ɂu	*Ɂu
+耰	yōu5	Ɂjəu	Ɂu	*Ɂu
+尤	yóu1	jəu	wu	*wə
+迪	dí	diek	dek deuk	*liûk
+冑	zhòu	˘ḍjəuᶜ	ḍuᶜ	*d-liuhNEW_ENTRYzhòu3	˘ḍjəuᶜ	ḍuᶜ	*d-luh *d-juhNEW_ENTRYzhòu4			
+油	yóu4	jiəu	ju	*luNEW_ENTRYyóu10	jiəu	ju	*liu
+斿	yóu5			
+游	yóu6	jiəu	ju	*ju
+遊	yóu6	jiəu	ju	*ju
+猶	yóu8	jiəu	ju	*juNEW_ENTRYyóu9	jiəu	ju	*ju
+友	yǒu1			NEW_ENTRYyǒu	jəuᴮ	wuᴮ	*wəɁ
+有	yǒu2	jəuᴮ	wuᴮ	*wəɁ
+侑	yòu	jəuᶜ	wuᶜ	*wəh
+酉	yǒu3	jiəuᴮ	juᴮ	*juɁ
+庮	yǒu4	jiəu[ᴮ]	ju juᴮ	*juɁ
+莠	yǒu7			
+又	yòu1	jəuᶜ	wuᶜ	*wəh
+右	yòu2	jəuᴮ,jəuᶜ	wuᶜ wuᴮ	*wəɁ *wəhNEW_ENTRYyòu	jəuᶜ	wuᶜ	*wəh
+佑	yòu	jəuᶜ	wuᶜ	*wəh
+祐	yòu	jəuᶜ	wuᶜ	*wəh
+宥	yòu	jəuᶜ	wuᶜ	*wəh
+幼	yòu4	Ɂjieuᶜ	Ɂiuᶜ	*Ɂiuh
+徭	yòu8			NEW_ENTRYyòu	Ɂjəuᶜ	Ɂuᶜ	
+鼬	yòu9	jiəuᶜ	juᶜ	*juh
+迂	yū1	Ɂju	Ɂyɑ	*Ɂwa
+紆	yū1	Ɂju	Ɂyɑ	*Ɂwa
+冤	yuān	Ɂjwɐn	Ɂyɑn	*Ɂwan *ɁonNEW_ENTRYyuān2			
+菸	yū2	Ɂjwo	Ɂiɑ	*Ɂa
+蔫	yān	Ɂjän 3	Ɂiɑn	*Ɂan
+爰	yuán	jwɐn	wɑn	*wanNEW_ENTRYyuán8	jwɐn	wɑn	*wanNEW_ENTRYyuán10			
+盂	yú3	ju	wɑ	*wa
+雩	yú4			NEW_ENTRYyú	ju	wɑ	*wa
+余	yú5	jiwo	jɑ	*la *ja
+予	yú	jiwo	jɑᴮ	*laɁ *jaɁ
+餘	yú6	jiwo	jɑ	*la
+舁	yú11	jiwo	jɑ	*la
+譽	yú11	jiwo	jɑ	*laNEW_ENTRYyù	jiwoᶜ	jɑᶜ	*lahNEW_ENTRYyù8	jiwoᶜ	jɑᶜ	*lahNEW_ENTRYyù29			
+俞	yú14	jiu	jo	*loNEW_ENTRYyú15	jiu	jo	*loNEW_ENTRYyú19	jiu,dəu	jo do	*lo *lô
+揄	yú16	jiu,dəuᴮ	jo doᴮ	*lo *lôɁ
+愉	yú17	jiu	jo	*lo
+悅	yuè	jiwät	jot jyat	*lotNEW_ENTRYyuè7			
+閱	yuè	jiwät	jot jyat	*lotNEW_ENTRYyuè	jiuät	jyɑt jot	*lotNEW_ENTRYyuè7			NEW_ENTRYyuè8			
+踰	yú18	jiu	jo	*lo *jo
+逾	yú18	jiu	jo	*lo *jo
+愈	yù	jiuᴮ	joᴮ	*loɁ *joɁNEW_ENTRYyù19			
+瘉	yù	jiuᴮ	joᴮ	*loɁ *joɁNEW_ENTRYyù19			
+窬	yú19	jiu,dəu	jo do	*lo *lô
+覦	yú21			NEW_ENTRYyú	jiu[ᶜ]	jo joᶜ	*lo *loh
+魚	yú22	ŋjwo	ŋiɑ	*ŋa
+隅	yú23	ŋju	ŋio	*ŋo
+愚	yú25	ŋju	ŋio	*ŋo
+與	yú26	jiwo	jɑ	*laNEW_ENTRYyǔ8	jiwoᴮ	jɑᴮ	*laɁNEW_ENTRYyù	jiwoᶜ	jɑᶜ	*lah *jahNEW_ENTRYyǔ9	jiwoᴮ	jɑᴮ	*laɁ
+歟	yú26	jiwo	jɑ	*la
+邪	yé	jia	ja	*la
+輿	yú27	jiwo	jɑ	*la
+羽	yǔ1	juᴮ	wɑᴮ	*waɁ
+宇	yǔ2	juᴮ	wɑᴮ	*waɁ
+雨	yǔ3	juᴮ	wɑᴮ	*waɁNEW_ENTRYyǔ	juᶜ	wɑᶜ	*wah
+禹	yǔ4	juᴮ	wɑᴮ	*waɁ
+語	yǔ6	ŋjwoᴮ	ŋiɑᴮ	*ŋaɁNEW_ENTRYyù	ŋjwoᶜ	ŋiɑᶜ	*ŋahNEW_ENTRYyù30			
+圉	yǔ7	ŋjwoᴮ	ŋiɑᴮ	*ŋaɁ
+圄	yǔ7	ŋjwoᴮ	ŋiɑᴮ	*ŋaɁ
+与	yǔ9	jiwoᴮ	jɑᴮ	*laɁ
+芋	yù1	juᶜ	wɑᶜ	*wah
+汨	yù2			
+浴	yù4	jiwok	jok	*lok
+欲	yù5	jiwok	jok	*lok
+慾	yù6			
+裕	yù7	jiuᶜ	joᶜ	*lokh
+悆	yù8	jiwoᶜ	jɑᶜ	*lah
+豫	yù8	jiwoᶜ	jɑᶜ	*lahNEW_ENTRYyù24	jiwoᶜ		NEW_ENTRYyù25	jiwoᶜ	jɑᶜ	*lah
+禺	yù9	ŋjuᶜ	ŋioᶜ	*ŋoh
+飫	yù12			NEW_ENTRYyù	Ɂjwoᶜ	Ɂiɑᶜ	*Ɂah
+禦	yù16	ŋjwoᴮ	ŋiɑᴮ	*ŋaɁNEW_ENTRYyù17	ŋjwoᴮ	ŋiɑᴮ	*ŋaɁ
+喻	yù18	jiuᶜ	joᶜ	*joh *loh
+諭	yù18	jiuᶜ	joᶜ	*joh *loh
+嫗	yù20 yǔ	Ɂjuᴮ	Ɂioᴮ	*ɁoɁNEW_ENTRYyù	Ɂjuᶜ	Ɂioᶜ	*Ɂoh
+燠	yù	Ɂjuk	Ɂuk	NEW_ENTRYyù31			
+饇	yù21	Ɂjuᶜ,kʰju	Ɂioᶜ kʰio	kho *Ɂoh ()
+育	yù22	jiuk	juk	*luk
+毓	yù22	jiuk	juk	*luk
+鬻	yù22	jiuk	juk	*lukNEW_ENTRYzhōu5	tśjuk	tśuk	*tuk
+繘	yù26	kjuet,jiuet	kuit wit	(late) (k-)ju(i)t
+鳶	yuān1	jiwän	juan jon	*juan *jon
+蜎	yuān3	Ɂiwen,Ɂjwän[ᴮ]	Ɂuen	*Ɂwen *ɁwenɁ *Ɂwên
+肙	yuān3	Ɂiwen,Ɂjwän[ᴮ]	Ɂuen	*Ɂwen *ɁwenɁ *Ɂwên
+元	yuán1	ŋjwɐn	ŋon ŋyɑn	*ŋon
+黿	yuán	ŋjwɐn,also ŋuân	ŋon ŋyɑn	*ŋon *ŋau-n)
+孱	yuán2	jiwänᴮ	juanᴮ	*lonɁ
+原	yuán3	ŋjwɐn	ŋion ŋyɑn	*ŋon / *ŋuan
+謜	yuán4	ŋjwɐn	ŋion ŋyɑn	*ŋon *ŋuan
+員	yuán5	jwän	wen wian	() *wen
+圓	yuán5	jwän	wen wian	() *wen
+圜	yuán5	jwän	wen wian	() *wen
+院	yuàn	jwänᶜ	wanᶜ/wenᶜ	() *wensNEW_ENTRYyuàn4			
+瑗	yuàn	jwänᶜ	wanᶜ/wenᶜ	() *wensNEW_ENTRYyuàn4			
+猿	yuán6	jwɐn	wɑn	*wan
+園	yuán7	jwɐn	wɑn	*wan
+遠	yuǎn1	jwɐnᴮ	wɑnᴮ	*wanɁNEW_ENTRYyuàn	jwɐnᶜ	wɑnᶜ	*wans
+怨	yuàn	Ɂjwɐnᶜ	Ɂyɑnᶜ	*ɁonsNEW_ENTRYyuàn3			
+願	yuàn6	ŋjwɐnᶜ	ŋyɑnᶜ ŋionᶜ	*ŋwans *ŋons
+曰	yuē1	jwɐt	wɑt	*wat
+約	yuē2	Ɂjak	Ɂiɑk Ɂiɑuk	*ɁiaukNEW_ENTRYyào	Ɂjiäuᶜ 4	Ɂiauᶜ	*Ɂiaukh
+噦	yuē3	Ɂjwɐt,Ɂjwät	Ɂiot Ɂyɑt	*Ɂwat *Ɂot
+月	yuè1	ŋjwɐt	ŋyɑt ŋiot	*ŋot
+戉	yuè3	jwɐt	wɑt	*wat
+鉞	yuè3	jwɐt	wɑt	*wat
+岳	yuè6	ŋåk	ŋɔk	*ŋrôk
+嶽	yuè6	ŋåk	ŋɔk	*ŋrôk
+籥	yuè10	jiak	jɑuk jɑk	*liauk
+勻	yún1	jiuen	win	*win
+云	yún2	jwən	wun	*wən
+耘	yún4	jwən	wun	*wən *wun)
+雲	yún5	jwən	wun	*wən
+允	yǔn1	jiuenᴮ	junᴮ juinᴮ	*junɁ *winɁ
+隕	yǔn2	jiwenᴮ	winᴮ	*wrin(Ɂ *win(Ɂ
+殞	yǔn2	jiwenᴮ	winᴮ	*wrin(Ɂ *win(Ɂ
+霣	yǔn2	jiwenᴮ	winᴮ	*wrin(Ɂ *win(Ɂ
+孕	yùn1	jiəŋᶜ	jiŋᶜ	*ləŋh
+𣎜	shèng	dźjəŋᶜ	źiŋᶜ	*m-ləŋh
+運	yùn2	juənᶜ	wunᶜ	*wəns
+暈	yùn2	juənᶜ	wunᶜ	*wəns
+蘊	yùn4	Ɂjuənᴮ/ᶜ	Ɂunᴮ Ɂunᶜ	*ɁunɁ/s
+薀	yùn4	Ɂjuənᴮ/ᶜ	Ɂunᴮ Ɂunᶜ	*ɁunɁ/s
+韞	yùn	Ɂjuənᴮ	Ɂunᴮ	*ɁunɁ
+慍	yùn	Ɂjuənᶜ	Ɂunᶜ	*Ɂunh
+災	zāi1	tsậi	tsə	*tsə̂
+栽	zāi2	tsậi	tsə	*tsə̂NEW_ENTRYzài	dzậiᶜ	dzəᶜ	*dzə̂h
+哉	zāi2	tsậi	tsə	*tsə̂
+載	zài3	tsậiᶜ	tsəᶜ	*tsə̂hNEW_ENTRYzǎi			NEW_ENTRYzài2	tsậiᶜ	tsəᶜ	*tsə̂hNEW_ENTRYzài	dzậiᶜ	dzəᶜ	*dzə̂hNEW_ENTRYzài3			NEW_ENTRYzǎi	tsậiᴮ	tsəᴮ	*tsə̂Ɂ
+在	zài1	dzậiᴮ	dzəᴮ	*dzə̂Ɂ
+仔	zī	tsi[ᴮ]	tsiə tsiəᴮ	*tsəɁ *tsəNEW_ENTRYzī1		tsiə tsiəᴮ	
+再	zài4	tsậiᶜ	tsəᶜ	*tsə̂h
+茲	zī	tsi	tsi	*tsəNEW_ENTRYzī4			
+簪	zān	tsậm,tṣjəm	tṣəm tsəm	*tsrəm
+譖	zèn	tṣjəmᶜ	tṣəmᶜ	*tsrəmsNEW_ENTRYzèn			
+臧	zāng	tsâŋ	tsɑŋ	*tsâŋ
+傮	zāo1			NEW_ENTRYzāo	tsâu	tsou	*tsû
+遭	zāo2	tsâu	tsou	*tsû
+綜	zòng	tsuoŋᶜ	tsuŋᶜ	*tsûŋhNEW_ENTRYzòng3			
+卒	zú	tsuət	tsuət	*tsûtNEW_ENTRYzú1	tsjuet	tsut tsuit	*tsutNEW_ENTRYzú2			
+早	zǎo1	tsâuᴮ	tsouᴮ	*tsûɁ
+蚤	zǎo2	tsâuᴮ	tsouᴮ	*tsûɁ
+澡	zǎo3	tsâuᴮ	tsɑuᴮ	*tsâuɁ
+皂	zào1	dzâuᴮ	dzouᴮ	*dzûɁ
+則	zé1	tsək	tsək	*tsə̂k
+責	zé2	tṣɛk	tṣɛk	*tsrêk
+債	zhài	tṣaiᶜ	tṣaiᶜ	*tsrekhNEW_ENTRYzhài1			
+擇	zé3	ḍɐk	ḍak	*d-lak
+笮	zé5	tṣɐk	tṣak	*tsrâk
+矠	zé6	dẓɛk	dẓɛk	*dzrêk
+賊	zéi	dzək	dzək	*dzə̂k
+曾	zēng	tsəŋ	tsəŋ	*tsə̂ŋ
+增	zēng	tsəŋ	tsəŋ	*tsə̂ŋ
+憎	zēng	tsəŋ	tsəŋ	*tsə̂ŋ
+橧	zēng	tsəŋ	tsəŋ	*tsə̂ŋ
+甑	zèng			NEW_ENTRYzèng	tsjəŋ	tsiŋ	*tsəŋ
+奓	zhā	ṭa	ṭai	*trâi
+札	zhá	tṣăt	tṣɛt	*tsrə̂t
+瘵	zhài	tṣăiᶜ	tṣɛs	*tsrêtsNEW_ENTRYzhài3			
+廌	zhài2			NEW_ENTRYzhì25 zhài	ḍjeᴮ,ḍaiᴮ	ḍɛᴮ	*dreɁ
+占	zhān1	tśjäm	tśam	*tem
+瞻	zhān	tśjäm	tśam	*tjam *tam *tiam) (actually
+沾	zhān2	ṭjäm	ṭam	*tram *trem
+霑	zhān2	ṭjäm	ṭam	*tram *trem
+展	zhǎn1	ṭjänᴮ	ṭɑnᴮ	*tranɁNEW_ENTRYzhàn	ṭjänᶜ	ṭɑnᶜ	*trans
+斬	zhǎn2	tṣămᴮ	tṣɛmᴮ	*tsrâmɁ
+棧	zhàn4	dẓănᴮ/ᶜ,dẓanᴮ	dẓanᴮ dẓɛnᶜ dẓɛnᴮ	*dzrânɁ
+站	zhàn5			
+張	zhāng1	ṭjaŋ	ṭɑŋ	*traŋNEW_ENTRYzhàng	ṭjaŋᶜ	ṭɑŋᶜ	*traŋhNEW_ENTRYzhàng5			
+帳	zhàng	ṭjaŋᶜ	ṭɑŋᶜ	*traŋhNEW_ENTRYzhàng5			
+章	zhāng3	tśjaŋ	tśɑŋ	*taŋ
+獐	zhāng4	tśjaŋ	tśɑŋ	*taŋ *kiaŋ
+丈	zhàng1	ḍjaŋᴮ	ḍɑŋᴮ	*draŋɁNEW_ENTRYzhàng2	ḍjaŋᴮ	ḍɑŋᴮ	*draŋɁ
+杖	zhàng3	ḍjaŋᴮ	ḍɑŋᴮ	*draŋɁNEW_ENTRYzhàng	ḍjaŋᶜ	ḍɑŋᶜ	*draŋh
+障	zhàng4	tśjaŋ[ᶜ]	tśɑŋᶜ	taŋh
+鉊	zhāo1 jiāo	tśjäu,kieu	keu kiau tśau	*kiau
+招	zhāo2			NEW_ENTRYzhāo	tśjäu	tśau	*tau
+昭	zhāo3	tśjäu	kiau tśau	*kiauNEW_ENTRYzhǎo3			
+炤	zhào4	tśjäuᶜ	kiauᶜ tśauᶜ	*kiauhNEW_ENTRYzhào3			
+照	zhào4	tśjäuᶜ	kiauᶜ tśauᶜ	*kiauhNEW_ENTRYzhào3			
+爪	zhǎo1	tṣauᴮ	tṣauᴮ	*tsrûɁ
+找	zhǎo2			
+召	zhào1	ḍjäuᶜ	ḍɑuᶜ	*drauh
+詔	zhào	tśjäuᶜ	tśauᶜ	*tauhNEW_ENTRYzhào2			
+兆	zhào4	ḍjäuᴮ	ḍɑuᴮ	*d-lauɁ
+濯	zhào5			NEW_ENTRYzhuó11	ḍåk	ḍɔk	*d-liaukNEW_ENTRYzhào	ḍauᶜ	ḍauᶜ	*d-liaukh
+著	zhē	ṭjak,ḍjak		NEW_ENTRYzhù13	˘ṭjwoᶜ	ṭɑᶜ	*trakhNEW_ENTRYzhuó	ṭjak	ṭɑk	*trakNEW_ENTRYzhuó	ḍjak	ḍɑk	*drakNEW_ENTRYzhuó14			
+耴	zhé1	ṭjäp	ṭɑp	*trap
+折	zhé2	tśjät	tśat	*tetNEW_ENTRYshé	źjät	dźat	*det
+疹	zhěn2	ṭʰjenᶜ	ṭʰinᶜ	*thrəns *rhəns
+畛	zhěn3	tśjen[ᴮ]	tśinᴮ	*tənɁ
+紾	zhěn4			
+朕	zhèn1	ḍjəmᴮ	ḍimᴮ	*drəmɁ *drəŋɁ
+震	zhèn2	tśjenᶜ	tśinᶜ	*tənsNEW_ENTRYzhèn2a	tśjenᶜ	tśinᶜ	*təns
+娠	zhèn3 shēn	tśjenᶜ,śjen	tśin	*tənsNEW_ENTRYzhèn4			
+侲	zhèn4			
+正	zhēng1			NEW_ENTRYzhèng1	tśjäŋᶜ	tśeŋᶜ	*teŋhNEW_ENTRYzhēng	tśjäŋ	tśeŋ	*teŋ
+征	zhēng1			NEW_ENTRYzhēng	tśjäŋ	tśeŋ	*teŋ
+爭	zhēng2	tṣɛŋ	tṣɛŋ	*tsrêŋ
+整	zhěng2			NEW_ENTRYzhěng2	tśjäŋᴮ	tśeŋᴮ	*teŋɁ
+證	zhèng2	tśjəŋᶜ	tśiŋᶜ	*təŋh
+之	zhī1	tśi	tśə	*təNEW_ENTRYzhī2	tśi	tśə	*tə *tiə
+志	zhì	tśiᶜ	tśəᶜ	*təhNEW_ENTRYzhì12			
+止	zhǐ	tśiᴮ	tśəᴮ	*təɁNEW_ENTRYzhǐ1			
+趾	zhǐ	tśiᴮ	tśəᴮ	*təɁNEW_ENTRYzhǐ1			
+汁	zhī3	tśjəp	kip	*kip
+支	zhī4	tśjie 4	kie	*ke
+枝	zhī4	tśjie 4	kie	*ke
+肢	zhī4	tśjie 4	kie	*ke
+知	zhī5	ṭje	ṭe	*tre
+智	zhì	ṭjeᶜ	ṭeᶜ	*treh
+隻	zhī6	tśjäk	tśek	*tek
+只	zhǐ3	tśjeᴮ	tśeᴮ	*teɁNEW_ENTRYzhǐ3			
+桎	zhī8	tśjet	tśit	*tit
+祗	zhī9	tśi	tśi	*ti
+脂	zhī10	tśi	tśi	*ki
+遲	zhī11	ḍi	ḍi	*driNEW_ENTRYzhì	ḍiᶜ	ḍiᶜ	*drihNEW_ENTRYzhì29			
+織	zhī12	tśjək	tśik	*təkNEW_ENTRYzhì	tśiᶜ	tśəᶜ	*təkhNEW_ENTRYzhì33			
+直	zhí1	ḍjək	ḍik	*drəkNEW_ENTRYzhí2	ḍjək	ḍik	*drək
+職	zhí	tśjək	tśik	*təkNEW_ENTRYzhí8	tśjək	tśik	*təkNEW_ENTRYzhí9			
+值	zhí3			NEW_ENTRYzhì20			NEW_ENTRYzhí	ḍiᶜ	ḍəᶜ	*drəkh
+殖	zhí3			NEW_ENTRYzhí	źjək	dźik	*dək
+植	zhí3		dźik ḍəᶜ	NEW_ENTRYzhì21	źjək,ḍiᶜ	dźik ḍəᶜ	*dək *drəkhNEW_ENTRYzhí	ḍiᶜ	dźik ḍəᶜ	*drəkhNEW_ENTRYzhí	źjək	dźik ḍəᶜ	*dək
+稙	zhí3		dźik ḍəᶜ	NEW_ENTRYzhí	ṭjək	ṭik	*trək
+姪	zhí4	diet,ḍjet	ḍet det	*lît *d-lit
+執	zhí5	tśjəp	tśip	*təp
+摯	zhì	tśiᶜ	tśiᶜ	*təpsNEW_ENTRYzhì27			
+鷙	zhì	tśiᶜ	tśiᶜ	*təpsNEW_ENTRYzhì27			
+縶	zhí6	ṭjəp	ṭip	*trəp
+馽	zhí6	ṭjəp	ṭip	*trəp
+蟄	zhí7	ḍjəp	ḍip	*drəp
+樴	zhí10 dé			NEW_ENTRYzhí dé	tśjək	tśik	*tək
+沚	zhǐ2			NEW_ENTRYzhǐ	tśiᴮ	tśəᴮ	*təɁ
+旨	zhǐ4	tśiᴮ	kiᴮ	*kiɁ
+厎	zhǐ7			NEW_ENTRYzhǐ	tśiᴮ	tśiᴮ	*tiɁ
+紙	zhǐ8	tśieᴮ	tśiɑiɁ kiɑiɁ	
+黹	zhǐ9	ṭiᴮ	ṭiᴮ	*triɁ
+紩	zhì	ḍjet	ḍit	*dritNEW_ENTRYzhì23			
+緻	zhì	ḍiᶜ	ḍis	*dritsNEW_ENTRYzhì32			
+至	zhì1	tśiᶜ	tśis	*tits
+致	zhì	ṭiᶜ	ṭis	*trits
+蛭	zhì2	tśjet,ṭjet,tiet,ṭjäiᶜ	tet tśit ṭit	*tit
+輊	zhì3	ṭiᶜ	ṭis	*trits
+銍	zhì4	ṭjet	ṭit	*trit
+窒	zhì5	ṭjet,tiet	ṭit	*trit
+膣	zhì6	ṭjet,tiet		
+陊	zhì7	ḍjieᴮ	ḍeᴮ	*d-laiɁ
+忮	zhì10	tśieᶜ	kieᶜ	*keh
+痣	zhì13	tśiᶜ	tśəᶜ kiəᶜ	
+陟	zhì15	ṭjək	ṭik	*trək
+躓	zhì	ṭiᶜ	ṭis	*trətsNEW_ENTRYzhì19		ṭis	
+懥	zhì17	tśiᶜ,ṭʰiᶜ	ṭʰis tśis	*tits *thrits
+懫	zhì17	tśiᶜ,ṭʰiᶜ	ṭʰis tśis	*tits *thrits
+質	zhì18	tśjet	tśit	*tət
+置	zhì22	ṭiᶜ	ṭəᶜ	*trəkh
+彘	zhì24	ḍjäiᶜ	ḍas	*d-lats
+雉	zhì26	ḍjiᴮ	ḍiᴮ	*driɁ
+贄	zhì28			
+制	zhì30	tśjäiᶜ	tśas	*tats *tas *kias *kiats
+製	zhì30	tśjäiᶜ	tśas	*tats *tas *kias *kiats
+仲	zhòng	ḍjuŋᶜ	ḍuŋᶜ	*druŋh
+忠	zhōng2	ṭjuŋ	ṭuŋ	*truŋ
+妐	zhōng3	tśjuŋ	tśuŋ	*tuŋ *C-juŋ
+終	zhōng4	tśjuŋ	tśuŋ	*tuŋ
+螽	zhōng5	tśjuŋ	tśuŋ	*tuŋ *C-juŋ
+冢	zhǒng1	ṭjwoŋᴮ	ṭoŋᴮ	*troŋɁ
+塚	zhǒng1	ṭjwoŋᴮ	ṭoŋᴮ	*troŋɁ
+種	zhǒng2	tśjwoŋᴮ	tśoŋᴮ	*toŋɁNEW_ENTRYzhòng	tśjwoŋᶜ	tśoŋᶜ	*toŋh
+腫	zhǒng3	tśjwoŋᴮ	tśoŋᴮ	*toŋɁ
+踵	zhǒng3	tśjwoŋᴮ	tśoŋᴮ	*toŋɁ
+尰	zhòng	źwoŋᴮ	dźoŋᴮ	*doŋɁNEW_ENTRYzhòng3			
+湩	zhòng2	ṭjwoŋᶜ,tuŋᶜ	toŋᶜ ṭoŋᶜ	*troŋh *tôŋh
+眾	zhòng4	tśjuŋᶜ	tśuŋ	*tuŋh (*tiuŋh)
+舟	zhōu1	tśjəu	tśu	*tu
+輈	zhōu	ṭjəu	ṭu	*tru
+洲	zhōu2	tśjəu	tśu	*tu
+渚	zhǔ	tśjwoᴮ	tśɑᴮ	*taɁNEW_ENTRYzhǔ5			
+周	zhōu3	tśjəu	tśu	*tiuNEW_ENTRYzhōu4	tśjəu	tśu	*tiu
+粥	zhōu5	tśjuk	tśuk	*tuk
+皺	zhōu6	tṣjəu	tṣu	*tsru
+縐	zhòu	tṣjəuᶜ	tṣuᶜ	*tsruhNEW_ENTRYzhòu7			
+肘	zhǒu1	ṭjəuᴮ	ṭuᴮ	*truɁ
+帚	zhǒu2			
+祝	zhòu1			NEW_ENTRYzhù	tśjuk	tśuk	*tukNEW_ENTRYzhù10	tśjuk	tśuk	*tukNEW_ENTRYzhòu	tśjəuᶜ	tśuᶜ	*tukhNEW_ENTRYzhù11	tśjuk	tśuk	*tuk
+晝	zhòu2	˘ṭjəuᶜ	ṭuᶜ	*truh *trukh
+酎	zhòu5			
+啄	zhòu6			*trôk *tôs *tôh *trohNEW_ENTRYzhuó	ṭåk,tuk	tok ṭɔk	*trôk *tôs *tôh *trohNEW_ENTRYzhòu	təuᶜ,ṭjəuᶜ	ṭuᶜ toᶜ	*trôk *tôs *tôh *trohNEW_ENTRYzhuó7			*trôk *tôs *tôh *troh
+咮	zhòu6			*tôks *tôs *tôh *trohNEW_ENTRYzhòu	təuᶜ,ṭjəuᶜ	ṭuᶜ toᶜ	*tôks *tôs *tôh *troh
+朱	zhū1	tśju	tśo	*to
+豬	zhū4	ṭjwo	ṭɑ	*tra
+竹	zhú1	ṭjuk	ṭuk	*truk
+逐	zhú2	ṭjuk	ḍuk	*druk
+燭	zhú3	tśjwok	tśok	*tok
+躅	zhú4	ḍjwok	ḍok	*drok
+住	zhù	ḍjuᶜ	ḍoᶜ	*droh *drokhNEW_ENTRYzhù8			
+築	zhú5	ṭjuk	ṭuk	*truk
+主	zhǔ1	tśjuᴮ	tśoᴮ	*toɁ
+拄	zhǔ2			NEW_ENTRYzhǔ	ṭjuᴮ	ṭoᴮ	*troɁ
+麈	zhǔ3	tśjuᴮ	tśoᴮ	*toɁ
+煮	zhǔ4	tśjwoᴮ	tśɑᴮ	*taɁ
+貯	zhǔ6	ṭjwoᴮ	ṭɑᴮ	*traɁ
+褚	zhǔ6	ṭjwoᴮ	ṭɑᴮ	*traɁ
+斸	zhǔ7	ṭjwok	ṭok	*trok
+斲	zhuó	ṭåk	ṭɔk	*trôkNEW_ENTRYzhuó13			
+䐁	zhuó	ṭjuk		
+佇	zhù2			NEW_ENTRYzhù	ḍjwoᴮ	ḍɑᴮ	*draɁ
+羜	zhù3	ḍjwoᴮ	ḍɑᴮ	*draɁ
+苧	zhù4	ḍjwoᴮ	ḍɑᴮ	*draɁ
+紵	zhù4	ḍjwoᴮ	ḍɑᴮ	*draɁ
+注	zhù5	tśjuᶜ,ṭjuᶜ	tśoᶜ ṭoᶜ	*toh *trohNEW_ENTRYzhù6	tśjuᶜ,ṭjuᶜ	tśoᶜ ṭoᶜ	*toh *trohNEW_ENTRYzhù7	tśjuᶜ,ṭjuᶜ	tśoᶜ ṭoᶜ	*toh *troh
+鑄	zhù	tśjuᶜ	tśoᶜ	*tohNEW_ENTRYzhù16			
+柱	zhù9	ḍjuᴮ	ḍoᴮ	*droɁ
+禂	dǎo	tâuᴮ/ᶜ	touᶜ touᴮ	*tûɁ/h
+助	zhù12	dẓjwoᶜ	dẓɑᶜ	*dzrah
+囃	zhù	ḍjwoᴮ	ḍɑᴮ	*draɁ
+箸	zhù14	ḍjwoᶜ	ḍɑᶜ	*drah
+抓	zhuā	tṣauᴬ/ᴮ/ᶜ	tṣauᴮ tṣauᶜ	*tsrûɁ/h
+專	zhuān	tśjwän	tśon	*ton
+轉	zhuǎn1	ṭjwänᴮ	ṭonᴮ ṭuanᴮ	*tron
+狀	zhuàng1	dẓjaŋᶜ	dẓɑŋᶜ	*dzraŋh
+鵻	zhuī1	tświ	tśui	*tui
+騅	zhuī1	tświ	tśui	*tui
+追	zhuī2	ṭwi	ṭui	*trui
+墜	zhuì1	ḍwiᶜ	ḍus	*drus
+贅	zhuì3			NEW_ENTRYzhuì	tśjwäiᶜ	tśuas tśos	*tots
+卓	zhuō2	ṭåk	ṭɔk	*trâuk
+勺	zhuó1			NEW_ENTRYzhuó	tśjak	tśɑk	*kiaukNEW_ENTRYsháo	źjak	dźɑk	*diauk
+酌	zhuó1			NEW_ENTRYzhuó	tśjak	tśɑk	*kiauk
+灼	zhuó3	tśjak	tśauk tśɑk	*tiauk
+斫	zhuó4	tśjak	tśɑk	*tauk
+椓	zhuó6			
+梲	zhuó9	tśjwät	tśuat tśot	*tot
+綴	zhuó10 zhuì	ṭjwät,ṭjwäiᶜ	ṭot ṭos ṭuas ṭuat	*trot *trots
+滋	zī2			
+玆	zī3			NEW_ENTRYzī	tsi	tsiə	*tsə
+資	zī7	tsi	tsi	*tsəi *tsi
+菑	zī8	tṣi	tṣiə	*tsrəNEW_ENTRYzī zì	tṣiᶜ	tṣiəᶜ	*tsrəhNEW_ENTRYzì6			
+椔	zī zì	tṣiᶜ	tṣiəᶜ	*tsrəhNEW_ENTRYzì6			
+緇	zī	tṣi	tṣiə	*tsrəNEW_ENTRYzī9			
+子	zǐ1	tsiᴮ	tsiəᴮ	*tsəɁNEW_ENTRYzì	tsiᶜ	tsiəᶜ	*tsəh
+孳	zì	dziᶜ	dziəᶜ	*dzəhNEW_ENTRYzì2			
+字	zì	dziᶜ	dziəᶜ	*dzəhNEW_ENTRYzì2			
+耔	zǐ2			NEW_ENTRYzǐ	tsiᴮ	tsiəᴮ	*tsəɁ
+姊	zǐ3	tsiᴮ	tsiᴮ	*tsiɁ
+自	zì1	dziᶜ	dziᶜ	*dzih
+剚	zì4	tṣiᶜ	tṣiəᶜ	*tsrəh
+宗	zōng1	tsuoŋ	tsouŋ	*tsûŋ
+陬	zōu1	tsəu,tsju	tso tsio	*tso
+騶	zōu2	tṣjəu	tṣu	*tsroNEW_ENTRYzòu	dẓjəuᶜ	dẓuᶜ	*dzrohNEW_ENTRYzòu2			
+走	zǒu	tsəuᴮ	tsoᴮ	*tsôɁ.
+奏	zòu	tsəuᶜ	tsoᶜ	*tsôhNEW_ENTRYzòu1			
+驟	zòu	dẓjəuᶜ	dẓuᶜ	*dzrohNEW_ENTRYzòu2			
+足	zú3	tsjwok	tsiok	*tsokNEW_ENTRYzú4	tsjwok	tsiok	*tsok
+祖	zǔ	tsuoᴮ	tsɑᴮ	*tsâɁ
+鑽	zuān	tsuân	tson tsuɑn	*tsôn
+嘴	zuǐ	tswieᴮ ?		
+觜	zuǐ zī	tswieᴮ,tsie	tsie tsyeᴮ	*tsoiɁ *tse *tsai
+醉	zuì1	tswiᶜ	tsuis tsus	*tsuts
+罪	zuì3	dzuậiᴮ	dzuəiᴮ	*dzûiɁ
+尊	zūn	tsuən	tsuən	*tsûn
+撙	zǔn	tsuənᴮ	tsuənᴮ	*tsûnɁ
+昨	zuó	dzâk	dzɑk	*dzâk
+左	zuǒ	tsâᴮ	tsɑiᴮ	*tsâiɁNEW_ENTRYzuǒ	tsâᶜ	tsɑiᶜ	*tsâih
+佐	zuǒ	tsâᶜ	tsɑiᶜ	*tsâihNEW_ENTRYzuò1			
+坐	zuò2	dzuâᴮ	dzoiᴮ dzuɑiᴮ	*dzôiɁNEW_ENTRYzuò	dzuâᶜ	dzuɑiᶜ dzoiᶜ	*dzôih
+作	zuò3	tsâk	tsɑk	*tsâk
+鑿	zuò5 záo	dzâk	dzɑk dzɑuk	*dzâukNEW_ENTRYzào	dzâuᶜ	dzɑuᶜ	
+婀				
+鞅				
+菴			ʔəm ʔɨam	
+鴨				
+姶				
+魔				
+毎			məʔ	
+煩			buan	
+歩			bɑh	
+矛			mu	
+鶩			muoh	
+縻			mɨe	
+陁			ḍiaiʔ	
+騨			dɑi dan	
+娜				
+嚢			nɑŋ naŋ	
+儾			nɑŋ	
+弾			dan	
+埿			nei neiʔ neih	
+耐			nəh	
+旎			ṇe	
+膩			ṇis	
+縢			dəŋ	
+杼			ḍiɑʔ	
+藤			dəŋ	
+迺			nəʔ	
+砮			nɑ naʔ	
+曇			dəm	
+埃			iə	
+榎			kah	
+朴			pok	
+蛾			ŋɑi	
+峨			ŋai	
+碍			ŋəh	
+皚				
+祇			kie ɡɨi gɨi	
+𡺸			ɡɨ	
+碁			ɡɨə	
+馭			ŋîɑ	
+娯			ŋyɑ ŋuɔ	
+虞			ŋyɑ	
+誤			ŋuɑh ŋuoh	
+呉			ŋuɑ ŋuɔ	
+霓			ŋe ŋet	
+異			jəh	
+怡			jə	
+印			ʔinh	
+壹			ʔit	
+迦			ka	
+訶			hɑi	
+哥			kɑi	
+珂			khɑi	
+伽			ɡa	
+舸			khɑi	
+髪			puɑt	
+韓			ɡan	
+葛			kɑt	
+擧			kɨɑʔ	
+該			kə	
+慨			khəh	
+概			kəh	
+凱			khəi	
+愷			khəi	
+笥			siəh	
+枳			kieʔ	
+棄			khis	
+伎			kie	
+許			hɨɑ	
+虚			hɨɑ	
+莒			kɨɑʔ	
+垝			kyaiʔ	
+玖			ku kɨu	
+倶			kɨo	
+絇			ɡɨo	
+窶			ɡuo	
+屨			kuo	
+菊			kuk	
+綺			khʔaiʔ	
+黄			ɣuaŋ	
+觚			kua kuɔ	
+祜			ɡɑʔ ɡɔʔ	
+鷄			ke	
+啓			kheiʔ	
+滿			manʔ	
+眞			tśin	
+幕			mak	
+茂			muh	
+藻			tsauʔ	
+裙			ɡun	
+没			muət	
+模			ma mɔ	
+无			mua	
+鵡			muaʔ	
+儛			muɑʔ	
+咩				
+冉			ńamʔ	
+禰			neʔ	
+嶺			lieŋʔ	
+貳			ńis ńih	
+儞			neʔ	
+瓊			ɡyeŋ	
+廼			nəʔ	
+笶			śiʔ	
+箆			bi bei	
+沼			tśauʔ	
+潤			ńuinh	
+淤			ʔɨɑ	
+音			ʔɨm	
+磤				
+乙			ʔɨt	
+伴			phanh	
+叵				
+絆			panh	
+泊			bak	
+盤			ban	
+者			tśaʔ	
+閇			pes pet	
+俳			bɛi	
+珮			bəh	
+戸			ɡɑʔ ɡɔ	
+缻				
+檜			kuɑs kuat	
+氷			pɨŋ	
+費			phus	
+袍			bou	
+焰			ziam zim	
+赴			phuoh	
+経			keŋ keŋh	
+歴			lek	
+斐			phuiʔ	
+祕			pɨs	
+樋				
+菩			bo	
+譜				
+褒			pou	
+辧			bɨanh	
+覇			pah phak	
+幣			bias	
+陛			beiʔ	
+鼙			be	
+鞞			pieʔ	
+邏			lɑi lɑ	
+良			liaŋ	
+莨			lɑŋ	
+囉			lɑi lɑ	
+攞			lɑi lɑ	
+𡤢				
+𧟌				
+戻			let les	
+黎			lei	
+隣			lin	
+唎				
+侶			liɑʔ	
+閭			lia	
+稜			lɨŋ	
+綾			lɨŋ	
+琉				
+瑠				
+屢			lioh	
+樓			lo	
+娑			sai	
+舎			śaʔ śah	
+紗				
+瑳			tshɑiʔ	
+尺			tśhak	
+戔			dzan	
+贊			tsanh	
+讃			tsanh	
+匝			tsəp	
+薩				
+瀬			lɑs	
+湍			thuɑn	
+迫			pak	
+紫			tsieʔ	
+寺			ziəh	
+偲			siə	
+璽			sieʔ	
+始			śəʔ	
+伺			siə siəh	
+絁			śɑi	
+洎				
+爲			wɑi wai	
+磯			kɨi	
+鍾			tśoŋ	
+鐘			tśoŋ	
+餝			śɨk	
+拭			śɨk	
+噌			səŋ	
+僧			səŋ	
+贈			dzəŋh	
+州			tśu	
+珠			tśo	
+衆			tśuŋh	
+蒭			tṣho	
+樔			dẓau	
+簀			tṣɛk	
+淑			dźuk	
+駿			tsuinh	
+託			thak	
+陀			dai	
+柁			ṭiaiʔ	
+柂			ṭiaiʔ	
+駄				
+宕			daŋh	
+倓			dam damh	
+塔			thap	
+鞮			te de	
+弖			teiʔ	
+諦			teh	
+點			temʔ	
+笞			ṭhiə	
+馳			ḍiai	
+鎭			ṭin	
+茅			mɔu	
+敕			ṭhɨk	
+秩			ḍit	
+鄧			dəŋh	
+迹			tsiak	
+徳			tək	
+菟			thɑ thɔ tha	
+屠			da	
+覩			tɑʔ	
+筑			ṭuk	
+竺			touk	
+妬			tah	
+杜			dɑʔ	
+聰			tshoŋ	
+鋭			juas	
+砥			tśiʔ	
+礪			lias	
+汚			ʔua	
+兎			thɔ	
+鵜			dei	
+卯			mɔuʔ	
+鸕			lɑ	
+倭			ʔyai	
+涴			ʔuan	
+丸			ɣuan	
+穢			ʔyas	
+衞			was wah	
+佪			ɣuəi	
+廻			ɣuəi	
+慧			ɣues ɣueh	
+隈			ʔuəi	
+座			dzuɑih dzuɑiʔ	
+咲			tshiauh siauh	
+韋			wui	
+偉			wiuʔ	
+猪			tra	
+藺			linh	
+袁			wan	
+弘			ɣuəŋ	
+嗚			ʔa	
+惋			ʔuanʔ	
+綬			dźuh	
+峽			ɡɛp	
+𠮧			keuh	
+益			ʔiek	
+耶			ja	
+椰				
+揶				
+瑘				
+箭			tsianh	
+叡			juas	
+遥			jau	
+穎			weŋʔ	
+預			jaʔ	
+喩			joh	
+瑜			jo	
+庾			joʔ	
+𠰩			joŋh	
+奢			śa	
+蔵			dzɑŋ	
+謝			ziah	
+奘			dẓɑŋh	
+裝			dẓɑŋh	
+蹔				
+敍			ziɑʔ	
+鐏			dzuənh	
+儒			ńo	
