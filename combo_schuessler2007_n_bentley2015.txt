@@ -1,5 +1,5 @@
-wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
-#important: data types (pinyin, qy_ipa, etc.) are tab (\t) separated.'NEW_ENTRY' separates different sets of pronunciation for the same character.
+wf_grapʰ	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
+#important: data types (pinyin, qy_ipa, etc.) are tab (\t) separated.'NEW_ENTRY' separates different sets of pronunciation for tʰe same character.
 鵠	hú gǔ	ɣuok kuok	gouk kouk	gûk kûk
 飾	shì	śjək	śɨk	lhək
 葵	kuí	gwi	gwi	gwi
@@ -55,7 +55,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 隩	ào1	Ɂâuᶜ	Ɂouᶜ	*Ɂûkh
 傲	ào2	ngâuᶜ	ŋɑuᶜ	*ŋâuh
 八	bā1	pwăt	pɛt	*prêt
-巴	bā2	pa	pa	*prâNEW_ENTRYchōng4	tśʰjwoŋ	tśʰoŋ	*thoŋ
+巴	bā2	pa	pa	*prâNEW_ENTRYchōng4	tśʰjwoŋ	tśʰoŋ	*tʰoŋ
 笆	bā3	baᴮ,pa		NEW_ENTRYbā	pa		
 疤	bā4	pa	pa	
 豝	bā5	pa	pa	*prâ
@@ -71,7 +71,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 爸	bà-bà			
 莇	bà1	paᶜ		
 罷	bà2	baiᴮ	baiᴮ	*brêɁNEW_ENTRYpí7	bje 3	biɑi	*bai
-霸	bà3			NEW_ENTRYbà	paᶜ	paᶜ	*prâkhNEW_ENTRYpò5	pʰɐk	pʰak	*phrâkNEW_ENTRYpò6			
+霸	bà3			NEW_ENTRYbà	paᶜ	paᶜ	*prâkhNEW_ENTRYpò5	pʰɐk	pʰak	*pʰrâkNEW_ENTRYpò6			
 白	bái1	bɐk	bak	*brâk
 百	bǎi1	pɐk	pak	*prâkNEW_ENTRYdèng	təŋᶜ	təŋᶜ	*tə̂ŋh
 捭	bǎi2	paiᴮ	pɛᴮ	*prêɁNEW_ENTRYbò6			
@@ -86,7 +86,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 昄	bǎn2	pwanᴮ,bwanᴮ	panᴮ banᴮ	*prânɁ *brânɁ
 半	bàn1	puânᶜ	pɑnᶜ	*pâns
 判	pàn	pʰuânᶜ	pʰɑnᶜ	*pʰânsNEW_ENTRYpàn2			
-片	pàn	pʰuânᶜ	pʰɑnᶜ	*pʰânsNEW_ENTRYpàn2			NEW_ENTRYpiàn	pʰienᶜ	pʰenᶜ	*phênsNEW_ENTRYpiàn			
+片	pàn	pʰuânᶜ	pʰɑnᶜ	*pʰânsNEW_ENTRYpàn2			NEW_ENTRYpiàn	pʰienᶜ	pʰenᶜ	*pʰênsNEW_ENTRYpiàn			
 泮	pàn	pʰuânᶜ	pʰɑnᶜ	*pʰâns
 畔	pàn	buânᶜ	bɑnᶜ	*bânsNEW_ENTRYpàn3			
 釆	bàn2 biàn	bănᶜ,bjänᶜ 3 [Shiwen]	bɛnᶜ bɨanᶜ	*brens
@@ -103,7 +103,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 艕	bàng3 huáng			NEW_ENTRYbàng huáng	pwâŋᶜ,Ɣwâŋ		
 艎	bàng3 huáng			NEW_ENTRYbàng huáng	pwâŋᶜ,Ɣwâŋ		
 包	bāo1	pau	pɔu	*prû
-胞	bāo2	pau,pʰau	pɔu	*prû *phrû
+胞	bāo2	pau,pʰau	pɔu	*prû *pʰrû
 剝	bāo3	påk	pɔk	*prôk.NEW_ENTRYbō3			
 保	bǎo1	pâuᴮ	pouᴮ	*pûɁ
 葆	bǎo1	pâuᴮ	pouᴮ	*pûɁ
@@ -117,9 +117,9 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 庳	bì	bjieᴮ 4	bieᴮ	*beɁNEW_ENTRYbì21			
 婢	bì	bjieᴮ 4	bieᴮ	*beɁNEW_ENTRYbèi8			NEW_ENTRYbì21			
 惇	bēi2 bī	pje 3	piɑi	*paiNEW_ENTRYbì	pjeᶜ 3	piɑiᶜ	*paihNEW_ENTRYbì14			NEW_ENTRYdūn1	tuən	tuən	*tûnNEW_ENTRYzhūn2			
-頗	pō	pʰuâ	pʰɑi	*phâiNEW_ENTRYpō			
-坡	pō	pʰuâ	pʰɑi	*phâiNEW_ENTRYpō			
-僻	pì	pʰjiäk 4	pʰiek	*phek phai-k)NEW_ENTRYpì2			
+頗	pō	pʰuâ	pʰɑi	*pʰâiNEW_ENTRYpō			
+坡	pō	pʰuâ	pʰɑi	*pʰâiNEW_ENTRYpō			
+僻	pì	pʰjiäk 4	pʰiek	*pʰek pʰai-k)NEW_ENTRYpì2			
 避	bì	bjieᶜ 4	bieᶜ	*bekh *bai-ks)NEW_ENTRYbì18			
 杯	bēi3	puậi	pə	*pə̂
 桮	bēi3	puậi	pə	*pə̂
@@ -133,13 +133,13 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 培	péi	buậi	bə bəuᴮ	*bə̂NEW_ENTRYpǒu	bù	bə bəuᴮ	boᴮNEW_ENTRYpéi		bə bəuᴮ	NEW_ENTRYpǒu		bə bəuᴮ	
 裒	póu	bəu	bo	*bô *bə̂NEW_ENTRYpóu			
 備	bèi5	bjiᶜ 3	biəᶜ	*brəh
-被	bèi6	bjieᴮ/ᶜ 3	biɑiᴮ biɑiᶜ	*baiɁ/hNEW_ENTRYpī	pʰjie 3	pʰiɑi	*phaiNEW_ENTRYpì	pʰjieᶜ 3	pʰiɑiᶜ	*phaih
+被	bèi6	bjieᴮ/ᶜ 3	biɑiᴮ biɑiᶜ	*baiɁ/hNEW_ENTRYpī	pʰjie 3	pʰiɑi	*pʰaiNEW_ENTRYpì	pʰjieᶜ 3	pʰiɑiᶜ	*pʰaih
 背	bèi9			NEW_ENTRYbèi	buậiᶜ	bəᶜ	*bə̂kh *bə̂ɁhNEW_ENTRYbèi	puậiᶜ	pəᶜ	*pə̂kh
 奔	bēn1	puən	pən	*pə̂n
 賁	bēn2	puən	pən	*pə̂n
 本	běn	puənᴮ	pənᴮ	*pə̂nɁ
 笨	bèn	puənᶜ		
-伻	bēng1			NEW_ENTRYpēng	pʰɛŋ	pʰɛŋ	*phrêŋ
+伻	bēng1			NEW_ENTRYpēng	pʰɛŋ	pʰɛŋ	*pʰrêŋ
 崩	bēng2	pəŋ	pəŋ	*pə̂ŋ.NEW_ENTRYwú	mjuət,xuət	mut huət	*mət *hmə̂t *hmət
 繃	bēng3			NEW_ENTRYbēng	pɛŋ	pɛŋ	*prə̂ŋ
 菶	běng			NEW_ENTRYběng	puŋᴮ,buŋᴮ	boŋᴮ poŋᴮ	*pôŋɁ *bôŋɁ
@@ -153,7 +153,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 頻	pín	bjien 4	bin	*binNEW_ENTRYpín2			
 妣	bǐ2	piᴮ/ᶜ 4	piᶜ piᴮ	*piɁ pih
 秕	bǐ3	piᴮ 4	piᴮ	*piɁNEW_ENTRYbì2	bjiᶜ 4		
-疕	bǐ4	pʰjiᴮ 3,pʰjeᴮ 3,pjiᴮ 3	pʰiᴮ pʰieᴮ	*phəiɁ *phaiɁ *pəiɁNEW_ENTRYpǐ5			
+疕	bǐ4	pʰjiᴮ 3,pʰjeᴮ 3,pjiᴮ 3	pʰiᴮ pʰieᴮ	*pʰəiɁ *pʰaiɁ *pəiɁNEW_ENTRYpǐ5			
 彼	bǐ5			NEW_ENTRYbǐ	pjeᴮ 3	piɑiᴮ	*paiɁ *paɁi pa+i
 筆	bǐ6	pjet 3	pit	*prjut
 鄙	bǐ7	pjiᴮ 3	piəᴮ	*prəɁ
@@ -186,17 +186,17 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 籩	biān5	pien	pen	*pên
 扁	biǎn1	pienᴮ	penᴮ	*pênɁNEW_ENTRYbiǎn2	pienᴮ	penᴮ	*pênɁ
 褊	biǎn	pjiänᴮ 4	pianᴮ	*penɁNEW_ENTRYbiǎn3			
-篇	piān	pʰjiän 4	pʰian	*phenNEW_ENTRYpiān2			
+篇	piān	pʰjiän 4	pʰian	*pʰenNEW_ENTRYpiān2			
 貶	biǎn4	pjämᴮ 3,pjɐmᴮ	piamᴮ	*pamɁ
 窆	biǎn5	pjämᶜ 3,pəŋᶜ	piamᶜ	*pams *poms
-弁	biàn1	bjänᶜ 3	biɑnᶜ	*bransNEW_ENTRYbiàn2			NEW_ENTRYfān1	pʰjwɐn	pʰuɑn	*phan
+弁	biàn1	bjänᶜ 3	biɑnᶜ	*bransNEW_ENTRYbiàn2			NEW_ENTRYfān1	pʰjwɐn	pʰuɑn	*pʰan
 便	biàn3	bjiänᶜ 4	bienᶜ	*bens
 變	biàn4	pjänᶜ 3	piɑnᶜ	*pransNEW_ENTRYlán1	lậm		
 遍	biàn7	pienᶜ	penᶜ	*pêns
 髟	biāo1	pjieu 4,pjiäu 4	piu piau	*piu *piauNEW_ENTRYshān2	ṣam	ṣam	*srâm
 熛	biāo2	pjiäu 4	piau	*piau
 標	biāo3	pjiäuᶜ 4	piau piauᶜ	*piauh
-剽	piāo	pʰjiäu,pjiäuᴮ 4	pʰiau piauᴮ	*phiau *piauɁNEW_ENTRYpiāo1			
+剽	piāo	pʰjiäu,pjiäuᴮ 4	pʰiau piauᴮ	*pʰiau *piauɁNEW_ENTRYpiāo1			
 別	bié	pjät 3	piɑt	*pratNEW_ENTRYbié	bjät 3	biɑt	*brat
 賓	bīn1	pjien 4	pin	*pinNEW_ENTRYbìn	pjienᶜ 4	pinᶜ	*pinsNEW_ENTRYbìn1			
 殯	bìn	pjienᶜ 4	pinᶜ	*pinsNEW_ENTRYbìn2			
@@ -226,14 +226,14 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 伯	bó1	pɐk	pak	*prâk
 帛	bó2	bɐk	bak	*brâk
 隠	bó3			
-膊	bó4	pâk	pɑk	*pâkNEW_ENTRYpò	pʰâk	pʰɑk	*phâkNEW_ENTRYpò2	pʰâk	pʰɑk	*phâkNEW_ENTRYpò3			
+膊	bó4	pâk	pɑk	*pâkNEW_ENTRYpò	pʰâk	pʰɑk	*pʰâkNEW_ENTRYpò2	pʰâk	pʰɑk	*pʰâkNEW_ENTRYpò3			
 胉	pò	pɐk	pak	*prâkNEW_ENTRYpò3			
 薄	bó5	bâk	bɑk	*bâkNEW_ENTRYbó6			NEW_ENTRYbó	bâk	bɑk	*bâk
 礴	bó6			NEW_ENTRYbó	bâk	bɑk	*bâk
 鎛	bó7	pâk	pɑk	*pâk
 博	bó8			NEW_ENTRYbó	pâk	pɑk	*pâk
 駁	bó9	påk	pɔk	*prâuk
-踣	bó10	bək,pʰəuᶜ	pʰoᶜ bək	*bə̂k *phôkh
+踣	bó10	bək,pʰəuᶜ	pʰoᶜ bək	*bə̂k *pʰôkh
 勃	bó11	buət	bət	*bə̂tNEW_ENTRYbó12	buət	bət	*bə̂t
 脖	bó13	buət		
 跛	bǒ	puâᴮ	pɑiᴮ	*pâiɁ
@@ -250,10 +250,10 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 不	bù1	pjəuᴮ/ᶜ	pu	*pəNEW_ENTRYfǒu1	pjəuᴮ	puᴮ	*pəɁ
 弗	fú	pjwət	put	*pətNEW_ENTRYfú7			NEW_ENTRYfú8	pjuət	put	*pət
 布	bù2	puoᶜ	pɑᶜ	*pâhNEW_ENTRYbù3	puoᶜ	pɑᶜ	*pâh
-溥	pǔ	pʰuoᴮ	pʰɑᴮ	*phâɁNEW_ENTRYpǔ2			
-尃	fū	pʰju	pʰuɑ	*phaNEW_ENTRYfū4			
-敷	fū	pʰju	pʰuɑ	*phaNEW_ENTRYfū4			
-鋪	fū	pʰju	pʰuɑ	*phaNEW_ENTRYfū4			NEW_ENTRYpū			
+溥	pǔ	pʰuoᴮ	pʰɑᴮ	*pʰâɁNEW_ENTRYpǔ2			
+尃	fū	pʰju	pʰuɑ	*pʰaNEW_ENTRYfū4			
+敷	fū	pʰju	pʰuɑ	*pʰaNEW_ENTRYfū4			
+鋪	fū	pʰju	pʰuɑ	*pʰaNEW_ENTRYfū4			NEW_ENTRYpū			
 甫	fǔ	pjuᴮ	puɑᴮ	*paɁNEW_ENTRYfǔ5	pjuᴮ	puɑᴮ	*paɁNEW_ENTRYfǔ6			NEW_ENTRYfǔ7	pjuᴮ	puɑᴮ	*paɁ
 步	bù4	buoᶜ	bɑᶜ	*bâh
 哺	bù5	buoᶜ	bɑᶜ	*bâh
@@ -306,10 +306,10 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 柴	chái1	dẓai	dẓɛ	*dzrê
 儕	chái2	dẓăi	dẓɛi	*dzrî *dzrə̂i
 蠆	chài	ṭʰaiᶜ	ṭʰas	*rhâs *rhâts
-佔	chān1			NEW_ENTRYchān	ṭʰjäm	ṭʰɑm	*threm
-覘	chān1			NEW_ENTRYnì11			NEW_ENTRYchān	ṭʰjäm	ṭʰɑm	*threm
+佔	chān1			NEW_ENTRYchān	ṭʰjäm	ṭʰɑm	*tʰrem
+覘	chān1			NEW_ENTRYnì11			NEW_ENTRYchān	ṭʰjäm	ṭʰɑm	*tʰrem
 梴	chān2			NEW_ENTRYchān	ṭʰjän	ṭʰɑn	*t-hlan
-儃	chán1	źjän	dźian	*danNEW_ENTRYtǎn3	tʰânᴮ	tʰɑnᴮ	*thânɁ
+儃	chán1	źjän	dźian	*danNEW_ENTRYtǎn3	tʰânᴮ	tʰɑnᴮ	*tʰânɁ
 漸	chán2	dẓam	dẓam	*dzrâmNEW_ENTRYjiān8	tsjäm	tsiam	*tsamNEW_ENTRYjiàn	dzjämᴮ	dziamᴮ	*dzamɁ
 儳	chán zhàn	dẓam,dẓămᴮ	dẓam dẓɛmᴮ	*dzrâm *dzrə̂mɁNEW_ENTRYchàn zhàn	tṣʰamᶜ,dẓămᶜ	tṣʰamᶜ dẓɛmᶜ	*tshrâms *dzrə̂msNEW_ENTRYchán5 zhàn			NEW_ENTRYchàn zhàn			
 廛	chán3	ḍjän	ḍan	*dran
@@ -317,13 +317,13 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 繵	dàn	tânᶜ,dânᴮ	tɑnᶜ dɑnᴮ	*tâns *dânɁNEW_ENTRYdàn9			
 鑱	chán6 zhàn			NEW_ENTRYchán zhàn	dẓam[ᶜ]	dẓam dẓamᶜ	*dzrâms *dzrâmNEW_ENTRYzhàn6			
 讒	chán7			NEW_ENTRYchán	dẓăm,dẓam[ᶜ]	dẓɛmdẓam dẓamᶜ	*dzrâms *dzrâm
-闡	chǎn1	tśʰjänᴮ	tśʰanᴮ	*thanɁ
-嘽	chǎn2	tśʰjänᴮ	tśʰanᴮ	*thanɁNEW_ENTRYtān	tʰân	tʰɑn	*thânNEW_ENTRYtān5			
-幝	chǎn2	tśʰjänᴮ	tśʰanᴮ	*thanɁ
-繟	chǎn2	tśʰjänᴮ	tśʰanᴮ	*thanɁ
+闡	chǎn1	tśʰjänᴮ	tśʰanᴮ	*tʰanɁ
+嘽	chǎn2	tśʰjänᴮ	tśʰanᴮ	*tʰanɁNEW_ENTRYtān	tʰân	tʰɑn	*tʰânNEW_ENTRYtān5			
+幝	chǎn2	tśʰjänᴮ	tśʰanᴮ	*tʰanɁ
+繟	chǎn2	tśʰjänᴮ	tśʰanᴮ	*tʰanɁ
 禪	shàn	źjänᶜ	dźanᶜ	*dansNEW_ENTRYshàn5			
 產	chǎn3	ṣănᴮ	ṣɛnᴮ	*srânɁ *srênɁ
-昌	chāng	tśʰjaŋ	tśʰɑŋ	*k-hlaŋ *thaŋNEW_ENTRYhuǐ4			
+昌	chāng	tśʰjaŋ	tśʰɑŋ	*k-hlaŋ *tʰaŋNEW_ENTRYhuǐ4			
 常	cháng1	źjaŋ	dźiɑŋ	*daŋ *djaŋNEW_ENTRYcháng2	źjaŋ	dźɑŋ	*daŋ *djaŋNEW_ENTRYzhuó8			
 裳	cháng	źjaŋ	dźiɑŋ	*daŋ *djaŋNEW_ENTRYgòu6			NEW_ENTRYgòu	kəuᶜ [GY]	koᶜ	*kôkhNEW_ENTRYnòu gòu	nəuᶜ	noᶜ	*nôh
 尚	shàng	źjaŋᶜ	dźɑŋᶜ	*daŋh *djaŋhNEW_ENTRYshàng2			
@@ -331,10 +331,10 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 場	cháng5	ḍjaŋ	ḍɑŋ	*d-laŋ
 腸	cháng6	ḍjaŋ	ḍɑŋ	*d-laŋ
 長	cháng7			NEW_ENTRYzhǎng	ṭjaŋᴮ	ṭɑŋᴮ	*traŋɁNEW_ENTRYcháng	ḍjaŋ	ḍɑŋ	*draŋNEW_ENTRYzhàng5	ḍjaŋᶜ	ḍɑŋᶜ	*draŋhNEW_ENTRYzhǎng			
-敞	chǎng	tśʰjaŋᴮ	tśʰɑŋᴮ	*thaŋɁ
+敞	chǎng	tśʰjaŋᴮ	tśʰɑŋᴮ	*tʰaŋɁ
 唱	chàng1	tśʰjaŋᶜ	tśʰɑŋᶜ	*k-hlaŋh
 倡	chàng1	tśʰjaŋᶜ	tśʰɑŋᶜ	*k-hlaŋh
-鬯	chàng2	ṭʰjaŋᶜ	ṭʰɑŋᶜ	*thraŋh *rhaŋh
+鬯	chàng2	ṭʰjaŋᶜ	ṭʰɑŋᶜ	*tʰraŋh *rhaŋh
 超	chāo1			NEW_ENTRYchāo	ṭʰjäu	ṭʰau ṭʰiau	*t-hliau
 剿	chāo2	tṣʰau	tṣʰau	*tshrâu
 勦	chāo2	tṣʰau	tṣʰau	*tshrâu
@@ -343,9 +343,9 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 潮	cháo1			NEW_ENTRYcháo	ḍjäu	ḍɑu	*drau
 巢	cháo2	dẓau	dẓau	*dzrâu
 車	chē	tśʰja	tśʰa	*k-hlaNEW_ENTRYjū	kjwo	kiɑ	*kaNEW_ENTRYjū1			
-坼	chè1			NEW_ENTRYchè	ṭʰɐk	ṭʰak	*thrâk
-徹	chè2	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *thratNEW_ENTRYchè3			NEW_ENTRYchè	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *thrat
-撤	chè2	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *thrat
+坼	chè1			NEW_ENTRYchè	ṭʰɐk	ṭʰak	*tʰrâk
+徹	chè2	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *tʰratNEW_ENTRYchè3			NEW_ENTRYchè	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *tʰrat
+撤	chè2	ḍjät,ṭʰjät	ḍat ṭʰat	*drat *tʰrat
 滯	zhì	ḍjäiᶜ	ḍas	*dratsNEW_ENTRYzhì31			
 逝	shì	źjäiᶜ	dźas	*datsNEW_ENTRYshì18			
 適	shì	śjäk,tśjäk	tśek śek	*tekNEW_ENTRYshì29		tśek śek	NEW_ENTRYshì30		tśek śek	NEW_ENTRYshì31		tśek śek	NEW_ENTRYshì	śjäk	tśek śek	*lhekNEW_ENTRYshì	śjäk	tśek śek	*tek *C-ek
@@ -356,14 +356,14 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 酖	zhèn	ḍjəmᶜ	ḍimᶜ	*d-ləmsNEW_ENTRYzhèn5			
 鴆	zhèn	ḍjəmᶜ	ḍimᶜ	*d-ləmsNEW_ENTRYzhèn5			
 辰	chén3	źjen	dźin	*dənNEW_ENTRYchén4			NEW_ENTRYchén	źjen	dźin	*dən
-晨	chén5	źjen,dźjen	(d)źin	*m-dən *dən
+晨	chén5	źjen,dźjen	dźin źin	*m-dən *dən
 塵	chén6	ḍjen	ḍin	*drən
 陳	chén7	ḍjen	ḍin	*drənNEW_ENTRYzhèn	ḍjenᶜ	ḍinᶜ	*drənsNEW_ENTRYzhèn7			
-縵	chěn1 chī	ṭʰjenᴮ,ṭʰi	ṭʰinᴮ ṭʰi	*thrənɁ *thrəiNEW_ENTRYchī7			
+縵	chěn1 chī	ṭʰjenᴮ,ṭʰi	ṭʰinᴮ ṭʰi	*tʰrənɁ *tʰrəiNEW_ENTRYchī7			
 瀋	chěn2	tśʰjəmᴮ	tśʰimᴮ	*k-hləmɁNEW_ENTRYshěn4			
 赬	chēng1	ṭʰjäŋ	ṭʰeŋ	*hreŋ
-稱	chēng2	tśʰjəŋ	tśʰiŋ	*thəŋNEW_ENTRYchēng	tśʰjəŋ	tśʰiŋ	*thəŋNEW_ENTRYchèng	tśʰjəŋᶜ	tśʰiŋᶜ	*thəŋh
-瞠	chēng3	ṭʰɐŋ	ṭʰaŋ	*thrêŋ
+稱	chēng2	tśʰjəŋ	tśʰiŋ	*tʰəŋNEW_ENTRYchēng	tśʰjəŋ	tśʰiŋ	*tʰəŋNEW_ENTRYchèng	tśʰjəŋᶜ	tśʰiŋᶜ	*tʰəŋh
+瞠	chēng3	ṭʰɐŋ	ṭʰaŋ	*tʰrêŋ
 成	chéng1	źjäŋ	dźeŋ	*deŋ *geŋ
 盛	chéng1	źjäŋ	dźeŋ	*deŋ *geŋNEW_ENTRYshèng	źjäŋᶜ	dźeŋᶜ	*deŋh *geŋhNEW_ENTRYshèng5			
 城	chéng1	źjäŋ	dźeŋ	*deŋ *geŋ
@@ -387,7 +387,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 离	chī4	ṭʰjie	ṭʰɑi	*rhai
 螭	chī4	ṭʰjie	ṭʰɑi	*rhai
 颸	chī5			NEW_ENTRYsī6 chī	tṣʰi	tṣʰə	*tshrə
-絺	chī6			NEW_ENTRYchī	ṭʰi	ṭʰi	*thri
+絺	chī6			NEW_ENTRYchī	ṭʰi	ṭʰi	*tʰri
 池	chí1	ḍje	ḍɑi	*d-laiNEW_ENTRYfǎ	pjwɐp	puɑp	*pap
 坻	chí2	ḍi	ḍi	*driNEW_ENTRYchí	ḍi	ḍi	*dri
 墀	chí2	ḍi	ḍi	*dri
@@ -405,7 +405,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 弛	shǐ	śjieᴮ	śɑiᴮ	*lhaiɁNEW_ENTRYshǐ4	śjieᴮ	śɑiᴮ	*lhaiɁNEW_ENTRYshǐ5			NEW_ENTRYshǐ6			NEW_ENTRYshǐ	śjeᴮ	śeᴮ	*lhaiɁ
 施	shī	śjie	śɑi	*lhaiNEW_ENTRYshī9	śjie	śɑi	*lhaiNEW_ENTRYshì	śjieᶜ	śɑiᶜ	*lhaihNEW_ENTRYshī10			NEW_ENTRYshī11			NEW_ENTRYshì24			
 恥	chǐ5	ṭʰiᴮ	ṭʰəᴮ	*nhrəɁ
-齒	chǐ6	tśʰiᴮ	tśʰəᴮ	*thəɁ *khiəɁ
+齒	chǐ6	tśʰiᴮ	tśʰəᴮ	*tʰəɁ *khiəɁ
 赤	chì3	tśʰjäk	tśʰak	*k-hlakNEW_ENTRYcì3			NEW_ENTRYcì	tsʰjäk	tsʰiak	*s-lhak
 奭	shì	śjäk,xjək	śak hik śek	*lhak *həkNEW_ENTRYshì21			
 翅	chì4	śjeᶜ	śeᶜ	*lheh
@@ -414,14 +414,14 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 耡	chì6	tśʰiᶜ	tśʰəᶜ kʰiəᶜ	*khiəɁ
 沖	chōng1	ḍjuŋ	ḍuŋ	*druŋNEW_ENTRYchōng2	ḍjuŋ	ḍuŋ	*druŋ
 舂	chōng3	śjwoŋ	śoŋ	*lhoŋ
-衝	chōng5			NEW_ENTRYchōng	tśʰjwoŋ	tśʰoŋ	*thoŋ
+衝	chōng5			NEW_ENTRYchōng	tśʰjwoŋ	tśʰoŋ	*tʰoŋ
 蟲	chóng1	ḍjuŋ	ḍuŋ	*druŋNEW_ENTRYchóng2			NEW_ENTRYchóng	ḍjuŋ,duoŋ	douŋ ḍuŋ	*d-luŋ *lûŋ
 虫	chóng1	ḍjuŋ	ḍuŋ	*druŋNEW_ENTRYhuǐ1	xjweiᴮ	huiᴮ	*hmuiɁ
 重	chóng3			NEW_ENTRYzhòng1	ḍjwoŋᴮ	ḍoŋᴮ	*droŋɁNEW_ENTRYchóng	ḍjwoŋ	ḍoŋ	*droŋ
 崇	chóng4			NEW_ENTRYchóng	dẓjuŋ	dẓuŋ	*dzruŋ
 揰	chòng			NEW_ENTRYzhuàng2 chòng			
-盩	chōu1	ṭʰjəu	ṭhʰu	*thru *t-hlu
-抽	chōu1	ṭʰjəu	ṭhʰu	*thru *t-hlu
+盩	chōu1	ṭʰjəu	ṭʰʰu	*tʰru *t-hlu
+抽	chōu1	ṭʰjəu	ṭʰʰu	*tʰru *t-hlu
 瘳	chōu2 liáo	ṭʰjəu,lieu	leu ṭʰu	*rhiu *riûNEW_ENTRYliáo6			
 犨	chōu3	tśʰjəu	tśʰu	*k-hu
 臭	chòu	tśʰjəuᶜ	tśʰuᶜ	*k-huhNEW_ENTRYchòu			
@@ -431,10 +431,10 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 儔	chóu3	ḍjəu	ḍu	*dru
 讎	chóu	źjəu	dźu	*du
 淳	chún	źjuen	dźuin dźun	*dunNEW_ENTRYchún2	źjuen	dźuin dźun	*dunNEW_ENTRYzhūn	tśjuen	tśun tśuin	*tunNEW_ENTRYchún3			NEW_ENTRYzhūn1			
-綢	chóu4			NEW_ENTRYtāo1	tʰâu	tʰou	*thûNEW_ENTRYchóu	ḍjəu	ḍu	*driu
+綢	chóu4			NEW_ENTRYtāo1	tʰâu	tʰou	*tʰûNEW_ENTRYchóu	ḍjəu	ḍu	*driu
 裯	chóu5			
 疇	chóu6	ḍjəu	ḍu	*druNEW_ENTRYchóu7			NEW_ENTRYchóu7	ḍjəu	ḍu	*dru
-丑	chǒu1	ṭʰjəuᴮ	ṭʰuᴮ	*thruɁ *rhuɁNEW_ENTRYniǔ1	ṇjəuᴮ	ṇuᴮ	*nriuɁ
+丑	chǒu1	ṭʰjəuᴮ	ṭʰuᴮ	*tʰruɁ *rhuɁNEW_ENTRYniǔ1	ṇjəuᴮ	ṇuᴮ	*nriuɁ
 醜	chǒu2	tśʰjəuᴮ	tśʰuᴮ	*k-hiuɁ *k-huɁ
 朽	xiǔ	xjəuᴮ	huᴮ	*hiuɁ *huɁNEW_ENTRYxiǔ1			
 出	chū1	tśʰjuət	tśʰut	*k-hlutNEW_ENTRYchū chuì	tśʰwiᶜ	tśʰus	*k-hlutsNEW_ENTRYchū2	tśʰjuət	tśʰut	
@@ -456,31 +456,31 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 絀	chù2	ṭjuət	ṭut	*trut
 畜	chù4 xù	ṭʰjuk,xjuk	huk ṭʰuk	*hruk *rhukNEW_ENTRYchù xù	ṭʰjəuᶜ,xjəuᶜ	ṭʰuᶜ huᶜ	*hrukh *rhukhNEW_ENTRYxù6			
 川	chuān1	tśʰjwän	tśʰon tśʰuan	*k-hlun
-穿	chuān2	tśʰjwän	tśʰon tśʰuan	*thon
+穿	chuān2	tśʰjwän	tśʰon tśʰuan	*tʰon
 耑	duān	tuân	tuɑn ton	*tônNEW_ENTRYduān1			
 端	duān	tuân	tuɑn ton	*tônNEW_ENTRYduān1			
 船	chuán1	dźjwän	źon źuan	*m-lon
 傳	chuán2			NEW_ENTRYchuán	ḍjwän	ḍuan ḍon	*dronNEW_ENTRYzhuàn	ḍjwänᶜ	ḍonᶜ ḍuanᶜ	*dronsNEW_ENTRYzhuàn	ṭjwänᶜ	tonᶜ ṭuanᶜ	*tronsNEW_ENTRYzhuàn1			
 床	chuáng1	dẓjaŋ	dẓɑŋ	*dzraŋ
 撞	chuáng2	ḍåŋ	ḍɔŋ	*drôŋNEW_ENTRYzhuàng chòng	ḍåŋᶜ	ḍɔŋᶜ	*drôŋh
-吹	chuī1	tśʰjwe	tśʰuai tśʰoi	*thoi *k-hloiNEW_ENTRYchuì	tśʰjweᶜ	tśʰuaiᶜ tśʰoiᶜ	*thoih *k-hloih
+吹	chuī1	tśʰjwe	tśʰuai tśʰoi	*tʰoi *k-hloiNEW_ENTRYchuì	tśʰjweᶜ	tśʰuaiᶜ tśʰoiᶜ	*tʰoih *k-hloih
 衰	chuī2			NEW_ENTRYshuāi	ṣwi	ṣui	*sruiNEW_ENTRYchuī	tṣʰwie	tṣʰuɑi tṣʰoi	*k-sroi
 垂	chuí1	źwie	dźoi dźuai	*doi
 陲	chuí			
 硾	zhuì	ḍwieᶜ	ḍoih ḍuaih	*droihNEW_ENTRYzhuì2			
 礫	chuí2	ḍwie[ᶜ]	ḍuai ḍuaih ḍoi ḍoih	*droih *droi
-春	chūn	tśʰjwen	tśʰuin tśʰun	*thun
+春	chūn	tśʰjwen	tśʰuin tśʰun	*tʰun
 脣	chún1	dźjuen	źun źuin	*m-dun
 漘	chún1	dźjuen	źun źuin	*m-dun
 醇	chún4			NEW_ENTRYchún	źjuen	dźuin dźun	*dun
-蠢	chǔn	tśʰjuenᴮ	tśʰuinᴮ tśʰunᴮ	*thunɁ
-惷	chǔn	tśʰjuenᴮ	tśʰuinᴮ tśʰunᴮ	*thunɁ
+蠢	chǔn	tśʰjuenᴮ	tśʰuinᴮ tśʰunᴮ	*tʰunɁ
+惷	chǔn	tśʰjuenᴮ	tśʰuinᴮ tśʰunᴮ	*tʰunɁ
 蜳	dūn	tuən	tuən	*tûnNEW_ENTRYdūn2			
 忳	tún	duən	duən	*dûnNEW_ENTRYtún4			
 政	chuō	tṣʰåk	tṣʰɔk	*tshrôkNEW_ENTRYzhèng1	tśjäŋᶜ	tśeŋᶜ	*teŋh
-逴	chuò1			NEW_ENTRYchuò	ṭʰåk	ṭʰɔk	*thrâuk
-啜	chuò2	tśʰjwät	tśʰot	*thot
-歠	chuò2	tśʰjwät	tśʰot	*thot
+逴	chuò1			NEW_ENTRYchuò	ṭʰåk	ṭʰɔk	*tʰrâuk
+啜	chuò2	tśʰjwät	tśʰot	*tʰot
+歠	chuò2	tśʰjwät	tśʰot	*tʰot
 雌	cī	tsʰje	tsʰie	*tshe
 茨	cí1			NEW_ENTRYcí	dzi	dzi	*dzəi *dzi
 胔	cí2	dzie,tsʰie	dzie tsʰie	*dze *tsheNEW_ENTRYzì3	dzie[ᶜ]	dzie dzieᶜ	*dze *dzeh
@@ -557,7 +557,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 癉	dān3	tânᴮ,tâᶜ	tɑiᶜ tɑnᴮ	*tânɁ *tâih
 殫	dān	tân	tɑn	*tânNEW_ENTRYdān4			
 旦	dàn	tânᶜ	tɑnᶜ	*tânsNEW_ENTRYdàn1	tânᶜ	tɑnᶜ	*tânsNEW_ENTRYdàn2			
-痑	duǒ tuō tuò	tâᶜ,tʰâ[n]	tɑiᶜ tʰɑi tʰɑn	*tâih *thâi/nNEW_ENTRYtuō2 tuò			
+痑	duǒ tuō tuò	tâᶜ,tʰâ[n]	tɑiᶜ tʰɑi tʰɑn	*tâih *tʰâi/nNEW_ENTRYtuō2 tuò			
 耽	dān5	tậm	təm	*tə̂m
 湛	dān5	tậm	təm	*tə̂mNEW_ENTRYjiān8	tsjäm	tsiam	*tsamNEW_ENTRYtān4 jiān			NEW_ENTRYzhàn1	ḍămᴮ	ḍɛmᴮ	*drə̂mɁ
 擔	dān6	tâm	tɑm	*tâm *tlamNEW_ENTRYdàn	tâmᶜ	tɑmᶜ	*tâms *tlams
@@ -628,7 +628,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 顛	diān1	tien	ten tein	*tînNEW_ENTRYdiān2	tien	ten tein	*tîn *tlinNEW_ENTRYtián4	dien	dein den	*dîn
 巔	diān1	tien	ten tein	*tîn
 頂	dǐng	tieŋᴮ	teŋᴮ	*têŋɁNEW_ENTRYdǐng2			
-天	tiān	tʰien	tʰen tʰein	*thînNEW_ENTRYniǎn1	ṇiänᴮ	ṇanᴮ	*nranɁ *nrenNEW_ENTRYtiān1	tʰien	tʰen tʰein	*thînNEW_ENTRYtiān2			
+天	tiān	tʰien	tʰen tʰein	*tʰînNEW_ENTRYniǎn1	ṇiänᴮ	ṇanᴮ	*nranɁ *nrenNEW_ENTRYtiān1	tʰien	tʰen tʰein	*tʰînNEW_ENTRYtiān2			
 傎	diān2	tien	ten tein	*tîn *tlin
 齻	diān3	tien	ten tein	*tîn
 典	diǎn1	tienᴮ	tenᴮ	*tə̂nɁNEW_ENTRYdiǎn2	tienᴮ	tenᴮ	*tə̂nɁ
@@ -713,7 +713,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 遁	dùn4	duənᴮ/ᶜ	duənᴮ duənᶜ	*dûnɁ/s
 多	duō	tâ	tɑi	*tâi *tlai
 諸	zhū	tśjwo	tśɑ	*taNEW_ENTRYzhū3			
-庶	shù	śjwoᶜ	śɑᶜ	*thlakh *thlah *lhah *lhakh
+庶	shù	śjwoᶜ	śɑᶜ	*tʰlakh *tʰlah *lhah *lhakh
 掇	duó4	tuât,ṭjwat	ṭuɑt tuɑt	*trot *tôt
 揃	duó5	dâk	dɑk	*lâk
 朵	duǒ1	tuâᴮ	toiᴮ	NEW_ENTRYduǒ	tuâᴮ	tuɑᴮ	*toiɁ
@@ -843,7 +843,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 甚	shèn	źjəmᴮ/ᶜ	dźimᴮ dźimᶜ	*dəmɁ/sNEW_ENTRYshèn3			
 敲	zhēn3	ṭjəm	ṭim	*trəm
 貞	zhēn4	ṭjäŋ	ṭeŋ	*treŋ
-偵	zhēn zhēng	ṭjäŋ,ṭʰjäŋ[ᶜ]	ṭʰeŋ ṭeŋ	*threŋ *treŋ
+偵	zhēn zhēng	ṭjäŋ,ṭʰjäŋ[ᶜ]	ṭʰeŋ ṭeŋ	*tʰreŋ *treŋ
 真	zhēn5	tśjen	tśin	*tinNEW_ENTRYqiāng	tsʰjaŋ	tsʰiɑŋ	*s-lhaŋ
 振	zhēn6			NEW_ENTRYzhèn2	tśjenᶜ	tśinᶜ	*tənsNEW_ENTRYzhēn5	tśjen	tśin	*tən
 桭	zhēn7	tśjen	tśin	*tən
@@ -889,8 +889,8 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 乏	fá6			NEW_ENTRYfá	bjwɐp	buɑp	*bap
 法	fǎ1			NEW_ENTRYfǎ2			NEW_ENTRYfǎ	pjwɐp	puɑp	*pap
 髮	fǎ3	pjwɐt	puɑt	*pat
-拚	fān1	pʰjwɐn	pʰuɑn	*phan
-翻	fān1	pʰjwɐn	pʰuɑn	*phan
+拚	fān1	pʰjwɐn	pʰuɑn	*pʰan
+翻	fān1	pʰjwɐn	pʰuɑn	*pʰan
 帆	fān2	bjwɐm	buɑm	*bam
 篷	péng	buŋ		NEW_ENTRYpéng6			
 蕃	fān3	pjwɐn	puɑn	*panNEW_ENTRYfán7	bjwɐn	buɑn	*ban
@@ -901,52 +901,52 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 繁	fán7	bjwɐn	buɑn	*ban
 反	fǎn	pjwɐnᴮ	puɑnᴮ	*panɁ
 販	fàn	pjwɐnᶜ	puɑnᶜ	*pans
-番	fān	pʰjwɐn	pʰuɑn	*phan
-幡	fān	pʰjwɐn	pʰuɑn	*phan
-氾	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*phamsNEW_ENTRYfàn	bjwɐmᶜ	buɑmᶜ	*bams
-汎	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*phams
-泛	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*phams
+番	fān	pʰjwɐn	pʰuɑn	*pʰan
+幡	fān	pʰjwɐn	pʰuɑn	*pʰan
+氾	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*pʰamsNEW_ENTRYfàn	bjwɐmᶜ	buɑmᶜ	*bams
+汎	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*pʰams
+泛	fàn1	pʰjwɐmᶜ	pʰuɑmᶜ	*pʰams
 犯	fàn	bjwɐmᴮ	buɑmᴮ	*bamɁNEW_ENTRYfàn2			
 飯	fàn3	bjwɐnᶜ	buɑnᶜ	*bans *bons *banNEW_ENTRYfán	bjwɐn	buɑn	*bans *bons *ban
 方	fāng1	pjwaŋ	puɑŋ	*paŋNEW_ENTRYfāng2	pjwaŋ	puɑŋ	*paŋNEW_ENTRYfāng3	pjwaŋ	puɑŋ	*paŋNEW_ENTRYfāng4	pjwaŋ	puɑŋ	*paŋ
 舫	fǎng	pjwaŋᶜ,pwâŋᶜ	puɑŋᶜ	*paŋh
 放	fǎng	pjwaŋᴮ	puɑŋᴮ	*paŋɁNEW_ENTRYfǎng3			NEW_ENTRYfàng	pjwaŋᶜ	puɑŋᶜ	*paŋh
-芳	fāng5	pʰjwaŋ	pʰuɑŋ	*phaŋ
+芳	fāng5	pʰjwaŋ	pʰuɑŋ	*pʰaŋ
 坊	fáng1	bjwaŋ	buɑŋ	*baŋ
 防	fáng1	bjwaŋ	buɑŋ	*baŋ
 房	fáng2	bjwaŋ	buɑŋ	*baŋ
-紡	fǎng1	pʰjwaŋᴮ	pʰuɑŋᴮ	*phaŋɁ
-訪	fǎng2	pʰjwaŋᶜ	pʰuɑŋᶜ	*phaŋh
-聘	pìng	pʰjäŋᶜ	pʰieŋᶜ	*pheŋhNEW_ENTRYpìng			
+紡	fǎng1	pʰjwaŋᴮ	pʰuɑŋᴮ	*pʰaŋɁ
+訪	fǎng2	pʰjwaŋᶜ	pʰuɑŋᶜ	*pʰaŋh
+聘	pìng	pʰjäŋᶜ	pʰieŋᶜ	*pʰeŋhNEW_ENTRYpìng			
 非	fēi1	pjwei	pui	*pəi *puiNEW_ENTRYfēi2	pjwei	pui	*pəiNEW_ENTRYfēi2			
 誹	fěi	pjwei[ᶜ]	pui puiᶜ	*pəi *pəihNEW_ENTRYfěi3			
 扉	fēi3	pjwei	pui	*pəi
 棐	fěi	pjweiᴮ	puiᴮ	*pəiɁNEW_ENTRYfěi1	pjweiᴮ	puiᴮ	*pəiɁNEW_ENTRYfěi2			
 飛	fēi4	pjwei	pui	*pəi *pui
-妃	fēi5	pʰjwei	pʰui	*phəi
+妃	fēi5	pʰjwei	pʰui	*pʰəi
 肥	féi1	bjwei	bui	*bəi
 腓	féi2	bjwei	bui	*bəi
 匪	fěi1	pjweiᴮ	puiᴮ	*pəiɁ
-胐	fěi4	pʰjweiᴮ,pʰuət	pʰət pʰuiᴮ	*phəiɁ *phə̂t *phuiɁ *phut
+胐	fěi4	pʰjweiᴮ,pʰuət	pʰət pʰuiᴮ	*pʰəiɁ *pʰə̂t *pʰuiɁ *pʰut
 吠	fèi1	bjwɐiᶜ	buɑs	*bats *bos *bas
 芾	fèi2			NEW_ENTRYfú5			NEW_ENTRYfú14	pjuət	put	*pət *put
-肺	fèi3	pʰjwɐiᶜ	pʰuas	*phots *phats
+肺	fèi3	pʰjwɐiᶜ	pʰuas	*pʰots *pʰats
 沸	fèi4	pjwəiᶜ	pus	*pətsNEW_ENTRYfú13	pjwət	put	*pət
 疿	fèi5	pjweiᶜ		
 廢	fèi6	pjwɐiᶜ	puɑs	*pats
 分	fēn1	pjuən	pun	*pən *punNEW_ENTRYfèn	bjuənᶜ	bunᶜ	*bəns
-雰	fēn2	phjuən	pʰun	*phənNEW_ENTRYfēn3			
-氛	fēn2	phjuən	pʰun	*phənNEW_ENTRYfēn fén	bjuən	bun	*bənNEW_ENTRYfén1			
+雰	fēn2	pʰjuən	pʰun	*pʰənNEW_ENTRYfēn3			
+氛	fēn2	pʰjuən	pʰun	*pʰənNEW_ENTRYfēn fén	bjuən	bun	*bənNEW_ENTRYfén1			
 饙	fēn	pjuən	pun	*pənNEW_ENTRYfēn7			
-紛	fēn4	pʰjuən	pʰun	*phənNEW_ENTRYfēn4			
-芬	fēn5	pʰjuən	pʰun	*phən
+紛	fēn4	pʰjuən	pʰun	*pʰənNEW_ENTRYfēn4			
+芬	fēn5	pʰjuən	pʰun	*pʰən
 翂	fēn6	pjuən	pun	*pən
 奮	fèn	pjuənᶜ	punᶜ	*pənsNEW_ENTRYfèn4	pjuənᶜ	punᶜ	*pənsNEW_ENTRYfèn5			
 羒	fén2			
 焚	fén3	bjuən	bun	*bən *bun
 墳	fén4	bjuən	bun	*bənNEW_ENTRYfèn	bjuənᴮ	bunᴮ	*bənɁNEW_ENTRYfén5	bjuən	bun	*bən
 憤	fèn	bjuənᴮ	bunᴮ	*bənɁNEW_ENTRYfèn6			
-忿	fèn	pʰjuənᴮ/ᶜ	pʰunᴮ pʰunᶜ	*phənɁ/s
+忿	fèn	pʰjuənᴮ/ᶜ	pʰunᴮ pʰunᶜ	*pʰənɁ/s
 濆	fén5	bjuən	bun	*bənNEW_ENTRYfén9			
 鼖	fén6			
 蕡	fén7			
@@ -954,14 +954,14 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 粉	fěn	pjuənᴮ	punᴮ	*bənɁ
 秎	fèn2	bjuənᶜ	bunᶜ	*bəns
 糞	fèn3	pjuənᶜ	punᶜ	*pəns
-丰	fēng1			NEW_ENTRYfēng	pʰjwoŋ	pʰuoŋ	*phoŋ
+丰	fēng1			NEW_ENTRYfēng	pʰjwoŋ	pʰuoŋ	*pʰoŋ
 封	fēng2	pjwoŋ	puoŋ	*poŋ
 犎	fēng3	pjwoŋ	puoŋ	*poŋ
-鋒	fēng4	pʰjwoŋ	pʰuoŋ	*phoŋ
-蜂	fēng4	pʰjwoŋ	pʰuoŋ	*phoŋ
+鋒	fēng4	pʰjwoŋ	pʰuoŋ	*pʰoŋ
+蜂	fēng4	pʰjwoŋ	pʰuoŋ	*pʰoŋ
 縫	féng	bjwoŋ	buoŋ	*boŋNEW_ENTRYfèng	bjwoŋᶜ	buoŋᶜ	*boŋhNEW_ENTRYféng3			
-峰	fēng5	pʰjwoŋ	pʰuoŋ	*phoŋ
-豐	fēng6	pʰjuŋ	pʰuŋ	*phuŋ
+峰	fēng5	pʰjwoŋ	pʰuoŋ	*pʰoŋ
+豐	fēng6	pʰjuŋ	pʰuŋ	*pʰuŋ
 風	fēng7	pjuŋ	puŋ puəm	*pəm
 諷	fèng	pjuŋᶜ	puəmᶜ puŋᶜ	*pəmsNEW_ENTRYfèng2			
 渢	féng	bjuŋ	buəm buŋ	*pəmNEW_ENTRYféng4			
@@ -969,7 +969,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 逢	féng1	bjwoŋ	buoŋ	*boŋNEW_ENTRYféng2	bjwoŋ	buoŋ	*boŋ
 夆	féng1	bjwoŋ	buoŋ	*boŋ
 摓	féng2	bjwoŋ	buoŋ	*boŋ
-奉	fèng1	bjwoŋᴮ,pʰjwoŋᴮ	pʰuoŋᴮ buoŋᴮ	*boŋɁ phoŋɁ PCH *-uŋ.
+奉	fèng1	bjwoŋᴮ,pʰjwoŋᴮ	pʰuoŋᴮ buoŋᴮ	*boŋɁ pʰoŋɁ PCH *-uŋ.
 俸	fèng	bjwoŋᶜ	buoŋᶜ	*boŋh
 鳳	fèng3	bjuŋᶜ	puəmᶜ buŋᶜ mie me ŋe	*pəmsNEW_ENTRYní5	ŋiei,miei,mjie	puəmᶜ buŋᶜ mie me ŋe	*ŋê *me
 夫	fū2	pju	buɑ puɑ	*paNEW_ENTRYfú1	bju	buɑ puɑ	*ba *pa
@@ -982,13 +982,13 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 伏	fú4	bjuk	buk	*bəkNEW_ENTRYfù	bjəuᶜ	buᶜ	*bəkhNEW_ENTRYfù2			
 服	fú4	bjuk	buk	*bək
 符	fú6			NEW_ENTRYfú	bju	buo	*bo
-拂	fú9	pʰjuət	pʰut	*phət
+拂	fú9	pʰjuət	pʰut	*pʰət
 茀	fú10	pjuət	put	*pətNEW_ENTRYfú11	pjuət	put	*pətNEW_ENTRYfú12			NEW_ENTRYfú15	pjuət	put	*pət
 韍	fú14	pjuət	put	*pət *put
 黻	fú15	pjuət	put	*pət
 浮	fú16	bjəu	bu	*bu
-桴	fú	pʰju	pʰuo	*phoNEW_ENTRYfú	bjuᴮ,bəuᴮ	boᴮ buoᴮ	*boɁ *bôɁNEW_ENTRYfú18			
-泭	fú	pʰju	pʰuo	*pho
+桴	fú	pʰju	pʰuo	*pʰoNEW_ENTRYfú	bjuᴮ,bəuᴮ	boᴮ buoᴮ	*boɁ *bôɁNEW_ENTRYfú18			
+泭	fú	pʰju	pʰuo	*pʰo
 蜉	fú17	bjəu	bu	*bu
 福	fú19	pjuk	puk	*pək
 富	fù	pjəuᶜ	puᶜ	*pəkhNEW_ENTRYfù17			
@@ -999,8 +999,8 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 腑	fǔ3			
 腐	fǔ4	pjuᴮ	puoᴮ	*poɁ
 膚	fǔ9	pju	puɑ	*pa
-撫	fǔ10	pʰjuᴮ	pʰuɑᴮ	*phaɁ
-拊	fǔ	pʰjuᴮ	pʰuoᴮ	*phoɁ
+撫	fǔ10	pʰjuᴮ	pʰuɑᴮ	*pʰaɁ
+拊	fǔ	pʰjuᴮ	pʰuoᴮ	*pʰoɁ
 父	fù1	bjuᴮ	buɑᴮ	*baɁ
 付	fù3	pjuᶜ	puoᶜ	*poh
 附	fù	bjuᶜ	buoᶜ	*bohNEW_ENTRYfù6			
@@ -1010,15 +1010,15 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 祔	fù6			
 駙	fù6			
 阜	fù7	bjəuᴮ	buᴮ	*buɁNEW_ENTRYfù8	bjəuᴮ	buᴮ	*buɁ
-垺	pēi	pʰju,pʰjəu,pʰuˆ˘ai	pʰu pʰə pʰio	*pho *phu *phə̂NEW_ENTRYpēi2			
+垺	pēi	pʰju,pʰjəu,pʰuˆ˘ai	pʰu pʰə pʰio	*pʰo *pʰu *pʰə̂NEW_ENTRYpēi2			
 婦	fù9	bjəuᴮ	buᴮ	*bəɁ
 賦	fù10	pjuᶜ	puɑᶜ	*pah
 負	fù11	bjəuᴮ	buᴮ	*bəɁ
 復	fù12	bjuk	buk	*bukNEW_ENTRYfù	bjəuᶜ	buᶜ	*bukh
 複	fù	pjuk	puk	*puk
-覆	fù	pʰjuk	pʰuk	*phukNEW_ENTRYfù	pʰjəuᶜ	pʰuᶜ	*phukh
+覆	fù	pʰjuk	pʰuk	*pʰukNEW_ENTRYfù	pʰjəuᶜ	pʰuᶜ	*pʰukh
 腹	fù13	pjuk	puk	*puk
-蝮	fù14	pʰjuk	pʰuk	*phuk
+蝮	fù14	pʰjuk	pʰuk	*pʰuk
 縛	fù15	bjwak	buɑk	*bak
 陔	gāi	kậi	kəi	*kə̂
 改	gǎi	kậiᶜ	kəiᴮ	*kə̂Ɂ *kləɁ
@@ -1760,7 +1760,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 考	kǎo1			NEW_ENTRYkǎo2			
 薧	kǎo3	kʰâuᴮ	kʰɑuᴮ	*khâuɁ
 槁	kǎo3	kʰâuᴮ	kʰɑuᴮ	*khâuɁ
-摳	kōu	kʰəu	LH	kʰio
+摳	kōu	kʰəu	kʰo kʰuo	kʰio
 口	kǒu	kʰəuᴮ	kʰoᴮ	*khôɁ
 扣	kòu1	kʰəuᴮ/ᶜ	kʰoᴮ kʰoᶜ	*khôɁ/h
 叩	kòu1	kʰəuᴮ/ᶜ	kʰoᴮ kʰoᶜ	*khôɁ/h
@@ -2100,7 +2100,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 痗	mèi7 huì	muậiᶜ,xuậiᶜ	huəᶜ məᶜ	*(h)mə̂h
 門	mén1	muən	mən	*mə̂n
 捫	mén2	muən	mən	**mə̂n
-揗	shùn	dźjuenᴮ/ᶜ	LH	ziunNEW_ENTRYshùn2			
+揗	shùn	dźjuenᴮ/ᶜ	źuinᴮ źuinᶜ	ziunNEW_ENTRYshùn2			
 悶	mén3	muən	mən	*mə̂nNEW_ENTRYmèn	muənᶜ	mənᶜ	*mə̂nsNEW_ENTRYmèn			
 殙	hūn	xuən	huən	*hmə̂n
 虻	méng1	mɐŋ	maŋ	*mrâŋ
@@ -2303,27 +2303,27 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 渥	wò	Ɂåk	Ɂɔk	*ɁrôkNEW_ENTRYwò4			
 爬	pá1			
 怕	pà	pʰaᶜ		
-怖	pù	pʰuoᶜ	pʰɑᶜ	*phâhNEW_ENTRYpù1			
+怖	pù	pʰuoᶜ	pʰɑᶜ	*pʰâhNEW_ENTRYpù1			
 箄	pái	baɨ	bɛ	*brê
-潘	pān	pʰuân	pʰɑn	*phân
+潘	pān	pʰuân	pʰɑn	*pʰân
 般	pán1	buân	bɑn	*bân
 蟠	pán2	buân	bɑn	*bân
 傍	páng	bwâŋ	bɑŋ	*bâŋ
 胖	pàng1 pán	buân	bɑn	*bân
 匏	páo	bau	bɔu	*bru
 跑	pǎo			
-胚	pēi1	pʰuậi	pʰə	*phə̂
-噴	pēn	pʰən[ᶜ]	pʰən pʰənᶜ	*phə̂n *phə̂ns
-歕	pēn	pʰən[ᶜ]	pʰən pʰənᶜ	*phə̂n *phə̂ns
+胚	pēi1	pʰuậi	pʰə	*pʰə̂
+噴	pēn	pʰən[ᶜ]	pʰən pʰənᶜ	*pʰə̂n *pʰə̂ns
+歕	pēn	pʰən[ᶜ]	pʰən pʰənᶜ	*pʰə̂n *pʰə̂ns
 芃	péng1	buŋ,bjuŋ	boŋ buŋ	*bə̂m *bəm
 朋	péng2	bəŋ	bəŋ	*bə̂ŋ
 鵬	péng3			
 蓬	péng4	buŋ	boŋ	*bôŋ
 碰	pèng	bɐŋᶜ [Zìhuì],bâŋᶜ [Duan Yucai].		
-匹	pī1			NEW_ENTRYpǐ1	pʰjiet 4	pʰit	*phitNEW_ENTRYpǐ2	pʰjiet 4	pʰit	*phit
-鴄	pī2			NEW_ENTRYpǐ3	pʰjiet 4	pʰit	*phit
-披	pī3	pʰje 3	pʰiai	*phai
-劈	pī4	pʰiek	pʰek	*phêk
+匹	pī1			NEW_ENTRYpǐ1	pʰjiet 4	pʰit	*pʰitNEW_ENTRYpǐ2	pʰjiet 4	pʰit	*pʰit
+鴄	pī2			NEW_ENTRYpǐ3	pʰjiet 4	pʰit	*pʰit
+披	pī3	pʰje 3	pʰiai	*pʰai
+劈	pī4	pʰiek	pʰek	*pʰêk
 皮	pí1	bje 3	biɑi	*bai
 膍	pí3	biei,bjii 4	bi bei	*bî *biNEW_ENTRYpí4	bi 4	bi	*bi
 毘	pí	bjii 4	bi	*bi
@@ -2331,22 +2331,22 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 貔	pí5	bi 4	bi	*bi
 脾	pí6	bjie 4	bie	*be
 疲	pí7	bje 3	biɑi	*bai
-庀	pǐ4	pʰiᴮ 4,pʰjieᴮ 4	pʰiᴮ pʰieᴮ	*phiɁ *pheɁ
+庀	pǐ4	pʰiᴮ 4,pʰjieᴮ 4	pʰiᴮ pʰieᴮ	*pʰiɁ *pʰeɁ
 仳	pǐ6			
-屁	pì1	pʰjiᶜ	pʰiᶜ	*phih
+屁	pì1	pʰjiᶜ	pʰiᶜ	*pʰih
 澼	pì3			
 擗	pì4	bjiäk 4	biek	*bek
-譬	pì5	pʰjieᶜ 4	pʰieᶜ	*phekh
+譬	pì5	pʰjieᶜ 4	pʰieᶜ	*pʰekh
 闢	pì6	bjiäk 4	biek	*bek *bai-k
-副	pì7	pjək,pʰjək	pik pʰik	*prək *phrək
+副	pì7	pjək,pʰjək	pik pʰik	*prək *pʰrək
 抜	pì	pʰjək		
-偏	piān1	pʰjiän 4	pʰian	*phenNEW_ENTRYzī5			
+偏	piān1	pʰjiän 4	pʰian	*pʰenNEW_ENTRYzī5			
 諞	pián	bjiänᴮ 4	bian bianᴮ	*benɁ *benNEW_ENTRYpián3			
-漂	piāo2	pʰjiäu 4	pʰiau	*phiau
+漂	piāo2	pʰjiäu 4	pʰiau	*pʰiau
 飄	piāo	bjiäu,pjiäu 4	biau piau	*biau *piau
 薸	piāo3	bjiäu 4	biau	*biau
 貧	pín3	bjen 3	bin	*brən
-品	pǐn	pʰjəmᴮ	pʰimᴮ	*phrəmɁ
+品	pǐn	pʰjəmᴮ	pʰimᴮ	*pʰrəmɁ
 牝	pìn bì	bjiᴮ,bjienᴮ 4	binᴮ biᴮ	*biɁ *binɁ
 平	píng1	bjɐŋ	bieŋ	*beŋ
 坪	píng1	bjɐŋ	bieŋ	*beŋ
@@ -2362,14 +2362,14 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 浡	pó1	buət	bət	*bə̂t
 婆	pó2	buâ		
 皤	pó3	buâ,puâ	bɑi	*bâi
-破	pò1	pʰuâᶜ	pʰɑiᶜ	*phâih
-魄	pò4	pʰɐk	pʰak	*phrâkNEW_ENTRYpò5	pʰɐk	pʰak	*phrâk
+破	pò1	pʰuâᶜ	pʰɑiᶜ	*pʰâih
+魄	pò4	pʰɐk	pʰak	*pʰrâkNEW_ENTRYpò5	pʰɐk	pʰak	*pʰrâk
 俑	pò6			
-剖	pōu	pʰəuᴮ	pʰoᴮ	*phôɁ
+剖	pōu	pʰəuᴮ	pʰoᴮ	*pʰôɁ
 僕	pú1	buk,buok	bok	*bôk
-樸	pú2	pʰåk	pʰɔk	*phrôk
+樸	pú2	pʰåk	pʰɔk	*pʰrôk
 蒲	pú4	buo	bɑ	*ba
-浦	pǔ1	pʰuoᴮ	pʰɑᴮ	*phâɁ
+浦	pǔ1	pʰuoᴮ	pʰɑᴮ	*pʰâɁ
 暴	pù2	buk	bok	*bôk
 七	qī1	tsʰjet	tsʰit	*tshit PCH *snhit
 咠	qī2	tsʰjəp	tsʰip	*tshəp *k-səp *tsəp
@@ -2524,7 +2524,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 拳	quán3	gjwän 3	gyɑn	*gwan *gon
 彷	quán4	gjwän 3	gyɑn gion	*gon
 權	quán5			
-犬	quǎn1	kʰiwenᴮ	kʰuenᴮ	*khwə̂nɁ  rather *khwînɁ
+犬	quǎn1	kʰiwenᴮ	kʰuenᴮ	*khwə̂nɁ  ratʰer *khwînɁ
 畎	quǎn2			NEW_ENTRYquǎn	kiwenᴮ	kuenᴮ	*kwînɁ
 甽	quǎn2			NEW_ENTRYquǎn	kiwenᴮ	kuenᴮ	*kwînɁ
 缺	quē	kʰiwet,kʰjwät	kʰuet kʰyat	*khwet
@@ -2688,7 +2688,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 勝	shēng6	śjəŋ	śiŋ	*lhəŋNEW_ENTRYshèng	śjəŋᶜ	śiŋᶜ	*lhəŋhNEW_ENTRYshèng3			
 繩	shéng	dźjəŋ	źiŋ	*m-ləŋNEW_ENTRYyìng4			
 聖	shèng1	śjäŋᶜ	śeŋᶜ	*hieŋh *lheŋh
-唾	shèng4			NEW_ENTRYtuò3	tʰuâᶜ	tʰuɑiᶜ tʰoiᶜ	*thôih
+唾	shèng4			NEW_ENTRYtuò3	tʰuâᶜ	tʰuɑiᶜ tʰoiᶜ	*tʰôih
 尸	shī1			NEW_ENTRYshī	śi	śi	*lhi
 失	shī2	śjet	śit	*lhit
 佚	yì	jiet	jit	*litNEW_ENTRYyì11			
@@ -2886,10 +2886,10 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 檀	tán9			
 袒	tǎn1	dânᴮ	dɑnᴮ	*dânɁ
 襢	tǎn1	dânᴮ	dɑnᴮ	*dânɁNEW_ENTRYzhǎn	ṭjänᴮ	ṭanᴮ	*tranɁNEW_ENTRYzhàn	ṭjänᶜ	ṭanᶜ	*transNEW_ENTRYzhǎn4			
-坦	tǎn2	tʰânᴮ	tʰɑnᴮ	*thânɁNEW_ENTRYtǎn3	tʰânᴮ	tʰɑnᴮ	*thânɁ
-黮	tǎn5	tʰậmᴮ,dậmᴮ	tʰəmᴮ dəmᴮ	*thə̂mɁ *də̂mɁ
-炭	tàn1	tʰânᶜ	tʰɑnᶜ	*thâns
-鏜	tāng1	tʰâŋ	tʰɑŋ	*thâŋ
+坦	tǎn2	tʰânᴮ	tʰɑnᴮ	*tʰânɁNEW_ENTRYtǎn3	tʰânᴮ	tʰɑnᴮ	*tʰânɁ
+黮	tǎn5	tʰậmᴮ,dậmᴮ	tʰəmᴮ dəmᴮ	*tʰə̂mɁ *də̂mɁ
+炭	tàn1	tʰânᶜ	tʰɑnᶜ	*tʰâns
+鏜	tāng1	tʰâŋ	tʰɑŋ	*tʰâŋ
 闐	tián	dien	den	*dînNEW_ENTRYtián5			
 唐	táng1	dâŋ	dɑŋ	*lâŋ
 塘	táng2	dâŋ	dɑŋ	*lâŋ
@@ -2908,7 +2908,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 慝	tè5	tʰək	tʰək	*nhə̂k
 疼	téng1	duoŋ	douŋ	
 騰	téng2	dəŋ	dəŋ	*lə̂ŋ
-梯	tī1	tʰiei	tʰei	*thî *thə̂i
+梯	tī1	tʰiei	tʰei	*tʰî *tʰə̂i
 剔	tī2	tʰiek	tʰek	*lhêk
 鬄	tī2	tʰiek	tʰek	*lhêk
 提	tí1	diei	de	*dêNEW_ENTRYdǐ	tieiᴮ	teᴮ	*têɁ
@@ -2917,16 +2917,16 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 啼	tí3	diei	de	*dê
 蹄	tí4	diei	de	*dê
 體	tǐ	tʰieiᴮ	tʰeiᴮ	*rhîɁ
-涕	tì1	tʰieiᴮ/ᶜ	tʰeiᶜ tʰeiᴮ	*thîɁ/h
+涕	tì1	tʰieiᴮ/ᶜ	tʰeiᶜ tʰeiᴮ	*tʰîɁ/h
 剃	tì2	tʰieiᶜ		
-逖	tì3	tʰiek	tʰek	*thêk
+逖	tì3	tʰiek	tʰek	*tʰêk
 惕	tì4	tʰiek	tʰek	*lhêk
 趯	tì5-tì			NEW_ENTRYtì-tì	tʰiek-tʰiek	tʰek tʰeuk	*lhiâuk
 添	tiān3	tʰiem	tʰem	
 恬	tián2	diem	dem	*lîm *lêm
 甜	tián3	diem	dem	*lîm *lêm
 填	tián4	dien	dein den	*dîn
-瑱	tiàn	tʰienᶜ	tʰeinᶜ tʰenᶜ	*thînsNEW_ENTRYtiàn			
+瑱	tiàn	tʰienᶜ	tʰeinᶜ tʰenᶜ	*tʰînsNEW_ENTRYtiàn			
 舔	tiǎn1	tʰiemᴮ	tʰemᴮ	*lhîmɁ
 煔	tiǎn2	tʰiemᴮ/ᶜ	tʰemᴮ tʰemᶜ	*lhêmɁ/s
 𤈛	tiǎn2	tʰiemᴮ/ᶜ	tʰemᴮ tʰemᶜ	*lhêmɁ/s
@@ -2934,7 +2934,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 條	tiāo2			NEW_ENTRYtiáo1			NEW_ENTRYtiáo2			NEW_ENTRYtiáo	dieu	deu	*liûNEW_ENTRYtiāo	tʰieu	tʰeu	*lhiû
 窕	tiǎo	dieuᴮ	deuᴮ	*liâuɁ
 跳	tiào1	dieuᶜ	deuᶜ	*liâuh
-呫	tiē1	tʰiep	tʰep	*thêpNEW_ENTRYzhān3			
+呫	tiē1	tʰiep	tʰep	*tʰêpNEW_ENTRYzhān3			
 鐵	tiě	tʰiet	tʰet	*lhêt *lhît
 汀	tīng1			
 聽	tīng2	tʰieŋ	tʰeŋ	*lhêŋNEW_ENTRYtìng tīng	tʰieŋᶜ	tʰeŋᶜ	*lhêŋh
@@ -2945,8 +2945,8 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 筳	tíng5			NEW_ENTRYtíng	dieŋ	deŋ	*lêŋ
 挺	tǐng2	tʰieŋᴮ	tʰeŋᴮ	*lhêŋɁ
 梃	tǐng3 dìng	dieŋᴮ	deŋᴮ	*lêŋɁ
-恫	tōng1	tʰuŋ	tʰoŋ	*thôŋ *thôŋ
-痛	tòng	tʰuŋᶜ	tʰoŋᶜ	*lhôŋh *thôŋhNEW_ENTRYtòng			
+恫	tōng1	tʰuŋ	tʰoŋ	*tʰôŋ *tʰôŋ
+痛	tòng	tʰuŋᶜ	tʰoŋᶜ	*lhôŋh *tʰôŋhNEW_ENTRYtòng			
 通	tōng2	tʰuŋ	tʰoŋ	*lhôŋ
 同	tóng1	duŋ	doŋ	*dôŋ
 銅	tóng2	duŋ	doŋ	*lôŋ *dlôŋ *dôŋ
@@ -2954,21 +2954,21 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 筩	tóng3	duŋ	doŋ	*dôŋ *dlôŋ
 童	tóng5	duŋ	doŋ	*dôŋNEW_ENTRYtóng6	duŋ	doŋ	
 僮	tóng5	duŋ	doŋ	*dôŋ
-瞳	tóng	tʰuŋ	tʰoŋ	*thôŋ
-桶	tǒng	tʰuŋᴮ	tʰoŋᴮ	*lhôŋɁ *thôŋɁ
+瞳	tóng	tʰuŋ	tʰoŋ	*tʰôŋ
+桶	tǒng	tʰuŋᴮ	tʰoŋᴮ	*lhôŋɁ *tʰôŋɁ
 偷	tōu1	tʰəu	tʰo	*lhôNEW_ENTRYtōu2	tʰəu	tʰo	*lhô
 脫	tuō	tʰuât,duât	dot tʰuɑt tʰot duɑt	*lôt *lhôtNEW_ENTRYtuō3	tʰuât,duât	dot tʰuɑt tʰot duɑt	*lôt *lhôt
 投	tóu1	dəu	do	*dô
 歈	tóu2 yú	dəu	do	*lô
 頭	tóu3	dəu	do	*dô
 橢	tǒu			
-突	tū	tʰuət,duət	duət tʰuət	*thût *dût
+突	tū	tʰuət,duət	duət tʰuət	*tʰût *dût
 途	tú1	duo	dɑ	*lâNEW_ENTRYtú2	duo	dɑ	*lâ
 涂	tú2	duo	dɑ	*lâ
 塗	tú2	duo	dɑ	*lâ
 徒	tú3	duo	dɑ	*dâ
-土	tǔ1	tʰuoᴮ	tʰɑᴮ	*thâɁ
-吐	tǔ2	tʰuoᴮ,tʰuoᶜ	tʰɑᴮ	*thâɁNEW_ENTRYtù	tʰuoᴮ,tʰuoᶜ	tʰɑᶜ	*thâh
+土	tǔ1	tʰuoᴮ	tʰɑᴮ	*tʰâɁ
+吐	tǔ2	tʰuoᴮ,tʰuoᶜ	tʰɑᴮ	*tʰâɁNEW_ENTRYtù	tʰuoᴮ,tʰuoᶜ	tʰɑᶜ	*tʰâh
 兔	tù	tʰuoᶜ	tʰɑᶜ	*lhâh
 貒	tuān			
 團	tuán1	duân	duɑn don	*dôn
@@ -2976,13 +2976,13 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 漙	tuán1	duân	duɑn don	*dôn
 縳	zhuàn	ḍjwänᴮ	ḍionᴮ ḍuɑnᴮ	*dronɁNEW_ENTRYzhuàn2			
 膞	zhuǎn	źjwänᴮ,tśjwänᴮ	dź/tśuanᴮ dź/tśionᴮ	*donɁ *tonɁ
-彖	tuàn	tʰuânᶜ	tʰonᶜ tʰuɑnᶜ	*thôns
-推	tuī	tʰuậi	tʰuəi	*thûi
+彖	tuàn	tʰuânᶜ	tʰonᶜ tʰuɑnᶜ	*tʰôns
+推	tuī	tʰuậi	tʰuəi	*tʰûi
 腿	tuǐ	tʰuậiᴮ		
-退	tuì1	tʰuậiᶜ	tʰuəs	*thûts *thûs
+退	tuì1	tʰuậiᶜ	tʰuəs	*tʰûts *tʰûs
 駾	tuì2			NEW_ENTRYtuì	duâiᶜ,tʰuâiᶜ	dos tʰos duɑs tʰuɑs	*lôts *lhôts
-吞	tūn1	tʰən	tʰən	*thə̂n *lhə̂n
-暾	tūn2	tʰuən	tʰuən	*thûn
+吞	tūn1	tʰən	tʰən	*tʰə̂n *lhə̂n
+暾	tūn2	tʰuən	tʰuən	*tʰûn
 純	tún3	duən[ᴮ]	duən	*dûn
 豚	tún5	duən	duən	*dûn
 臀	tún6	duən	duən	*dûn
@@ -2990,8 +2990,8 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 阤	tuó2			NEW_ENTRYzhì	ḍjeᴮ	ḍɑiᴮ	*d-laiɁNEW_ENTRYzhì7	ḍjieᴮ	ḍeᴮ	*d-laiɁNEW_ENTRYzhì8			
 鼉	tuó3	dâ,dân	dɑi dɑn	*dâi *dân
 隋	tuǒ1	tʰuâᴮ	tʰoiᴮ	*lhôiɁNEW_ENTRYtuǒ2	tʰuâᴮ	tʰoiᴮ	*lhôiɁNEW_ENTRYduò	duâᴮ	doiᴮ	*lôiɁ
-拓	tuò1	tʰâk	tʰɑk	*thâk
-橐	tuò2	tʰâk	tʰɑk	*thâk
+拓	tuò1	tʰâk	tʰɑk	*tʰâk
+橐	tuò2	tʰâk	tʰɑk	*tʰâk
 蘀	tuò4	tʰâk	tʰɑk	*lhâk
 蛙	wā1	Ɂwai	Ɂuɛ	*Ɂwrê *Ɂwe
 窪	wā2	Ɂwai	Ɂuɛ	*Ɂwrê
@@ -3131,7 +3131,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 細	xì2	sieiᶜ	seᶜ	seiᶜ)
 戲	xì3	xjeᶜ 3	hiɑiᶜ	*haih
 嘕	xiān	xjän 3	hiɑn	NEW_ENTRYxiān5			
-潟	xì4	sjäk	*siak	*sak
+潟	xì4	sjäk	siak	*sak
 呷	xiá1	xap	hap	*hap
 赮	xiá4	Ɣa	ga	*gra
 瑕	xiá4	Ɣa	ga	*gra
@@ -3199,7 +3199,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 銷	xiāo2	sjäu	siau	*siau
 捎	xiāo	sieu	seu	*siâu
 梟	xiāo3	kieu	keu	*kiû
-小	xiǎo1	sjäuᴮ	siauᴮ	prob. *siauɁ rather than *sauɁ
+小	xiǎo1	sjäuᴮ	siauᴮ	prob. *siauɁ ratʰer tʰan *sauɁ
 肖	xiào	sjäuᶜ	siauᶜ	*siauhNEW_ENTRYxiào4			
 俏	qiào	tsʰjäuᶜ	tsʰiauᶜ	*C-siauh
 曉	xiǎo2	xieuᴮ	heuᴮ	*hiâuɁ
@@ -3262,7 +3262,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 需	xū5	sju	sio	tsʰio
 嬃	xū6	sju	sio	*sno
 徐	xú			NEW_ENTRYxú	zjwo	ziɑ	*s-la
-湑	xǔ1	sjwoᴬ/ᴮ	sɑ sɑᴮ	*r *sraɁ light (with 釃) *sra of in
+湑	xǔ1	sjwoᴬ/ᴮ	sɑ sɑᴮ	*r *sraɁ light (witʰ 釃) *sra of in
 濾	lǚ	ljwoᶜ	liɑh	
 諝	xǔ2	sjwoᴮ	siɑᴮ	*saɁ
 擬	xǔ4	sjuᴮ	sioᴮ	**snot) *snoɁ (perh.
@@ -3388,7 +3388,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 饁	yè3	jäp 3	wɑp jɑp	*wap *jap
 葉	yè4	jiäp	jɑp	*lap
 裔	yì	jiäiᶜ	jas	*lats *lapsNEW_ENTRYyì31	jiäiᶜ	jas	*latsNEW_ENTRYyì32			
-燁	yè6	jäp 3,jiəp	jap both wap either	*lap *wap
+燁	yè6	jäp 3,jiəp	wap jəp	*lap *wap
 業	yè7	ŋjɐp	ŋiɑp	*ŋapNEW_ENTRYyè8	ŋjɐp	ŋiɑp	*ŋap
 一	yī1	Ɂjet	Ɂit	*Ɂit
 伊	yī2	Ɂi 4	Ɂi	*Ɂi
@@ -3435,7 +3435,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 抴	yì16	jiäiᶜ,jiät	jat jas	*lat *lats
 益	yì17	Ɂjiäk 4	Ɂiek	*Ɂek
 嗌	yì18	Ɂjäk	Ɂiek	*Ɂek
-縊	yì	Ɂieiᶜ	Ɂeᶜ	*Ɂîth *ɁîkhNEW_ENTRYyì19			
+縊	yì	Ɂieiᶜ	Ɂeᶜ	*Ɂîtʰ *ɁîkhNEW_ENTRYyì19			
 膉	yì20			
 翼	yì22	jiək	jək	*lək
 意	yì23			NEW_ENTRYyì	Ɂiᶜ	Ɂiəᶜ	*Ɂəkh
@@ -3694,7 +3694,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 著	zhē	ṭjak,ḍjak		NEW_ENTRYzhù13	˘ṭjwoᶜ	ṭɑᶜ	*trakhNEW_ENTRYzhuó	ṭjak	ṭɑk	*trakNEW_ENTRYzhuó	ḍjak	ḍɑk	*drakNEW_ENTRYzhuó14			
 耴	zhé1	ṭjäp	ṭɑp	*trap
 折	zhé2	tśjät	tśat	*tetNEW_ENTRYshé	źjät	dźat	*det
-疹	zhěn2	ṭʰjenᶜ	ṭʰinᶜ	*thrəns *rhəns
+疹	zhěn2	ṭʰjenᶜ	ṭʰinᶜ	*tʰrəns *rhəns
 畛	zhěn3	tśjen[ᴮ]	tśinᴮ	*tənɁ
 紾	zhěn4			
 朕	zhèn1	ḍjəmᴮ	ḍimᴮ	*drəmɁ *drəŋɁ
@@ -3756,8 +3756,8 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 痣	zhì13	tśiᶜ	tśəᶜ kiəᶜ	
 陟	zhì15	ṭjək	ṭik	*trək
 躓	zhì	ṭiᶜ	ṭis	*trətsNEW_ENTRYzhì19		ṭis	
-懥	zhì17	tśiᶜ,ṭʰiᶜ	ṭʰis tśis	*tits *thrits
-懫	zhì17	tśiᶜ,ṭʰiᶜ	ṭʰis tśis	*tits *thrits
+懥	zhì17	tśiᶜ,ṭʰiᶜ	ṭʰis tśis	*tits *tʰrits
+懫	zhì17	tśiᶜ,ṭʰiᶜ	ṭʰis tśis	*tits *tʰrits
 質	zhì18	tśjet	tśit	*tət
 置	zhì22	ṭiᶜ	ṭəᶜ	*trəkh
 彘	zhì24	ḍjäiᶜ	ḍas	*d-lats
@@ -3900,7 +3900,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 迺			nəʔ	
 砮			nɑ naʔ	
 曇			dəm	
-埃			iə	
+埃			ʔə	
 榎			kah	
 朴			pok	
 蛾			ŋɑi	
@@ -3982,7 +3982,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 音			ʔɨm	
 磤				
 乙			ʔɨt	
-伴			phanh	
+伴			pʰanh	
 叵				
 絆			panh	
 泊			bak	
@@ -3995,20 +3995,20 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 缻				
 檜			kuɑs kuat	
 氷			pɨŋ	
-費			phus	
+費			pʰus	
 袍			bou	
 焰			ziam zim	
-赴			phuoh	
+赴			pʰuoh	
 経			keŋ keŋh	
 歴			lek	
-斐			phuiʔ	
+斐			pʰuiʔ	
 祕			pɨs	
 樋				
 菩			bo	
 譜				
 褒			pou	
 辧			bɨanh	
-覇			pah phak	
+覇			pah pʰak	
 幣			bias	
 陛			beiʔ	
 鼙			be	
@@ -4043,7 +4043,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 匝			tsəp	
 薩				
 瀬			lɑs	
-湍			thuɑn	
+湍			tʰuɑn	
 迫			pak	
 紫			tsieʔ	
 寺			ziəh	
@@ -4070,28 +4070,28 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 簀			tṣɛk	
 淑			dźuk	
 駿			tsuinh	
-託			thak	
+託			tʰak	
 陀			dai	
 柁			ṭiaiʔ	
 柂			ṭiaiʔ	
 駄				
 宕			daŋh	
 倓			dam damh	
-塔			thap	
+塔			tʰap	
 鞮			te de	
 弖			teiʔ	
 諦			teh	
 點			temʔ	
-笞			ṭhiə	
+笞			ṭʰiə	
 馳			ḍiai	
 鎭			ṭin	
 茅			mɔu	
-敕			ṭhɨk	
+敕			ṭʰɨk	
 秩			ḍit	
 鄧			dəŋh	
 迹			tsiak	
 徳			tək	
-菟			thɑ thɔ tha	
+菟			tʰɑ tʰɔ tʰa	
 屠			da	
 覩			tɑʔ	
 筑			ṭuk	
@@ -4103,7 +4103,7 @@ wf_graph	wf_pinyin	QY_IPA	LH_IPA	OCM_IPA
 砥			tśiʔ	
 礪			lias	
 汚			ʔua	
-兎			thɔ	
+兎			tʰɔ	
 鵜			dei	
 卯			mɔuʔ	
 鸕			lɑ	

@@ -1760,7 +1760,7 @@
 考	kǎo1			NEW_ENTRYkǎo2			
 薧	kǎo3	kʰâuᴮ	kʰɑuᴮ	*khâuɁ
 槁	kǎo3	kʰâuᴮ	kʰɑuᴮ	*khâuɁ
-摳	kōu	kʰəu	LH	kʰio
+摳	kōu	kʰəu	kʰo, kʰuo	kʰio
 口	kǒu	kʰəuᴮ	kʰoᴮ	*khôɁ
 扣	kòu1	kʰəuᴮ/ᶜ	kʰoᴮ kʰoᶜ	*khôɁ/h
 叩	kòu1	kʰəuᴮ/ᶜ	kʰoᴮ kʰoᶜ	*khôɁ/h
@@ -2100,7 +2100,7 @@
 痗	mèi7 huì	muậiᶜ,xuậiᶜ	huəᶜ məᶜ	*(h)mə̂h
 門	mén1	muən	mən	*mə̂n
 捫	mén2	muən	mən	**mə̂n
-揗	shùn	dźjuenᴮ/ᶜ	LH	ziunNEW_ENTRYshùn2			
+揗	shùn	dźjuenᴮ/ᶜ	źuinᴮ źuinᶜ	ziunNEW_ENTRYshùn2			
 悶	mén3	muən	mən	*mə̂nNEW_ENTRYmèn	muənᶜ	mənᶜ	*mə̂nsNEW_ENTRYmèn			
 殙	hūn	xuən	huən	*hmə̂n
 虻	méng1	mɐŋ	maŋ	*mrâŋ
@@ -3388,7 +3388,7 @@
 饁	yè3	jäp 3	wɑp jɑp	*wap *jap
 葉	yè4	jiäp	jɑp	*lap
 裔	yì	jiäiᶜ	jas	*lats *lapsNEW_ENTRYyì31	jiäiᶜ	jas	*latsNEW_ENTRYyì32			
-燁	yè6	jäp 3,jiəp	jap both wap either	*lap *wap
+燁	yè6	jäp 3,jiəp	wap jəp	*lap *wap
 業	yè7	ŋjɐp	ŋiɑp	*ŋapNEW_ENTRYyè8	ŋjɐp	ŋiɑp	*ŋap
 一	yī1	Ɂjet	Ɂit	*Ɂit
 伊	yī2	Ɂi 4	Ɂi	*Ɂi

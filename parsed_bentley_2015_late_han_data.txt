@@ -45,7 +45,7 @@
 縻	mɨe
 謎	meih
 大	dɑh das
-太	thɑs
+太	tʰɑs
 陁	ḍiaiʔ
 騨	dɑi dan
 娜	
@@ -86,7 +86,7 @@
 弩	nɑʔ naʔ
 砮	nɑ naʔ
 曇	dəm
-土	thɑʔ
+土	tʰɑʔ
 度	dɑh
 渡	dɑh
 奴	nɑ
@@ -95,7 +95,7 @@
 亞	ʔah
 依	ʔɨi
 哀	ʔəi
-埃	iə
+埃	ʔə
 榎	kah
 荏	ńimʔ
 得	tək
@@ -672,7 +672,7 @@
 是	dźeʔ
 劑	dzeih
 瀬	lɑs
-湍	thuɑn
+湍	tʰuɑn
 脊	tsiek
 迫	pak
 瞻	tśam
@@ -763,8 +763,8 @@
 多	tɑi tɑ
 哆	tśhɑiʔ
 侈	tśhai
-他	thai
-託	thak
+他	tʰai
+託	tʰak
 黨	tɑŋʔ
 陀	dai
 柁	ṭiaiʔ
@@ -783,12 +783,12 @@
 但	danʔ
 檀	dan
 答	təp
-塔	thap
+塔	tʰap
 帶	tas
-達	that dat
+達	tʰat dat
 鞮	te de
 弖	teiʔ
-天	then
+天	tʰen
 帝	teh
 底	
 諦	teh
@@ -801,7 +801,7 @@
 致	ṭis
 恥	ṭhiəʔ
 陳	ḍin
-笞	ṭhiə
+笞	ṭʰiə
 池	ḍiai
 馳	ḍiai
 鎭	ṭin
@@ -817,7 +817,7 @@
 止	tśəʔ
 等	təŋʔ
 澄	ḍɨŋ ḍaŋ
-台	thə
+台	tʰə
 苔	də
 鄧	dəŋh
 鳥	teuʔ
@@ -826,15 +826,15 @@
 徳	tək
 對	tuəs
 都	tɑ tɔ
-通	thoŋ
+通	tʰoŋ
 追	ṭui
 丑	ṭhuʔ
 川	tśuan
-菟	thɑ thɔ tha
+菟	tʰɑ tʰɔ tʰa
 屠	da
 途	dɑ
 徒	dɑ
-突	thuət duət
+突	tʰuət duət
 覩	tɑʔ
 津	tsin
 筑	ṭuk
@@ -860,7 +860,7 @@
 汚	ʔua
 烏	ʔa ʔɔ
 紆	ʔyɑ
-兎	thɔ
+兎	tʰɔ
 鵜	dei
 卯	mɔuʔ
 鸕	lɑ
@@ -886,7 +886,7 @@
 坐	dzuaiʔ
 畫	ɣuɛh ɣuɛk
 座	dzuɑih dzuɑiʔ
-咲	tshiauh siauh
+咲	tsʰiauᶜ siauᶜ
 位	wɨs wih
 韋	wui
 威	ʔui
@@ -958,7 +958,7 @@
 臾	jo
 庾	joʔ
 弓	kuŋ
-湯	thaŋ
+湯	tʰaŋ
 用	joŋh
 欲	jok
 容	joŋ

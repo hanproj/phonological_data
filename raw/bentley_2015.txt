@@ -38261,7 +38261,7 @@ a short vowel in the following syllable: tin-nu.
 
 OJ: ti OC: *rhə 
 
-LH: ṭhiə EMC: ṭhɨ LMC: trhi GO: ti KN: ti 
+LH: ṭʰiə EMC: ṭhɨ LMC: trhi GO: ti KN: ti 
 
 NOM: xuy SV: xuy SK: chi 
 
@@ -42282,7 +42282,7 @@ Man’yōshū in the name 若湯座王 Prince WAKA YUWE.
 
 OJ: we OC: *siauh or *sauh 
 
-LH: tshiauh, siauh EMC: sjäuh GO: seu KN: seu 
+LH: siauᶜ, tsʰiauᶜ EMC: sjäuh GO: seu KN: seu 
 
 NOM: tiếu SV: tiếu SK: sywo 
 
