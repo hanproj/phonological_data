@@ -17,7 +17,7 @@
 麼	mɨɑiʔ mɨɑi mɨe
 魔	
 磨	mɑi ma
-薄	bak phak
+薄	bak pʰak
 倍	bəʔ
 陪	bə
 毎	məʔ
@@ -95,7 +95,7 @@
 亞	ʔah
 依	ʔɨi
 哀	ʔəi
-埃	ʔə
+埃	iə
 榎	kah
 荏	ńimʔ
 得	tək
@@ -184,7 +184,7 @@
 髪	puɑt
 蚊	mun
 鹿	lok
-芳	phuɑŋ
+芳	pʰuɑŋ
 歟	jɑ
 各	kɑk
 覺	kɔk
@@ -456,20 +456,20 @@
 邑	ʔip
 乙	ʔɨt
 巴	pa
-伴	phanh
+伴	pʰanh
 半	panh
 叵	
 波	pɑi
 播	pɑih
-幡	phuɑn
-破	phɑih
+幡	pʰuɑn
+破	pʰɑih
 方	puɑŋ puaŋ
 防	buɑŋ
 八	pɛt
-判	phanh
-胖	phanh
+判	pʰanh
+胖	pʰanh
 簸	pɑih paiʔ
-泮	phɑnh
+泮	pʰɑnh
 絆	panh
 房	buaŋ
 泊	bak
@@ -501,13 +501,13 @@
 賓	pin
 臂	pieh
 避	bieh
-譬	phieh
+譬	pʰieh
 嬪	bin
 檜	kuɑs kuat
 氷	pɨŋ
 富	puh
-費	phus
-番	phuɑn
+費	pʰus
+番	pʰuɑn
 蕃	puɑn
 朋	bəŋ
 裒	po
@@ -515,7 +515,7 @@
 火	huɑiʔ
 焰	ziam zim
 帆	buam
-品	phimʔ
+品	pʰimʔ
 不	pu puʔ
 服	buʔ buk
 布	pɑh
@@ -523,8 +523,8 @@
 賦	puɑh
 福	puk
 否	puəʔ puʔ
-敷	phuɑ
-赴	phuoh
+敷	pʰuɑ
+赴	pʰuoh
 負	buəʔ buʔ
 浮	bu
 輔	buɑʔ
@@ -535,13 +535,13 @@
 弗	put
 皮	bɨɑi bɨe
 非	pui
-斐	phuiʔ
-飛	phui
+斐	pʰuiʔ
+飛	pʰui
 悲	pɨ
 彼	pɨɑiʔ
 祕	pɨs
-妃	phui
-被	phɨɑi bɨɑih
+妃	pʰui
+被	pʰɨɑi bɨɑih
 樋	
 熯	hɑnʔ
 菩	bo
@@ -562,7 +562,7 @@
 遍	penh
 辧	bɨanh
 平	bɨɛŋ
-覇	pah phak
+覇	pah pʰak
 敝	bias
 弊	bias
 幣	bias
@@ -572,7 +572,7 @@
 鞞	pieʔ
 重	ɖioŋʔ ɖioŋ
 隔	kɛk
-篇	phian
+篇	pʰian
 羅	lai la
 邏	lɑi lɑ
 良	liaŋ
@@ -886,7 +886,7 @@
 坐	dzuaiʔ
 畫	ɣuɛh ɣuɛk
 座	dzuɑih dzuɑiʔ
-咲	tsʰiauᶜ siauᶜ
+咲	siauᶜ tsʰiauᶜ
 位	wɨs wih
 韋	wui
 威	ʔui
