@@ -1177,7 +1177,7 @@
 熯	hɑnᴮ
 鑑	kamᶜ gamᶜ
 濫	lɑmᶜ gɑmᶜ lɑmᴮ
-行	gɑŋ gɑŋᶜ gaŋ gaŋᶜ gɑŋ
+行	gɑŋ gɑŋᶜ
 頏	gɑŋ
 航	gɑŋ
 杭	gɑŋ
@@ -4521,3 +4521,50 @@
 鉅	gɨɑᴮ
 絕	dzyat
 溰	tsʰuəiᴮ
+怛	tɑt
+懃	gjən
+替	tʰes
+廦	pʰiek pek
+雝	ʔuoŋ ʔuoŋᴮ ʔuoŋᶜ
+控	kʰoŋᶜ kʰɔŋᶜ
+圡	tʰɑᴮ
+範	buɑmᴮ
+蓺	ŋias
+𨞓	ʔouᶜ ʔuk
+窴	denᶜ
+仆	pʰuoᶜ pʰoᶜ pʰuᶜ bək
+瑛	ʔɨɑŋ ʔɨaŋ
+𧦡	sɑᶜ
+源	ŋion ŋyɑn
+胸	huoŋ
+廱	ʔuoŋ
+贄	tśih
+攜	ɣue
+藐	miauᴮ mɔk
+侃	kʰɑnᴮ kʰɑnᶜ
+榘	kyɑᴮ
+謩	muɑ mɑ
+佛	but
+歿	mət
+甞	dźɑŋ
+耉	koᴮ
+沂	ŋɨən
+勲	hun
+贏	jeŋ
+寍	neŋ
+弔	tek teuᶜ
+勅	ṭʰɨk
+苟	koᴮ
+范	buɑmᴮ
+乂	ŋɨɑs
+彧	ʔuk
+姿	tsi
+堈	kɑŋ
+鉉	ɣuenᴮ
+選	syanᴮ syanᶜ suɑnᴮ
+謁	ʔɨɑt
+讜	tɑŋᴮ
+穸	ziak
+瑋	wuiᴮ
+幤	tśʰɑŋᴮ
+庇	piᶜ
