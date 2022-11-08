@@ -9,7 +9,7 @@
 絕	dzyat
 芝	tśɨ tśə
 兮	ɣei
-大	dɑs dɑh dɑᶜ dɑs
+大	dɑs dɑh dɑᶜ
 返	puɑnᴮ
 晚	muɑnᴮ
 憙	hɨəᴮ hɨᴮ
@@ -397,7 +397,7 @@
 沖	ḍuŋ
 舂	śoŋ
 衝	tśʰoŋ
-蟲	ḍuŋ douŋ ḍuŋ
+蟲	ḍuŋ douŋ
 虫	ḍuŋ huiᴮ
 重	ḍoŋᴮ ḍoŋ
 崇	dẓuŋ
@@ -462,7 +462,7 @@
 歠	tśʰuat
 雌	tsʰie
 茨	dzi
-胔	dzie tsʰie dzie dzieᶜ
+胔	dzie tsʰie dzieᶜ
 慈	dziə
 疵	dzie
 辭	ziə
@@ -473,7 +473,7 @@
 次	tsʰis tsʰiᶜ
 佽	tsʰis tsʰiᶜ
 朿	tsʰieᶜ
-刺	tsʰieᶜ tsʰiek tsʰieᶜ mɑŋ
+刺	tsʰieᶜ tsʰiek mɑŋ
 賜	sieᶜ
 錫	sieᶜ sek
 蔥	tsʰoŋ
@@ -618,7 +618,7 @@
 釣	teuᶜ
 垤	deit det
 咥	deit det
-跌	deit det det
+跌	deit det
 迭	det
 輒	tep
 牒	dep
@@ -660,7 +660,7 @@
 肚	dɑᴮ tɑᴮ
 剬	tuɑn tśuanᴮ duɑn don tśuan tśion
 短	tuɑnᴮ tonᴮ
-斷	donᴮ donᶜ duɑnᴮ duɑnᶜ donᴮ duɑnᴮ
+斷	donᴮ donᶜ duɑnᴮ duɑnᶜ
 段	tuɑnᶜ
 鍛	tonᶜ tuɑnᶜ
 堆	tuəi
@@ -783,7 +783,7 @@
 捻	nep
 忱	ṇap
 臬	ŋiat
-涅	net neit net
+涅	net neit
 敜	nep
 哲	ṭɑt
 晢	tśas tśat
@@ -940,7 +940,6 @@
 桴	pʰuo boᴮ buoᴮ
 泭	pʰuo
 蜉	bu
-福	puk
 富	puᶜ
 冨	puᶜ
 斧	puɑᴮ
@@ -1044,7 +1043,6 @@
 攻	koŋ
 弓	kuŋ
 躬	kuŋ
-公	koŋ
 鴻	goŋ
 肱	kwəŋ
 鞃	kʰwəŋ kwəŋ
@@ -1353,7 +1351,7 @@
 楔	get set
 極	gik
 亟	kik
-疾	dzit dziᶜ dzit
+疾	dziᶜ dzit
 堲	dzit tsit
 即	tsit
 切	tsʰet
@@ -1509,7 +1507,6 @@
 噭	kek kiɑuk keuᶜ
 教	kauᶜ
 髻	kes
-節	tset
 櫛	tṣɛt
 絜	get ket
 緳	kʰet get
@@ -1576,7 +1573,7 @@
 坰	kweŋ
 泂	Ɣueŋᴮ
 迥	Ɣueŋᴮ
-洵	hwen suin sun suin
+洵	hwen sun suin
 憬	kyaŋᴮ
 窘	guin
 熲	kueŋᴮ
@@ -1619,7 +1616,7 @@
 嵎	kuɑt ŋio
 拒	gɨɑᴮ
 柜	kyɑᴮ
-渠	gyɑ giɑ giɑ
+渠	gyɑ giɑ
 澮	kuɑs
 闕	kʰyɑt gyɑt
 巨	gyɑʔ giɑʔ
@@ -1741,7 +1738,7 @@
 瀾	lɑn
 闌	lɑn
 欄	lɑn
-慫	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ sioŋᴮ
+慫	sioŋᴮ tsʰioŋᶜ tsʰoŋᶜ
 攬	lɑmᴮ
 嚂	lɑmᶜ
 郎	lɑŋ
@@ -1810,7 +1807,6 @@
 潸	ṣanᴮ ṣɛn ṣan
 蓮	len
 僆	lian lianᶜ
-廉	liam
 磏	liam
 鎌	liam
 芟	ṣam
@@ -1818,7 +1814,7 @@
 憐	len
 怜	leŋ
 荵	liŋ
-斂	liamᴮ liamᶜ liamᶜ
+斂	liamᴮ liamᶜ
 蘞	liamᴮ
 楝	lenᶜ
 湅	lenᶜ
@@ -1921,7 +1917,7 @@
 呂	liɑᴮ
 律	luit lut
 率	ṣuis ṣuit luit
-帥	ṣuis ṣuit luit ṣuis ṣus
+帥	ṣuit luit ṣuis ṣus
 慮	liɑ liɑᶜ
 勴	liɑᶜ
 繂	luit
@@ -1932,7 +1928,7 @@
 卵	luɑnᴮ lonᴮ
 亂	luɑnᶜ lonᶜ
 掠	liɑŋᶜ liɑk
-略	liɑŋᶜ liɑk liɑk
+略	liɑŋᶜ liɑk
 論	luən lun luənᶜ
 輪	lun
 綸	lun kuan
@@ -2029,7 +2025,7 @@
 密	mit
 蜜	mit
 冪	mek
-冥	mek meŋ meŋᴮ meŋ
+冥	mek meŋ meŋᴮ
 幭	met
 覓	mek
 瞑	men meŋ menᶜ
@@ -2197,7 +2193,7 @@
 披	pʰiai
 劈	pʰek
 皮	biɑi
-膍	bi bei bi
+膍	bei bi
 毘	bi
 毗	bi
 貔	bi
@@ -2423,7 +2419,7 @@
 蹂	ńu ńuᴮ ńuᶜ
 肉	ńuk ńuᶜ
 如	ńɑ ńɑᶜ
-茹	ńɑᴮ ńɑᶜ ńɑᶜ ńɑᴮ
+茹	ńɑᴮ ńɑᶜ
 臑	ńo
 孺	ńoᶜ
 濡	ńo
@@ -2577,7 +2573,6 @@
 是	dźeᴮ
 恃	dźəᴮ
 侍	dźəᶜ
-視	giᴮ giᶜ
 示	giᶜ
 指	kiᴮ
 誓	dźas
@@ -2811,7 +2806,6 @@
 涂	dɑ
 塗	dɑ
 徒	dɑ
-土	tʰɑᴮ
 吐	tʰɑᴮ tʰɑᶜ
 兔	tʰɑᶜ
 團	duɑn don
@@ -2842,11 +2836,10 @@
 頑	ŋuan
 宛	ʔyɑnᴮ
 婉	ʔyɑnᴮ ʔiɑp
-苑	ʔyɑnᴮ ʔiut ʔyɑnᴮ
+苑	ʔyɑnᴮ ʔiut
 碗	ʔuɑnᴮ
 腕	ʔuɑnᶜ
 萬	miɑnᶜ
-汪	ʔuɑŋ
 亡	muɑŋ
 忘	muɑŋ muɑŋᶜ
 罔	muɑŋᴮ
@@ -3045,7 +3038,7 @@
 寫	siaᴮ
 瀉	siaᶜ
 泄	siat jas
-洩	siat jas jas
+洩	siat jas
 紲	siat
 絏	siat
 鞢	siat
@@ -3250,7 +3243,7 @@
 役	wek
 邑	ʔip
 軼	jit det
-泆	jit jit det
+泆	jit det
 溢	jit
 勩	jas
 抴	jat jas
@@ -3332,9 +3325,8 @@
 酉	juᴮ
 庮	ju juᴮ
 又	wuᶜ
-右	wuᶜ wuᴮ wuᶜ
+右	wuᴮ wuᶜ
 佑	wuᶜ
-祐	wuᶜ
 宥	wuᶜ
 幼	ʔiuᶜ
 徭	ʔuᶜ
@@ -3352,7 +3344,7 @@
 餘	jɑ
 舁	jɑ
 譽	jɑ jɑᶜ
-俞	jo jo do
+俞	jo do
 揄	jo doᴮ
 愉	jo
 悅	jyat
@@ -3591,7 +3583,6 @@
 皺	tṣu
 縐	tṣuᶜ
 肘	ṭuᴮ
-祝	tśuk tśuᶜ
 晝	ṭuᶜ
 啄	tok ṭɔk ṭuᶜ toᶜ
 咮	ṭuᶜ toᶜ
@@ -4284,7 +4275,6 @@
 鄹	dzioᴮ dzioᶜ
 鄒	tṣuo dẓuoᶜ
 埆	gok
-𣧑	huoŋ
 鎔	joŋ
 蹤	tsʰioŋ tsioŋ
 了	leu leuᴮ
@@ -4292,7 +4282,6 @@
 㜰	śɑk
 崎	kʰɨai
 巇	hɨaiᶜ
-嵗	syas
 韻	wan
 箋	dzianᴮ tsian
 瘢	bɑn pɑn
@@ -4319,26 +4308,14 @@
 廎	kʰyeŋ
 㐬	liu
 祐	wuᶜ wuəᶜ
-祐	wuᶜ wuəᶜ
 節	tset
-節	tset
-虜	lɑᴮ
-虜	lɑᴮ
-神	źin
-神	źin
 者	tśaᴮ
 者	tśaᴮ
 祝	tśuk tśuᶜ
-祝	tśuk tśuᶜ
 廉	liam
-廉	liam
 視	giᴮ giᶜ
-視	giᴮ giᶜ
 福	puk
-福	puk
 祑	syit
-祥	ziɑŋ
-祥	ziɑŋ
 槐	ɣuɛi ɣuəi
 蹊	ge
 溘	kʰɑp kʰəp
@@ -4519,7 +4496,6 @@
 蠡	liai luɑi leiᴮ
 綫	sianᶜ
 鉅	gɨɑᴮ
-絕	dzyat
 溰	tsʰuəiᴮ
 怛	tɑt
 懃	gjən
