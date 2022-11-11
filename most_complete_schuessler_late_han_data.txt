@@ -2523,6 +2523,7 @@
 莘	ṣin
 詵	ṣin
 神	źin hioŋ
+神	źin hioŋ
 矧	śinᴮ
 哂	śinᴮ
 審	śimᴮ
@@ -3003,6 +3004,7 @@
 卿	hiɑŋᶜ hiɑŋ
 庠	ziɑŋ
 祥	ziɑŋ
+祥	ziɑŋ
 詳	ziɑŋ
 翔	ziaŋ
 徉	jaŋ
@@ -4307,13 +4309,21 @@
 讖	tsiam
 廎	kʰyeŋ
 㐬	liu
+祐	wuᶜ wuəᶜ
+祐	wuᶜ wuəᶜ
 祐	wuᶜ wuəᶜ
 節	tset
+節	tset
+節	tset
 者	tśaᴮ
 者	tśaᴮ
 祝	tśuk tśuᶜ
 廉	liam
+廉	liam
 視	giᴮ giᶜ
+視	giᴮ giᶜ
+視	giᴮ giᶜ
+視	giᴮ giᶜ
 福	puk
 福	puk
 福	puk
@@ -4546,3 +4556,7 @@
 瑋	wuiᴮ
 幤	tśʰɑŋᴮ
 庇	piᶜ
+猋	piɑu
+郊	kau
+矉	bin
+	
