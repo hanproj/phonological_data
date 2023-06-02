@@ -211,6 +211,7 @@
 病	biaŋᶜ
 波	pɑi
 缽	pɑt
+鉢	pɑt
 伯	pak
 帛	bak
 膊	pɑk pʰɑk
@@ -529,6 +530,7 @@
 丹	tɑn
 矸	tɑn-kɑn
 旃	tśan
+栴	tśan
 單	tɑn
 但	dɑnᴮ
 癉	tɑiᶜ tɑnᴮ
@@ -784,6 +786,7 @@
 忱	ṇap
 臬	ŋiat
 涅	net neit
+𣵀	net neit
 敜	nep
 哲	ṭɑt
 晢	tśas tśat
@@ -2768,6 +2771,7 @@
 恬	dem
 甜	dem
 填	dein den
+塡	dein den
 瑱	tʰeinᶜ tʰenᶜ
 舔	tʰemᴮ
 煔	tʰemᴮ tʰemᶜ
@@ -2881,6 +2885,7 @@
 胃	wus
 謂	wəs wəts
 鬱	ʔut
+欝	ʔut
 餧	ʔuiᶜ
 溫	ʔuən
 文	mun
@@ -3751,7 +3756,7 @@
 无	mua
 鵡	muaʔ
 儛	muɑʔ
-冉	ńamʔ
+冉	ńamʔ ńamᴮ
 禰	neʔ
 嶺	lieŋʔ
 貳	ńis ńih
@@ -4311,16 +4316,13 @@
 㐬	liu
 祐	wuᶜ wuəᶜ
 祐	wuᶜ wuəᶜ
-祐	wuᶜ wuəᶜ
 節	tset
 節	tset
 節	tset
 者	tśaᴮ
-者	tśaᴮ
 祝	tśuk tśuᶜ
 廉	liam
 廉	liam
-視	giᴮ giᶜ
 視	giᴮ giᶜ
 視	giᴮ giᶜ
 視	giᴮ giᶜ
@@ -4366,7 +4368,6 @@
 𥗺	lɑnᶜ
 骭	kɑn ganᶜ genᶜ
 髯	ńam ńamᶜ
-冉	ńamᴮ
 繳	tśɑk
 罳	sɨ siə
 郁	ʔuk ʔwək
@@ -4559,4 +4560,3 @@
 猋	piɑu
 郊	kau
 矉	bin
-	
